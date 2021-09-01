@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Nom",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Mot de passe",
+  "OPERATOR_TABLE_HEADER_NOTES": "Commentaires",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Aucun opérateur trouvé",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Aucun opérateur ne correspond à ce critère de recherche.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Aucun opérateur n’a été créé.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Créer un nouvel opérateur",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "Un nouvel opérateur a été créé.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Une erreur s’est produite lors de la création d’un opérateur.",
+  "OPERATOR_ACTIONS_DELETE": "Supprimer",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Supprimer l’opérateur {{name}}",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Êtes-vous sûr de vouloir supprimer l’opérateur {{name}}?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "L’opérateur {{name}} a été supprimé.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Une erreur s’est produite lors de la suppression de l’opérateur {{name}}.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Ouvrir la page de connexion opérateur",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Nom du compte",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Mot de passe",
+  "OPERATOR_CREATE_LABEL_NOTES": "Commentaires",
+  "OPERATOR_CREATE_MODAL_TITLE": "Créer un nouvel opérateur"
+}

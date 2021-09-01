@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BW [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Kanal",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Ime/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Zadnje videno",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Lokacija",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Proizvajalec",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Rogue",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Varnost",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Signal",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "Ni najdenih nobenih sosednjih dostopnih točk",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Nismo našli nobenih dostopnih točk.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "Nobena dostopna točka se ne ujema z iskalnim nizom.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Ta dostopna točka oddaja enak SSID kot dostopna točka(e) na vaši strani. To je lahko napad na vaše omrežje ali uporabnike, pri čemer napadalec poskuša oponašati vaš SSID, da bi se uporabniki namesto v omrežje povezali na njihovo napravo(e). Preverite ali ste varnostno ogroženi.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "Blizu {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Najbližje {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Vse",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Označi kot znano",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Izbriši kot znano",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Označi dostopno točko kot znano",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Želite označiti dostopno točko \"{{essid}}\" kot znano?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "Dostopna točka \"{{essid}}\" je bila označena kot znana.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "Prišlo je do napake med označevanjem \"{{essid}}\" kot znane.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "Dostopna točka \"{{essid}}\" je bila izbrisana.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "Prišlo je do napake med brisanjem dostopne točke \"{{essid}}\" iz seznama."
+}

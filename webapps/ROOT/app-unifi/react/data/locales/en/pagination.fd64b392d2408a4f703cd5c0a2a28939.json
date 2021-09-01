@@ -1,0 +1,4 @@
+{
+  "ROWS_PER_PAGE": "Rows per page:",
+  "PAGINATION": "{from}-{to} of {total} {section}"
+}

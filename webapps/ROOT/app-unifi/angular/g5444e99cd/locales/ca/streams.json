@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Desconnectar la transmissió",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "La transmissió {{streamId}} s'ha desconnectat correctament.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "S'ha produït un error mentre es desconnectava la transmissió {{streamId}}.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Transmissió",
+  "STREAMS_FILTER_ALL_STREAMS": "Tots",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "No s'ha trobat cap transmissió",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "No s'ha trobat cap transmissió amb aquest criteri de cerca.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Encara no s'han trobat transmissions.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Connectat",
+  "STREAMS_TABLE_HEADER_DEVICE": "Dispositiu",
+  "STREAMS_TABLE_HEADER_READY": "A punt",
+  "STREAMS_TABLE_HEADER_STREAMING": "Transmetent",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Transmissió",
+
+  "STREAMS_VIEW_ALL": "Tots"
+}

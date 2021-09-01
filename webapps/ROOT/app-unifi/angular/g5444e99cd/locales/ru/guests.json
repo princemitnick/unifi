@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Пакет",
+  "GUEST_TABLE_HEADER_AMOUNT": "Количество",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Авторизованно ",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Загрузка",
+  "GUEST_TABLE_HEADER_UPLOAD": "Отдача",
+  "GUEST_TABLE_HEADER_STATUS": "Состояние",
+  "GUEST_TABLE_HEADER_ACTIONS": "Действия",
+  "GUEST_TABLE_HEADER_NAME": "Имя",
+  "GUEST_TABLE_HEADER_NOTE": "Note",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "ID RADIUS Сессии",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "RADIUS Имя пользователя",
+  "GUEST_TABLE_HEADER_START": "Время начала",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Гости отсутствуют",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Нет гостей, соответствующих заданному условию.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "No guests have connected.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Отключить",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Гость отключен",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Произошла ошибка при отключении гостя.",
+  "GUEST_ACTIONS_EXTEND": "Расширить",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Доступ продлён",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Произошла ошибка при продлении доступа.",
+
+  "GUEST_STATUS_EXPIRED": "Срок действия истек {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Авторизованно, управляется Фэйсбуком",
+  "GUEST_STATUS_VALID_UNTIL": "Действителен до {{date}}"
+}

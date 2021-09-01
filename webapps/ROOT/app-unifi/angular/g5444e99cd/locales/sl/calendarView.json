@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Arhiv",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Arhiviraj vse",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Prikaži več",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Prikaži arhivirana sporočila",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "Tukaj trenutno ni sporočil ali obvestil.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "Tukaj trenutno ni dogodkov.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "Noben dogodek se ne ujema z iskalnim nizom.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "Število zadetkov je omejeno na {{currentLength}} od {{totalLength}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "Vse",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Napake",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "Splošno",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Opozorila",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Administrator",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "Vse",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Dogodek",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Čas",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} Dogodkov",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "{{count}} Več dogodkov\n "
+}

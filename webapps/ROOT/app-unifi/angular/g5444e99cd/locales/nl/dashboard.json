@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "WiFi Metriek",
+  "DASHBOARD_NAMES_UNDEFINED": "Dashboard",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Voeg widget toe",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Added",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "Er zijn geen modules beschikbaar op dit moment.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Beheer dashboards",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Close",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Dashboard",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Omschrijving",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Acties",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Er werden geen dashboards gevonden.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Open",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Wijzig",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Verwijder",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Inschrijven",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Uitschrijven",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Deel",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Zet delen uit",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Export",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Voeg een custom dashboard toe",
+  "DASHBOARD_FORM_TITLE_EDIT": "Wijzig dashboard informatie",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Bestandsnaam: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Bestandsnaam: Ongeldig of niet aanwezig </em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Dashboard naam",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Omschrijving",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Of importeer een dashboard bestand",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Verwijder upload",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Drag & Drop of",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Blader naar bestanden",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Er heeft zich een probleem voorgedaan met het aanmaken van het dashboard",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Ongeldig dashboard bestand. Alleen bestanden geëxporteerd van een UniFi controller kunnen hier geimporteerd worden.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Missend import bestand.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "Het geïmporteerde dashboard bevat geen widgets.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Dit dashboard is aangemaakt in versie {{dashboardControllerVersion}} van de UniFi Controller. deze controller gebruikt {{currentControllerVersion}}. Update naar een nieuwere versie van de controller om alle widgets in dit dashboard te gebruiken.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "Er heeft zich een probleem voorgedaan met het opslaan van het {{name}}  dashboard.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Niet mogelijk om  {{name}} dashboard op te slaan. Het is alleen-lezen.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "Er heeft zich een probleem voorgedaan met het  {{name}} dashboard.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Wijzig widgets",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Beheer dashboards",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Voeg een custom dashboard toe",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Done",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Customize dashboard"
+}

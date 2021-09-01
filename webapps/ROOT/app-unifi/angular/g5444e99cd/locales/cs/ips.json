@@ -1,0 +1,82 @@
+{
+  "IPS_SECURITY_ALERTS": "Security Alerts",
+  "IPS_THREAT_LEVEL": "Severity",
+  "IPS_THREAT_LEVEL_LOW": "Low",
+  "IPS_THREAT_LEVEL_MEDIUM": "Střední",
+  "IPS_THREAT_LEVEL_HIGH": "High",
+  "IPS_THREAT_LEVEL_UNKNOWN": "Neznámý",
+
+  "IPS_REAL_TIME_THREATS_HEADER": "Real-Time Threats",
+  "IPS_REAL_TIME_THREATS_VIEW_TRAFFIC_LOG_BUTTON": "View Traffic Log",
+
+  "IPS_TRAFFIC_LOG_SEVERITY_HEADER": "Severity",
+  "IPS_TRAFFIC_LOG_SOURCE_HEADER": "Zdroj",
+  "IPS_TRAFFIC_LOG_COUNTRY_HEADER": "Country or Territory",
+  "IPS_TRAFFIC_LOG_DESTINATION_HEADER": "Cíl",
+  "IPS_TRAFFIC_LOG_DESTINATION_COUNTRY_HEADER": "Destination Country or Territory",
+  "IPS_TRAFFIC_LOG_GROUP_HEADER": "Kategorie",
+  "IPS_TRAFFIC_LOG_LAST_RECORDED_HEADER": "Last Recorded Threat",
+  "IPS_TRAFFIC_LOG_TYPE_HEADER": "Classification",
+
+  "IPS_TRAFFIC_LOG_NO_RESULTS_HEADER": "No threats found",
+  "IPS_TRAFFIC_LOG_NO_RESULTS_DETAIL": "When a threat is detected on your network it will automatically show up in this list.",
+
+  "IPS_THREAT_DETAIL_HEADER": "Threat detail",
+  "IPS_THREAT_DETAIL_LABEL_GROUP": "Kategorie",
+  "IPS_THREAT_DETAIL_LABEL_TYPE": "Classification",
+  "IPS_THREAT_DETAIL_LABEL_SEVERITY": "Severity",
+  "IPS_THREAT_DETAIL_LABEL_THREAT_DATE_TIME": "Threat Date/Time",
+  "IPS_THREAT_DETAIL_LABEL_TRAFFIC_DETAIL": "Traffic Detail",
+  "IPS_THREAT_DETAIL_LABEL_TIME_SINCE_ATTACK": "Time Since Attack",
+  "IPS_THREAT_DETAIL_LABEL_SOURCE": "Zdroj",
+  "IPS_THREAT_DETAIL_LABEL_SOURCE_ASN": "Source ASN",
+  "IPS_THREAT_DETAIL_LABEL_COUNTRY": "Country or Territory",
+  "IPS_THREAT_DETAIL_LABEL_DESTINATION": "Cíl",
+  "IPS_THREAT_DETAIL_LABEL_INTERFACE": "Rozhraní",
+  "IPS_THREAT_DETAIL_LABEL_PROTOCOL": "Protokol",
+  "IPS_THREAT_DETAIL_LABEL_CLIENT": "Klient",
+
+  "IPS_THREAT_DETAIL_BUTTON_SUPPRESS_SIGNATURE": "Suppress Signature",
+  "IPS_THREAT_DETAIL_BUTTON_BLOCK_TRAFFIC": "Blokovat",
+  "IPS_THREAT_DETAIL_BUTTON_BLACKLIST": "Blacklist IP",
+  "IPS_THREAT_DETAIL_BUTTON_WHITELIST": "Whitelist IP",
+  "IPS_THREAT_DETAIL_SUCCESS_BLACKLIST_ATTACKER_IP": "IP {ipAddress} was blocked.",
+  "IPS_THREAT_DETAIL_ERROR_BLACKLIST_ATTACKER_IP": "There was an error blocking IP {ipAddress}.",
+  "IPS_THREAT_DETAIL_SUCCESS_BLOCK_TRAFFIC": "Traffic from {srcIp} to {dstIp} was blocked.",
+  "IPS_THREAT_DETAIL_ERROR_BLOCK_TRAFFIC": "There was an error blocking traffic from {srcIp} to {dstIp}.",
+
+  "IPS_TOP_GEO_LIST_HEADER_TITLE": "Top Threats By Geo",
+  "IPS_TOP_GEO_LIST_HEADER_ATTEMPTS": "Attempts",
+  "IPS_TOP_GEO_LIST_HEADER_SEVERITY": "Severity",
+  "IPS_TOP_GEO_LIST_HEADER_SOURCE": "Zdroj",
+  "IPS_TOP_GEO_LIST_NO_THREATS": "No threats found",
+
+  "IPS_TOP_TYPE_LIST_HEADER_TITLE": "Top Threats By Classification",
+  "IPS_TOP_TYPE_LIST_HEADER_ATTEMPTS": "Attempts",
+  "IPS_TOP_TYPE_LIST_HEADER_SEVERITY": "Severity",
+  "IPS_TOP_TYPE_LIST_NO_THREATS": "No threats found",
+
+  "IPS_TOP_SEVERITY_HEADER": "Top Threats By Severity",
+
+  "IPS_COUNTRY_FLAG_ATTACK_ATTEMPTS": "{count, plural, one {1 pokus} few {# pokusy} many {# pokusy} other {# pokusů}}",
+
+  "IPS_ALERTS_GRAPH_DATE_LABEL": "Datum",
+  "IPS_ALERTS_GRAPH_TIME_LABEL": "Čas",
+  "IPS_ALERTS_GRAPH_SEVERITY_LABEL": "Severity",
+  "IPS_ALERTS_GRAPH_THREATS_LABEL": "Threats",
+  "IPS_ALERTS_GRAPH_VIEW_DETAILS": "View Details",
+
+  "IPS_NAV_TRAFFIC_LOG_HEADER": "Traffic Log",
+  "IPS_NAV_OVERVIEW_HEADER": "Přehled",
+
+  "IPS_FILTER_PANEL_HEADER_FILTER": "Filter ({{count}})",
+
+  "IPS_FILTER_PANEL_LABEL_GROUP": "Kategorie",
+  "IPS_FILTER_PANEL_LABEL_TYPE": "Classification",
+  "IPS_FILTER_PANEL_LABEL_COUNTRY": "Country or Territory",
+  "IPS_FILTER_PANEL_LABEL_IP_ADDRESS": "IP adresa",
+  "IPS_FILTER_PANEL_LABEL_SEVERITY": "Severity",
+  "IPS_FILTER_PANEL_PLACEHOLDER_ALL": "Vše",
+
+  "IPS_TABLE_PAGINATION_ITEM": "{count, plural, one {threat} other {threats}}"
+}

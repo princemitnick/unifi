@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Svag signal",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Flytta din enhet närmare din närmaste UAP",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Låg PHY-hastighet",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Flytta din enhet närmare din närmaste UAP",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "Hög TCP-paketförlust",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Vänligen kontrollera din router, internetleverantörsanslutning eller webbtjänsten som klienten använder.",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Hög TCP-fördröjning",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Vänligen kontrollera din internetanslutning",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Hög TCP-fördröjning",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Vänligen använd en router som har en s.k. \"Traffic Shaping\" funktion aktiverad, till exempel Smart Queues på en UDM eller USG",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Hög TCP-fördröjning",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Vänligen aktivera Smart Queues på WAN-anslutningen under Inställningar",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "Högt antal WiFi-omständningar",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Överväg att flytta till en annan kanal",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Hög WiFI-fördröjning",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Överväg att flytta till en annan kanal",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "DHCP-timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Vänligen kontrollera att din DHCP-server är åtkomlig och korrekt uppsatt.",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "ARP-timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Vänligen kontrollera att din gateway är åtkomlig från denna enhet.",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "DNS-timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Vänligen kontrollera att din DNS-server är åtkomlig och korrekt uppsatt.",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "Hög WiFI-fördröjning",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Vänligen kontrollera att din DNS-server är åtkomlig och korrekt uppsatt."
+}

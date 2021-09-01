@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Stream beenden",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "Stream {{streamId}} wurde beendet.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Beim Beenden des Streams {{streamId}} ist ein Fehler aufgetreten.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Stream",
+  "STREAMS_FILTER_ALL_STREAMS": "Alle",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Keine Streams gefunden",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Keiner dieser Streams passt zu den Suchkriterien.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Es wurden keine Streams gefunden.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Verbunden",
+  "STREAMS_TABLE_HEADER_DEVICE": "Gerät",
+  "STREAMS_TABLE_HEADER_READY": "Bereit",
+  "STREAMS_TABLE_HEADER_STREAMING": "Streaming",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Stream",
+
+  "STREAMS_VIEW_ALL": "Alle"
+}

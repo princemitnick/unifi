@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Interfície",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "IP remota",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Usuari",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Paquets de baixada",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Paquets de pujada",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Bytes de baixada",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Bytes de pujada",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Temps d'activitat",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Accions",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Desconnectar",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "No s'ha trobat cap sessió activa",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "En aquest moment no hi ha cap sessió VPN remota activa.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "No s'ha trobat cap connexió VPN amb aquest criteri de cerca.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Confirma-ho",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Estàs segur que vols finalitzar aquesta connexió VPN remota ?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Sessió desconnectada",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "S'ha porduït un error mentre es desconnectava la sessió"
+}

@@ -1,0 +1,14 @@
+{
+  "DPI_APPS_TABLE_HEADER_NAME": "Appnavn",
+  "DPI_APPS_TABLE_HEADER_USER_COUNT": "Aktive brugere",
+  "DPI_APPS_TABLE_HEADER_UP": "Op",
+  "DPI_APPS_TABLE_HEADER_DOWN": "Ned",
+
+  "DPI_APPS_TABLE_UNKNOWN_APP": "Ukendt",
+
+  "DPI_APPS_TABLE_EMPTY_HEADER": "Ingen DPI data",
+  "DPI_APPS_TABLE_EMPTY_NO_DATA": "Ingen DPI data for valgte kategorier.",
+
+  "DPI_OVERVIEW_GRID_EMPTY_HEADER": "Ingen kategorier er valgt",
+  "DPI_OVERVIEW_GRID_EMPTY_NO_DATA": "Ingen DPI-kategorier er valgt"
+}

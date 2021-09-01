@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Paquete",
+  "GUEST_TABLE_HEADER_AMOUNT": "Cantidad",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Autorizado por",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Descarga",
+  "GUEST_TABLE_HEADER_UPLOAD": "Subir",
+  "GUEST_TABLE_HEADER_STATUS": "Estado",
+  "GUEST_TABLE_HEADER_ACTIONS": "Acciones",
+  "GUEST_TABLE_HEADER_NAME": "Nombre",
+  "GUEST_TABLE_HEADER_NOTE": "Anotación",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "ID de sessión RADIUS",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "Usuario RADIUS",
+  "GUEST_TABLE_HEADER_START": "Hora de inicio",
+
+  "GUEST_TABLE_EMPTY_HEADER": "No se han encontrado invitados",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "No hay invitados que coincidan con el criterio de búsqueda.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "No se ha conectado ningún invitado.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Desconectar",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "El invitado ha sido desconectado",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Se ha producido un error al desconectar el invitado",
+  "GUEST_ACTIONS_EXTEND": "Extender",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "El acceso ha sido extendido",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Se ha producido un error al ampliar el acceso.",
+
+  "GUEST_STATUS_EXPIRED": "Caducó el {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Autorizado, administrado por Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Válido hasta {{date}}"
+}

@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Gestionnaire de Hotspot",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Nom d’utilisateur",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Mot de passe",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Se souvenir de moi",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Se connecter",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "Login SSO",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Mot de passe oublié?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Étendre le timeout de session à 7 jours.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Insérez for jeton 2FA",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "Token à 6 chiffres",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Connexion annulée",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Erreur d’authentification",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Erreur d’authentification.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Nom d’utilisateur et / ou mot de passe incorrect.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Jeton 2FA invalide",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Réinitialiser erreur de mot passe",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "La vérification du compte a échouée",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Si vous avez déjà un nom d’utilisateur et un mot de passe, vous pouvez",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "Connectez-vous ici.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "Connexion SSO...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Veuillez entrer votre adresse e-mail pour réinitialiser votre mot de passe",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Réinitialiser mot passe",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Retour",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Un email vous a été envoyé pour mettre à jour votre mot de passe.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Erreur de mise à jour de votre mot de passe",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Un compte pour tous les services et applications Ubiquiti.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Pas de compte?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "S’enregistrer ici"
+}

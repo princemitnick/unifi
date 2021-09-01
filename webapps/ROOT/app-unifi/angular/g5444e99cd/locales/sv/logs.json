@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "Inga nya logmeddelanden ännu.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Väntar på logmeddelanden från kontroller...",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Ladda ned loggar",
+  "LOGS_MESSAGES_FETCH_MORE": "Hämta fler loggar",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "Logg-filen har laddats ned",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "Inga fler loggar",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Loggar hämtade"
+}

@@ -1,0 +1,11 @@
+{
+  "CLIENT_PROPERTIES_LABEL_UP_PKTS_BYTES": "Opp pakker/bytes",
+  "CLIENT_PROPERTIES_LABEL_DOWN_PKTS_BYTES": "Ned pakker/bytes",
+  "DPI_USERS_TABLE_HEADER_NAME": "Klientnavn",
+  "DPI_USERS_TABLE_HEADER_CATEGORIES": "Kategorier",
+  "DPI_USERS_TABLE_HEADER_UP": "Opp",
+  "DPI_USERS_TABLE_HEADER_DOWN": "Ned",
+
+  "DPI_USERS_TABLE_EMPTY_HEADER": "Ingen DPI-data",
+  "DPI_USERS_TABLE_EMPTY_NO_DATA": "Ingen DPI-data for valgte kategorier."
+}

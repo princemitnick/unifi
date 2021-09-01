@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Hotspot Yöneticisi",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Kullanıcı adı",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Şifre",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Beni hatırla",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Oturum aç",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "SSO Giriş",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Şifrenizi unuttunuz mu?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Oturum zaman aşımını 7 güne uzat.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "2AD Anahtarınızı Girin",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6 Basamaklı Anahtar",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Giriş iptal edildi",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Kimlik doğrulama hatası",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Sisteme giriş hatası",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Hatalı kullanıcı adı ve şifre.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "hatalı 2AD Anahar",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "şifre sıfırlama hatası",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Hesap doğrulanamadı",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Zaten bir Kullanıcı adı ve şifreniz varsa",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "Giriş yapın.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "SSO Girişi...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Şifrenizi sıfırlamak için lütfen E-posta adresinizi girin",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Şifreyi sıfırla",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Geri",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Şifre sıfırlama E-postanız gönderildi.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Şifreniz sıfırlanırken bir hata meydana geldi.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Tüm Ubiquiti uygulama ve servisleri için tek hesap.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Hesabınız yok mu?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Kaydolun"
+}

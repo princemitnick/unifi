@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Hotspot-Verwaltung",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Benutzername",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Passwort",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Angemeldet bleiben",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Anmelden",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "SSO Anmeldung",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Passwort vergessen?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Sitzungszeit auf 7 Tage verlängern.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "2FA Token einfügen",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6-stelliger Token",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Anmeldung abgebrochen",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Authentifizierungs-Fehler ",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Fehler bei Anmeldung",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Benutzername oder Passwort ungültig.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "2FA Token ungültig",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Beim Zurücksetzen des Passwortes ist ein Fehler aufgetreten",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Kontoverifizierung fehlgeschlagen",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Wenn Sie bereits Benutzername und Passwort haben, können Sie sich",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "hier anmelden.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "SSO Anmeldung ...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Bitte geben Sie Ihre E-Mail Adresse ein, um das Passwort zurückzusetzen.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Passwort zurücksetzen",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Zurück",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Eine E-Mail zum Zurücksetzen des Passwortes wurde verschickt.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Beim Zurücksetzen Ihres Passwortes ist ein Fehler aufgetreten.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Ein Konto für alle Ubiquiti Anwendungen und Dienste",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Kein Konto?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Hier registrieren"
+}

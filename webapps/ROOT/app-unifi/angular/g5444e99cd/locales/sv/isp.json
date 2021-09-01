@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "Bandbredd",
+  "ISP_MODAL_1_HOUR": "1 timme",
+  "ISP_MODAL_24_HOURS": "24 timmar",
+  "ISP_MODAL_7_DAYS": "7 dagar",
+  "ISP_MODAL_30_DAYS": "30 dagar",
+
+  "ISP_MODAL_SUMMARY_HEADER": "Sammanfattning",
+  "ISP_MODAL_THROUGHPUT_HEADER": "Upp-/nedladdningshistorik",
+  "ISP_MODAL_LATENCY_HEADER": "Fördröjningshistorik",
+
+  "ISP_MODAL_UPLOAD_LABEL": "Uppladdning",
+  "ISP_MODAL_DOWNLOAD_LABEL": "Nedladdning",
+  "ISP_MODAL_LATENCY_LABEL": "Fördröjning",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "Nätverkssammanfattning",
+  "ISP_MODAL_TOP_PROCESS": "Top processer",
+  "ISP_MODAL_DOWN": "Ned",
+  "ISP_MODAL_UP": "Upp"
+}

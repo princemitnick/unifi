@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "吞吐量",
+  "ISP_MODAL_1_HOUR": "1 小時",
+  "ISP_MODAL_24_HOURS": "24 小時",
+  "ISP_MODAL_7_DAYS": "7 天",
+  "ISP_MODAL_30_DAYS": "30 天",
+
+  "ISP_MODAL_SUMMARY_HEADER": "摘要",
+  "ISP_MODAL_THROUGHPUT_HEADER": "上傳/下載歷史記錄",
+  "ISP_MODAL_LATENCY_HEADER": "延遲歷史",
+
+  "ISP_MODAL_UPLOAD_LABEL": "上傳",
+  "ISP_MODAL_DOWNLOAD_LABEL": "下載",
+  "ISP_MODAL_LATENCY_LABEL": "延遲",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "網路摘要",
+  "ISP_MODAL_TOP_PROCESS": "程序排行",
+  "ISP_MODAL_DOWN": "下載",
+  "ISP_MODAL_UP": "上傳"
+}

@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Upraviť obmedzenia skupiny",
+  "DPI_RESTRICTION_HEADER_ADD": "Pridať obmedzenie ku skupine",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Pridať kategóriu obmedzenia",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Vytvoriť novú skupinu obmedzenia",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Pridať obmedzenie",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Skupina",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Kategória",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Aplikácia",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Kategórie obmedzení",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Obmedzené aplikácie",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Povolené",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Blokovať",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Obmedziť preberanie",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Obmedziť odosielanie",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Logovať prevádzku",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Zapnúť logovanie prevádzky odpovedajúcej tomuto obmedzeniu",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Zapnúť toto obmedzenie",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Blokovať celú odpovedajúcu prevádzku",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Vybrať skupinu",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Vybrať kategóriu",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "Všetky aplikácie",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "Odstrániť DPI obmedzenie",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Naozaj chcete odstrániť DPI obmedzenie?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "DPI obmedzenie bolo odstránené",
+  "DPI_RESTRICTION_DELETE_ERROR": "Pri odstraňovaní DPI obmedzenia sa vyskytla chyba.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "DPI obmedzenie bolo uložené.",
+  "DPI_RESTRICTION_SAVE_ERROR": "Pri ukladaní DPI obmedzenia sa vyskytla chyba.",
+
+  "DPI_RESTRICTION_GROUP": "Skupiny obmedzenia",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Vytvoriť skupinu obmedzenia",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Upraviť skupinu obmedzenia",
+  "DPI_RESTRICTION_GROUP_NAME": "Názov skupiny",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "Skupina DPI obmedzenia bola uložená.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "Pri ukladaní skupiny DPI obmedzenia sa vyskytla chyba.",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Odstániť skupinu DPI obmedzenia",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Naozaj chcete odstrániť skupinu DPI obmedzenia \"{groupName}\"?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction. Do you want to delete the group and its contents?} other {The DPI restriction group \"{groupName}\" has # restrictions. Do you want to delete the group and its contents?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 assignment. Do you want to delete the group and its assignments?} other {The DPI restriction group \"{groupName}\" has # assignments. Do you want to delete the group and its assignments?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?} other {The DPI restriction group \"{groupName}\" has # restrictions and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "The DPI restriction group was deleted.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "There was an error deleting DPI restriction group.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Category/App",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Povolené",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Blokovaný",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Logovať prevádzku",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Obmedziť odosielanie",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Obmedziť preberanie",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Akcie",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Unlimited",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "No restrictions have been added to this group.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Siete",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Bezdrôtové siete",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Assign restrictions to network",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Assign DPI restrictions to network",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Sieť",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Select network",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Vybrať skupinu",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "All available networks have been assigned restrictions already.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "The DPI restriction was succesfully assigned.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "There was an error assigning DPI restriction.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Remove network group assignment?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Do you really want to remove DPI restriction group network assignment?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "The DPI restriction group network assignment was removed.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Error during DPI restriction network assignment removal.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Wireless Network",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Sieť",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": " No DPI restrictions have been assigned to the wireless networks.",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": " No DPI restrictions have been assigned to the networks."
+}

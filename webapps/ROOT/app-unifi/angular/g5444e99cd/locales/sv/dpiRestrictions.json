@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Redigera gruppbegränsningar",
+  "DPI_RESTRICTION_HEADER_ADD": "Lägg till restriktion till grupp",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Lägg till begränsningskategori",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Skapa ny begränsningsgrupp",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Lägg till begränsning",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Grupp",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Kategori",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Applikation",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Begränsade kategorier",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Begränsade applikationer",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Aktiverad",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Blockera",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Gräns ned",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Gräns upp",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Trafikloggning",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Aktivera trafikloggning som matchar denna begränsning",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Aktivera denna restriktion",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Blockera all matchande trafik",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Välj grupp",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Välj kategori",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "Alla applikationer",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "Ta bort DPI-restriktioner",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Är du säker på att du vill ta bort DPI-restriktioner?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "DPI-restriktioner togs bort.",
+  "DPI_RESTRICTION_DELETE_ERROR": "Det uppstod ett fel när DPI-restriktioner skulle tas bort.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "DPI-restriktionerna sparades.",
+  "DPI_RESTRICTION_SAVE_ERROR": "Det uppstod ett fel när DPI-begränsningen skulle sparas.",
+
+  "DPI_RESTRICTION_GROUP": "Begränsningsgrupp",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Skapa begränsningsgrupp",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Ändra begränsningsgrupp",
+  "DPI_RESTRICTION_GROUP_NAME": "Gruppnamn",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "DPI-restriktionsgruppen sparades.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "Det uppstod ett fel när DPI-restriktionsgruppen skulle sparas.",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Ta bort DPI-restriktionsgrupp",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Är du säker på att du vill ta bort DPI-restriktionsgruppen \"{{groupName}}\"?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {DPI-begränsningsgruppen \"{groupName}\" har 1 begränsning. Vill du radera gruppen och dess innehåll?} other {DPI-begränsningsgruppen \"{groupName}\" har # begränsningar. Vill du radera gruppen och dess innehåll?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {DPI-begränsningsgruppen \"{groupName}\" har 1 tilldelning. Vill du radera gruppen och dess tilldelningar?} other {DPI-begränsningsgruppen \"{groupName}\" har # tilldelningar. Vill du radera gruppen och dess tilldelningar?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {DPI-begränsningsgruppen \"{groupName}\" har 1 begränsning samt {assignmentsNumber, plural, one{1 tilldelning} other{# tilldelningar}}. Vill du radera gruppen och dess tilldelningar?} other {DPI-begränsningsgruppen \"{groupName}\" har # begränsningar samt {assignmentsNumber, plural, one{1 tilldelning} other{# tilldelningar}}. Vill du radera gruppen och dess tilldelningar?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "DPI-restriktionsgruppen togs bort.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "Det uppstod ett fel när DPI-restriktionsgruppen skulle tas bort.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Kategori/App",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Aktiverad",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Blockerad",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Trafikloggning",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Begränsa Upp",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Begränsa Ner",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Åtgärder",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Obegränsat",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "Inga begränsningar har lagts till denna grupp.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Nätverk",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Trådlösa nätverk",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Tilldela begränsningar till nätverk",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Tilldela DPI-begränsning till nätverket",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Nätverk",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Välj nätverk",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Välj grupp",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "Alla tillgängliga nätverk har redan tilldelats begränsningar.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "DPI-begränsning tilldelades.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "Det uppstod ett fel vid DPI-begränsningstilldeningen.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Ta bort tilldelningen av nätverkgrupp?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Är du säker att du vill ta bort tilldelningen av nätverksgruppens DPI-restriktion?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "Tilldelningen av DPI-restriktionens nätverksgrupp togs bort.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Fel vid borttagning av tilldelade DPI-restriktioner för nätverksgruppen.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Trådlöst nätverk",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Nätverk",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": " Inga DPI-begränsningar har tilldelats till de trådlösa nätverken.",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": " Inga DPI-begränsningar har tilldelats till nätverken."
+}

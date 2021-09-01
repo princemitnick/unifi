@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "Метрики WiFi",
+  "DASHBOARD_NAMES_UNDEFINED": "Інформаційна панель",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Додати елемент",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Додано",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "Наразі немає жодного модуля.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Керування інформаційними панелями",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Закрити",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Інформаційна панель",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Опис",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Дії",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Не знайдено жодної інформаційної панелі.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Відкрити",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Редагувати",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Видалити",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Subscribe",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Unsubscribe",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Share",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Unshare",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Експортувати",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Додати власну інформаційну панель",
+  "DASHBOARD_FORM_TITLE_EDIT": "Редагувати інформацію про панель",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Ім'я файлу: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Ім'я файлу: <em>Помилковий або відсутній </em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Назва інформаційної панелі",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Опис",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Або імпортувати файл інформаційної панелі",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Очистити завантаження",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Drag & Drop або",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Переглянути файли",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "При створенні інформаційної панелі відбулася помилка.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Недійсний файл інформаційної панелі. Сюди можна імпортувати лише файли експортовані з UniFi Controller.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Відсутній файл імпорту.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "Імпортована інформаційна панель не має жодного елемента.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Цю панель було створено для UniFi Controller версії {{dashboardControllerVersion}} . Ця система має версію {{currentControllerVersion}}. Будь-ласка оновіть систему до старшої версії щоб мати змогу задіяти всі елемети цієї інформаційної панелі.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "При збереженні інформаційної панелі {{name}} відбулася помилка.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Неможливо зберегти інформаційну панель {{name}}. Вона тільки для читання.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "При видаленні інформаційної панелі {{name}} відбулася помилка.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Редагувати елементи",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Керування інформаційними панелями",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Додати власну інформаційну панель",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Готово",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Налаштувати інформаційну панель"
+}

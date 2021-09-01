@@ -1,0 +1,19 @@
+{
+  "DASHBOARD_FILTER_DEFINITIONS_DEVICES_UAP": "disaring oleh akses poin",
+
+  "DASHBOARD_FILTER_DEVICES_TITLE_LABEL": "saring:",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE": "{count, plural, one {# Device} other {# Devices}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_TOP": "Top {count, plural, one{# Device} other{# Devices}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_ALL": "semua alat",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE": "{count, plural, one {# Access Point} other {# Access Points}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_TOP": "Top {count, plural, one{# Access Point} other{# Access Points}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_ALL": "semua akses poin",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE": "{count, plural, one {# Switch} other {# Switches}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_TOP": "Top {count, plural, one{# Switch} other{# Switches}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_ALL": "semua switces",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_SELECT_ALL": "semua alat",
+  "DASHBOARD_FILTER_DEVICES_UAP_SELECT_ALL": "semua akses poin",
+  "DASHBOARD_FILTER_DEVICES_USW_SELECT_ALL": "semua switces"
+}

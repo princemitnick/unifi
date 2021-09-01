@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Hotspot მენეჯერი",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "მომხმარებელი",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "პაროლი",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Დამიმახსოვრე",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "შესვლა",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "SSO-ს მეშვეობით შესვლა",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "დაგავიწყდათ პაროლი?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "გააგრძელეთ სესიის დრო 7 დღემდე.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "ჩასვით თქვენი 2FA ტოკენი",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6 ნიშნა ტოკენი",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "ლოგინი გაუქმდა",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "ავტორიზაციის შეცდომა",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "შესვლის შეცდომა",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "არასწორი მომხმარებლი/ ან პაროლი.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "არასწორი 2FA ტოკენი",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "პაროლის აღდგენის შეცდომა",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "ანგარიშის გადამოწმება ვერ მოხერხდა",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "თუ თქვენ უკვე გაქვთ მომხმარებლი და პაროლი თქვენ შეგიძლიათ",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "შედით აქ.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "SSO-ს მეშვეობით შესვლა",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "გთხოვთ, შეიყვანოთ თქვენი ელ.ფოსტის მისამართი, თქვენი პაროლის აღდგენისათვის",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "პაროლის აღდგენა",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "უკან",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "თქვენი პაროლის აღსადგენად გამოგეგზავნათ ელექტრონული წერილი.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "თქვენი პაროლის აღდგენისას მოხდა შეცდომა.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "ერთი ანგარიში Ubiquiti-ის ყველა აპლიკაციისა და მომსახურებისთვის.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "არ გაქვთ ანგარიში?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "აქ დარეგისტრირდით"
+}

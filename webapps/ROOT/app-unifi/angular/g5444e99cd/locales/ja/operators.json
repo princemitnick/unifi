@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "名前",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "パスワード",
+  "OPERATOR_TABLE_HEADER_NOTES": "メモ",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "オペレーターが見つかりません",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "この検索条件に合致するオペレーターはいません。",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "オペレーターが作成されていません。",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "新規オペレーターを作成",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "新規オペレーターが作成されました。",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "オペレーターの作成中にエラーが発生しました。",
+  "OPERATOR_ACTIONS_DELETE": "削除",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "オペレーター {{name}}を削除",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "オペレーター {{name}}を削除してよろしいですか？",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "オペレーター {{name}}は削除されました。",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "オペレーター {{name}}の削除中にエラーが発生しました。",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "オペレーターログインを開く",
+
+  "OPERATOR_CREATE_LABEL_NAME": "アカウント名",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "パスワード",
+  "OPERATOR_CREATE_LABEL_NOTES": "メモ",
+  "OPERATOR_CREATE_MODAL_TITLE": "新規オペレーターを作成"
+}

@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "Activitat",
+  "ISP_MODAL_1_HOUR": "1 hora",
+  "ISP_MODAL_24_HOURS": "24 hores",
+  "ISP_MODAL_7_DAYS": "7 dies",
+  "ISP_MODAL_30_DAYS": "30 dies",
+
+  "ISP_MODAL_SUMMARY_HEADER": "Resum",
+  "ISP_MODAL_THROUGHPUT_HEADER": "Historial de Pujades/Baixades",
+  "ISP_MODAL_LATENCY_HEADER": "Historial de latències",
+
+  "ISP_MODAL_UPLOAD_LABEL": "Volum pujat",
+  "ISP_MODAL_DOWNLOAD_LABEL": "Volum baixat",
+  "ISP_MODAL_LATENCY_LABEL": "Latència",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "Xarxa",
+  "ISP_MODAL_TOP_PROCESS": "Principals processos",
+  "ISP_MODAL_DOWN": "Volum Baixat",
+  "ISP_MODAL_UP": "Volum Pujat"
+}

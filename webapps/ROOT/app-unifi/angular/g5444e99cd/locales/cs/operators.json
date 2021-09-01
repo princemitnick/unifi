@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Jméno",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Heslo",
+  "OPERATOR_TABLE_HEADER_NOTES": "Poznámky",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Nenalezen žádný operátor",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Žádný operátor neodpovídá hledaným kritériím.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Nebyl vytvořen žádný operátor.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Vytvořit nového operátora",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "Nový operátor byl vytvořen.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Při vytváření operátora došlo k chybě.",
+  "OPERATOR_ACTIONS_DELETE": "Odstranit",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Odstranit operátora {{name}}?",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Opravdu chcete odebrat operátora {{name}}?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "Operátor {{name}} byl odebrán.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Při odebírání operátora {{name}} došlo k chybě.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Přejít na přihlášení operátora",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Název účtu",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Heslo",
+  "OPERATOR_CREATE_LABEL_NOTES": "Poznámky",
+  "OPERATOR_CREATE_MODAL_TITLE": "Vytvořit nového operátora"
+}

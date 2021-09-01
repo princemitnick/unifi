@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "Aucun nouveau message log.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Attente des logs du contrôleur...",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Télécharger les logs.",
+  "LOGS_MESSAGES_FETCH_MORE": "Charger d’avantage de logs",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "Fichier de logs téléchargé avec succès",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "Pas de logs supplémentaires",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Logs reçus"
+}

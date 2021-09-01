@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Interface",
+  "ROUTING_TABLE_HEADER_METRIC": "Metrisch",
+  "ROUTING_TABLE_HEADER_PREFIX": "Voorvoegsel",
+  "ROUTING_TABLE_HEADER_TYPE": "Type",
+  "ROUTING_TABLE_HEADER_VIA": "Via",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Geen routes opgehaald.",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Als een route wordt toegevoegd aan uw netwerk dan zal het automatisch verschijnen in de lijst.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Er voldoen geen routes aan uw zoek criteria."
+}

@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Manajer Hotspot",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Nama pengguna",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Sandi",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "ingat saya",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Tandatangan",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "SSO login",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Lupa password?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "batas waktu diperpanjang selama 7 hari",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "masukkan 2FA token",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6 digit token",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "log dibatalkan",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Otentikasi salah",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Galat login",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Tidak valid username dan/atau password.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "2FA token salah",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Reset password kesalahan",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Verifikasi akun gagal",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Jika Anda sudah memiliki username dan password Anda dapat",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "login di sini.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "SSO login...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Harap masukkan alamat email Anda untuk mereset password Anda",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Membuat ulang sandi",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Kembali",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Email telah dikirim memulihkan sandi Anda.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Ada kesalahan memulihkan sandi Anda.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Satu account untuk semua Ubiquiti apps dan layanan.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "No akun?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Mendaftar di sini"
+}

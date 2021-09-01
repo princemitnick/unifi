@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "Henüz yeni günlük mesajı yok.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Kontrol cihazından günlükler bekleniyor ...",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Günlükleri indir",
+  "LOGS_MESSAGES_FETCH_MORE": "Daha fazla günlük çek",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "Günlük dosyası başarı ile indirildi",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "Günlük yok",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Günlükler çekildi"
+}

@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Vmesnik",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "IP za oddaljen dostop",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Uporabnik",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Down pkts",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Up pkts",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Nižji bajti",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Visoki bajti",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Delovanje",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Možnosti",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Prenehaj",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "Trenutno ni nobenih sej",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "Trenutno ni nobenih VPN aktivnih sej.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "Nobena VPN seja se ne ujema z iskalnim nizom.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Prosimo potrdite",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Ste prepričani, da želite povezavo oz. sejo VPN prekiniti?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Povezava prekinjena",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Prišlo je do napake"
+}

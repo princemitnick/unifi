@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Foto",
+  "CLIENT_TABLE_HEADER_ICON": "Icoon",
+  "CLIENT_TABLE_HEADER_NAME": "Naam",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Hostnaam",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "MAC Adres",
+  "CLIENT_TABLE_HEADER_IP": "IP Adres",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "802.1X Identiteit",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Status",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Gebruikersgroep",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Verbinding",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Netwerk",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Poort",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Poort",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Kanaal",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "Wi-Fi verbinding",
+  "CLIENT_TABLE_HEADER_FT": "Snelle roaming",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Signaal",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "Lan verkeer inkomend",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "Lan verkeer uitgaand",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Activiteit down",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Activiteit up",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Tx Snelheid",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Rx snelheid",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Activiteit",
+  "CLIENT_TABLE_HEADER_UPTIME": "Uptime",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Product",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Fabrikant",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Type apparaat",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Apparaat OS",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Ervaring",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "WiFi ervaring",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Bekabelde ervaring",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Acties",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Snelle BSS Transitie",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Client netwerkactiviteit van de laatste 5 minuten",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {client} other {clients}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Geen clients gevonden",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "Als een bekende client gedetecteerd wordt op uw network zal deze automatisch opgenomen worden in deze lijst.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Er zijn geen clients gevonden binnen uw zoekcriteria.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Actief",
+  "CLIENT_ACTIVE_FILTER_ALL": "Alle",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Actief",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Verbinding",
+  "CLIENT_WIRED_FILTER_ALL": "Alle",
+  "CLIENT_WIRED_FILTER_FALSE": "Draadloos",
+  "CLIENT_WIRED_FILTER_TRUE": "Bedraad",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Client type",
+  "CLIENT_GUEST_FILTER_ALL": "Alle",
+  "CLIENT_GUEST_FILTER_FALSE": "Gebruikers",
+  "CLIENT_GUEST_FILTER_TRUE": "Gasten",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Zender type",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Alle",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Netwerk",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Geautoriseerd",
+  "CLIENT_TABLE_STATUS_PENDING": "In afwachting",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Alle geconfigureerde clients",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Voeg Client toe",
+
+  "CLIENT_ADD_TITLE": "Voeg client toe",
+  "CLIENT_ADD_EDIT_TITLE": "Wijzig client",
+  "CLIENT_ADD_LIST_TITLE": "Client met niet doorgevoerde wijzigingen",
+
+  "CLIENT_ADD_LABEL_MAC": "MAC Adres",
+  "CLIENT_ADD_LABEL_ALIAS": "Alias",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Gebruikersgroep",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Vast IP",
+  "CLIENT_ADD_LABEL_NETWORK": "Netwerk",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "IP Adres",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "Dit IP adres is reeds in gebruik.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "Dit Mac adres is geen toegevoegd.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Het MAC adres is reeds in gebruik.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Kan geen multicast MAC adres toevoegen.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Kan geen broadcast MAC adres toevoegen.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Voeg client toe",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "MAC adres",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Alias",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Gebruikersgroep",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Netwerk",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "IP adres",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Gooi 1 client weg} other {Gooi # clients weg}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Weet je zeker dat je 1 client weg wil gooien die reeds aan de lijst zijn toegevoegd?} other {Weet je zeker dat je # clients weg wil gooien die reeds aan de lijst zijn toegevoegd?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Standaard",
+  "CLIENT_COLUMNS_PRESET_ALL": "Alle kolommen"
+}

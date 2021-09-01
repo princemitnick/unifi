@@ -1,0 +1,52 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "Vrácení platby",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Vrátit platbu",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Skutečně chcete provést vrácení platby?",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "Platba byla vrácena.",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "Při vracení platby došlo k chybě.",
+
+  "PAYMENT_ACTIONS_REMOVE": "Odebrat",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_TITLE": "Remove payment",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_MESSAGE": "Are you sure you want to remove payment?",
+  "PAYMENT_ACTIONS_REMOVE_SUCCESS": "The payment has been removed.",
+  "PAYMENT_ACTIONS_REMOVE_ERROR": "There was an error removing the payment.",
+
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA": "Remove Personal Data",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_TITLE": "Remove Personal data",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_MESSAGE": "Are you sure you want to remove personal data from this payment?",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_SUCCESS": "The personal data has been removed from payment.",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_ERROR": "There was an error removing the personal data.",
+
+  "PAYMENT_STATUS_AUTHORIZED": "Autorizováno",
+  "PAYMENT_STATUS_PAID": "Uhrazena",
+  "PAYMENT_STATUS_VOID": "Anulováno/Vráceno",
+
+  "PAYMENT_GATEWAY_AUTHORIZE": "Authorize.net",
+  "PAYMENT_GATEWAY_FACEBOOK": "Facebook",
+  "PAYMENT_GATEWAY_FREE": "Zkušební období zdarma",
+  "PAYMENT_GATEWAY_GOOGLE": "Google",
+  "PAYMENT_GATEWAY_IPPAY": "IPpay",
+  "PAYMENT_GATEWAY_MERCHANTWARRIOR": "Merchant Warrior",
+  "PAYMENT_GATEWAY_PAYPAL": "PayPal",
+  "PAYMENT_GATEWAY_QUICKPAY": "Quickpay",
+  "PAYMENT_GATEWAY_STRIPE": "Stripe",
+
+  "PAYMENT_FILTER_TRANSACTION_TYPE": "Druh transakce",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_ALL": "Vše",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_PAYMENTS": "Platby",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_SOCIAL": "Sociální síť",
+
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Částka",
+  "PAYMENT_TABLE_HEADER_EMAIL": "E-mail",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Další informace",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "Jméno",
+  "PAYMENT_TABLE_HEADER_GATEWAY": "Brána",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Příjmení",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Balíček",
+  "PAYMENT_TABLE_HEADER_STATUS": "Stav",
+  "PAYMENT_TABLE_HEADER_TIME": "Čas",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "Nenalezeny žádné transakce",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "Žádná transakce neodpovídá hledaným znakům.",
+  "PAYMENT_TABLE_EMPTY_NO_TRANSACTIONS": "Nenalezeny žádná zpracované transakce."
+}

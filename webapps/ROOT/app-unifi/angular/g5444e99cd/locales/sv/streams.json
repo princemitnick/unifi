@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Avsluta strömmen",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "Strömmen {{streamId}} har avslutats.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Det uppstod ett fel vid avslutningen av strömmen {{streamId}}.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Ström",
+  "STREAMS_FILTER_ALL_STREAMS": "Alla",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Inga strömmar funna",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Inga strömmar matchade sökkriteriet.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Inga strömmar har identifierats än.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Ansluten",
+  "STREAMS_TABLE_HEADER_DEVICE": "Enhet",
+  "STREAMS_TABLE_HEADER_READY": "Klar",
+  "STREAMS_TABLE_HEADER_STREAMING": "Strömning",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Ström",
+
+  "STREAMS_VIEW_ALL": "Alla"
+}

@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Paket",
+  "GUEST_TABLE_HEADER_AMOUNT": "Znesek",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Avtorizirano od",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Prenos",
+  "GUEST_TABLE_HEADER_UPLOAD": "Nalaganje",
+  "GUEST_TABLE_HEADER_STATUS": "Stanje",
+  "GUEST_TABLE_HEADER_ACTIONS": "Možnosti",
+  "GUEST_TABLE_HEADER_NAME": "Ime",
+  "GUEST_TABLE_HEADER_NOTE": "Opomba",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "RADIUS ID seje",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "RADIUS uporabniško ime",
+  "GUEST_TABLE_HEADER_START": "Začetni čas",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Ni gostov",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Noben gost se ne ujema z iskalnim nizom.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "Ni nobenih povezanih gostov.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Nepovezano",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Gost je bil prekinjen",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Prišlo je do napake.",
+  "GUEST_ACTIONS_EXTEND": "Podaljšaj",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Dostop je bil razširjen",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Prišlo je do napake med razširjanjem dostopa.",
+
+  "GUEST_STATUS_EXPIRED": "Poteče dne {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Avtorizirano od Facebook-a",
+  "GUEST_STATUS_VALID_UNTIL": "Veljavno do {{date}}"
+}

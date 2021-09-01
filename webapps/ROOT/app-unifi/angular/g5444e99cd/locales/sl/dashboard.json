@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "WiFi meritve",
+  "DASHBOARD_NAMES_UNDEFINED": "Nadzorna plošča",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Dodaj gradnik",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Dodano",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "Trenutno ni na voljo nobenih modulov.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Upravljanje nadzorne plošče",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Zapri",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Nadzorna plošča",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Opis",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Možnosti",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Na voljo ni nobene nadzorne plošče.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Odpri",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Uredi",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Izbriši",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Naročanje",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Odjavljanje",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Deli",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Ne deli",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Izvoz",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Dodaj nadzorno ploščo po meri",
+  "DASHBOARD_FORM_TITLE_EDIT": "Uredi nadzorno ploščo",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Ime datoteke: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Ime datoteke: <strong>Napačno ali ne obstaja</strong>",
+  "DASHBOARD_FORM_LABEL_NAME": "Ime nadzorne plošče",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Opis",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Ali uvozi nadzorno ploščo",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Počisti nalaganje",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Povlecite in spustite ali",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Iščite datoteke",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Prišlo je do napake med ustvarjanjem nadzorne plošče.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Napačna datoteka. Datoteke izvožene iz UniFi krmilnika \"controller\" je možno uvažati.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Manjkajoča datoteka.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "Uvožena nadzorna plošča nima gradnikov.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Nadzorna plošča je bila ustvarjena v izdaji {{dashboardControllerVersion}} UniFi krmilnika. Verzija tega krmilnika pa je {{currentControllerVersion}}. Prosimo, da krmilnik posodobite.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "Med shranjevanjem nadzorne plošče z imenom {{name}} je prišlo do napake.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Nadzorno ploščo z imenom {{name}} ni mogoče shraniti. To je le breljiva različica datoteke.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "Prišlo je do napake med brisanjem nadzorne plošče z imenom {{name}}.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Uredi gradnike",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Upravljanje nadzorne plošče",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Dodaj nadzorno ploščo po meri",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Konec",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Prilagodi nadzorno ploščo"
+}

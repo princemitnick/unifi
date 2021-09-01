@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "Verimlilik",
+  "ISP_MODAL_1_HOUR": "1 Saat",
+  "ISP_MODAL_24_HOURS": "24 Saat",
+  "ISP_MODAL_7_DAYS": "7 Gün",
+  "ISP_MODAL_30_DAYS": "30 Gün",
+
+  "ISP_MODAL_SUMMARY_HEADER": "Özet",
+  "ISP_MODAL_THROUGHPUT_HEADER": "Gönderme/İndirme Geçmişi",
+  "ISP_MODAL_LATENCY_HEADER": "Gecikme Geçmişi",
+
+  "ISP_MODAL_UPLOAD_LABEL": "Gönderme",
+  "ISP_MODAL_DOWNLOAD_LABEL": "İndir",
+  "ISP_MODAL_LATENCY_LABEL": "Gecikme",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "Ağ Özeti",
+  "ISP_MODAL_TOP_PROCESS": "En Yüksek İşlemler",
+  "ISP_MODAL_DOWN": "İnd.",
+  "ISP_MODAL_UP": "Gönd."
+}

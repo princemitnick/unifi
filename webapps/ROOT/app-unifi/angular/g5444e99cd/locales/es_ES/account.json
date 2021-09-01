@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Gestor del Hotspot",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Usuario",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Contraseña",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Recuérdame",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Iniciar Sesión",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "Iniciar sesión SSO",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "¿Ha olvidado su contraseña?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Ampliar la caducidad de sesión a 7 días.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Introduzca su código ADF",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "Código de 6 dígitos",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Inicio de sesión cancelada",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Error en la autenticación",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Error al Iniciar Sesión",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Usuario y/o contraseña inválido(a)",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "El código ADF no es válido",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Error al tratar de reiniciar la contraseña",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Verificación de cuenta fallida",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Si ya tienes un usuario y contraseña puedes",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "iniciar sesión aquí.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "Inicia sesión SSO...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Por favor, escriba su correo electrónico para restablecer su contraseña.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Restablecer contraseña",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Atrás",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Un correo electrónico ha sido enviado para recuperar tu contraseña.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Se ha producido un error al recuperar su contraseña.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Una cuenta para todas las aplicaciones y servicios de Ubiquiti.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "¿No tiene cuenta?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Regístrate aquí"
+}

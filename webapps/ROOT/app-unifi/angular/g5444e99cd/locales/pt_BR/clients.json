@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Photo",
+  "CLIENT_TABLE_HEADER_ICON": "Ícone",
+  "CLIENT_TABLE_HEADER_NAME": "Nome",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Nome do Host",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "Endereço MAC",
+  "CLIENT_TABLE_HEADER_IP": "Endereço IP",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "802.1X Identity",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Estado",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Grupo de Utilizador",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Ligação",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Rede",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Porta",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Port",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Canal",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi Connection",
+  "CLIENT_TABLE_HEADER_FT": "Fast Roaming",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Sinal",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "LAN Traffic Down",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "LAN Traffic Up",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Activity Down",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Activity Up",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Taxa Tx",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Taxa Rx",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Atividade",
+  "CLIENT_TABLE_HEADER_UPTIME": "Tempo de atividade",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Product",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Fabricante",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Tipo de dispositivo",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Device OS",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Experience",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "WiFi Experience",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Wired Experience",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Ações",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Transição rápida do BSS",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Client network activity over the last 5 minutes",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {client} other {clients}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Não foram encontrados clientes",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "Quando um cliente é detectado na tua rede será automaticamente listado aqui.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Nenhum cliente coincide com este critério de pesquisa.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Ativo",
+  "CLIENT_ACTIVE_FILTER_ALL": "All",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Ativo",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Ligação",
+  "CLIENT_WIRED_FILTER_ALL": "Tudo",
+  "CLIENT_WIRED_FILTER_FALSE": "Sem fio",
+  "CLIENT_WIRED_FILTER_TRUE": "Com fios",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Tipo de cliente",
+  "CLIENT_GUEST_FILTER_ALL": "Tudo",
+  "CLIENT_GUEST_FILTER_FALSE": "Utilizadores",
+  "CLIENT_GUEST_FILTER_TRUE": "Convidados",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Tipo de rádio",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Tudo",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Rede",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Autorizado",
+  "CLIENT_TABLE_STATUS_PENDING": "Pendente",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Todos os clientes configurados",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Add Client",
+
+  "CLIENT_ADD_TITLE": "Add client",
+  "CLIENT_ADD_EDIT_TITLE": "Edit client",
+  "CLIENT_ADD_LIST_TITLE": "Clients with pending changes",
+
+  "CLIENT_ADD_LABEL_MAC": "Endereço MAC",
+  "CLIENT_ADD_LABEL_ALIAS": "Alias",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Grupo de Utilizador",
+  "CLIENT_ADD_LABEL_FIXED_IP": "IP fixo",
+  "CLIENT_ADD_LABEL_NETWORK": "Rede",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "Endereço IP",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "This IP Address is already added.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "This MAC Address is already added.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "This MAC Address is already used.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Cannot add multicast MAC Address.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Cannot add broadcast MAC Address.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Add Client",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "Endereço MAC",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Alias",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Grupo de Utilizador",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Rede",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "Endereço IP",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Discard 1 client} other {Discard # clients}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Are you sure you want to discard 1 client already added to the list?} other {Are you sure you want to discard # clients already added to the list?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Padrão",
+  "CLIENT_COLUMNS_PRESET_ALL": "Todas as colunas"
+}

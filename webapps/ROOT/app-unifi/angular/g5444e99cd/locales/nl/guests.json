@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Pakket",
+  "GUEST_TABLE_HEADER_AMOUNT": "Hoeveelheid",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Geautoriseerd door",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Download",
+  "GUEST_TABLE_HEADER_UPLOAD": "Upload",
+  "GUEST_TABLE_HEADER_STATUS": "Status",
+  "GUEST_TABLE_HEADER_ACTIONS": "Acties",
+  "GUEST_TABLE_HEADER_NAME": "Naam",
+  "GUEST_TABLE_HEADER_NOTE": "Notitie",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "RADIUS Sessie ID",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "Radius Gebruikersnaam",
+  "GUEST_TABLE_HEADER_START": "Start tijd",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Geen gasten gevonden",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Er zijn geen gasten gevonden die aan uw zoek criteria voldoen.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "Er zijn geen gasten verboden.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Niet Verbonden",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "De verbinding met de gast is verbroken",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Er was een problemen met het verbreken van de verbinding met de gast.",
+  "GUEST_ACTIONS_EXTEND": "Verleng",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Toegang is verlengd",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Er was een probleem met het verlengen van de toegang.",
+
+  "GUEST_STATUS_EXPIRED": "Verlopen op {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Geauthoriseerd, beheerd door Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Geldig tot {{date}}"
+}

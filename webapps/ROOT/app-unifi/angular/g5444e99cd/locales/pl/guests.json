@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Pakiet",
+  "GUEST_TABLE_HEADER_AMOUNT": "Ilość",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Autoryzowany przez",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Pobierane",
+  "GUEST_TABLE_HEADER_UPLOAD": "Wysyłane",
+  "GUEST_TABLE_HEADER_STATUS": "Status",
+  "GUEST_TABLE_HEADER_ACTIONS": "Akcje",
+  "GUEST_TABLE_HEADER_NAME": "Nazwa",
+  "GUEST_TABLE_HEADER_NOTE": "Notatki",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "Identyfikator sesji RADIUS",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "Nazwa użytkownika RADIUS",
+  "GUEST_TABLE_HEADER_START": "Połączony od",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Nie znaleziony żadnych gości",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Nie odnaleziono żadnych gości dla podanych kryteriów",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "Brak podłączonych gości.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Rozłącz",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Gość został rozłączony",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Wystąpił błąd podczas rozłączania gościa.",
+  "GUEST_ACTIONS_EXTEND": "Wydłuż",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Dostęp został wydłużony",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Wystąpił błąd podczas wydłużania dostępu.",
+
+  "GUEST_STATUS_EXPIRED": "Wygasł {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Autoryzowany, zarządzany przez Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Ważny do {{date}}"
+}

@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "No hi ha cap registre nou.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Esperant els registres del controlador...",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Descarregar els registres",
+  "LOGS_MESSAGES_FETCH_MORE": "Obtenir més registres",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "L'arxiu de registre s'ha descarregat correctament",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "No hi ha més registres",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Registres obtinguts"
+}

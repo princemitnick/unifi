@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Interfície",
+  "ROUTING_TABLE_HEADER_METRIC": "Paràmetre",
+  "ROUTING_TABLE_HEADER_PREFIX": "Prefix",
+  "ROUTING_TABLE_HEADER_TYPE": "Tipus",
+  "ROUTING_TABLE_HEADER_VIA": "Via",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "No existeix cap ruta.",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Quan s'afegeixi una ruta, es mostrarà automàticament en aquesta llista.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "No s'ha trobat cap ruta amb aquest criteri de cerca."
+}

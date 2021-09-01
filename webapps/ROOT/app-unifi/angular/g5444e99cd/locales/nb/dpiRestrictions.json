@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Rediger gruppebegrensninger",
+  "DPI_RESTRICTION_HEADER_ADD": "Legg til begrensing på gruppe",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Add restriction category",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Create new restriction group",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Add restriction",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Group",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Kategori",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Applikasjon",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Restricted Categories",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Restricted Applications",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Aktivert",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Blokker",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Limit Down",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Limit Up",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Log Traffic",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Enable logging traffic matching this restriction",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Enable this restriction",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Block all matching traffic",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Velg gruppe",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Select category",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "All Applications",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "Slett DPI-begrensning",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Er du sikker på at du vil slette DPI-begrensningen?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "DPI-begrensningen ble slettet.",
+  "DPI_RESTRICTION_DELETE_ERROR": "Sletting av DPI-begrensningen mislyktes.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "DPI-begrensningen ble lagret.",
+  "DPI_RESTRICTION_SAVE_ERROR": "Det oppstod et problem ved lagring av DPI-begrensningen.",
+
+  "DPI_RESTRICTION_GROUP": "Restriksjonsgruppe",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Opprett restriksjonsgruppe",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Rediger Restriksjonsgruppe",
+  "DPI_RESTRICTION_GROUP_NAME": "Gruppenavn",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "The DPI restriction group was saved.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "There was an error saving DPI restriction group.",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Remove DPI restriction group",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Do you really want to delete DPI restriction group \"{groupName}\"?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction. Do you want to delete the group and its contents?} other {The DPI restriction group \"{groupName}\" has # restrictions. Do you want to delete the group and its contents?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 assignment. Do you want to delete the group and its assignments?} other {The DPI restriction group \"{groupName}\" has # assignments. Do you want to delete the group and its assignments?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?} other {The DPI restriction group \"{groupName}\" has # restrictions and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "The DPI restriction group was deleted.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "There was an error deleting DPI restriction group.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Kategori/App",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Aktivert",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Blokkert",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Log Traffic",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Limit Up",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Limit Down",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Handlinger",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Ubegrenset",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "Ingen begrensninger er definert for denne gruppen.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Nettverk",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Trådløse Nettverk",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Tilordne begrensninger på nettverk",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Assign DPI restrictions to network",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Nettverk",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Velg nettverk",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Velg gruppe",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "All available networks have been assigned restrictions already.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "The DPI restriction was succesfully assigned.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "There was an error assigning DPI restriction.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Remove network group assignment?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Do you really want to remove DPI restriction group network assignment?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "The DPI restriction group network assignment was removed.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Error during DPI restriction network assignment removal.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Trådløse nettverk",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Nettverk",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": " No DPI restrictions have been assigned to the wireless networks.",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": " No DPI restrictions have been assigned to the networks."
+}

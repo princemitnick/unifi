@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Interface",
+  "ROUTING_TABLE_HEADER_METRIC": "Métrique",
+  "ROUTING_TABLE_HEADER_PREFIX": "Préfixe",
+  "ROUTING_TABLE_HEADER_TYPE": "Type",
+  "ROUTING_TABLE_HEADER_VIA": "Via",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Aucune route renvoyée.",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Lorsqu’une route est ajoutée à votre réseau elle apparaît automatiquement dans cette liste.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Aucune route ne correspond à ce critère de recherche."
+}

@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Arayüz",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "Uzak IP adresi",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Kullanıcı",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "ind. pakt.",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Gön. pakt.",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "ind. baytlar",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Gönd. baytlar",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Çalışma süresi",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Eylemler",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Sonlandır",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "Geçerli oturum bulunamadı",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "Şuan için aktif uzak VPN Kullanıcı oturumu bulunmuyor.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "Kriterlerinize uygun uzak VPN kulanıcı oturumu bulunamadı.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Lütfen doğrulayın",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Uzak kullanıcı VPN bağlantılarını sonlandırmak istiyor musunuz?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Bağlantı sonlandırıldı",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Bağlantı sonlandırılırken bir hata meydana geldi."
+}

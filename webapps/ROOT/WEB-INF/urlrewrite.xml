@@ -1,0 +1,37 @@
+<urlrewrite>
+    <rule>
+        <from>^/verify$</from>
+        <to last="true" type="temporary-redirect" qsappend="true">/manage/account/verify?r=1</to>
+    </rule>
+    <rule>
+        <from>^/sso_login/(.*)$</from>
+        <to last="true" type="temporary-redirect">/manage/sso_login/$1</to>
+    </rule>
+    <rule>
+        <from>^/setup/.*$</from>
+        <set type="response-header" name="X-Frame-Options">SAMEORIGIN</set>
+        <to last="true">/app-unifi/setup/index.html</to>
+    </rule>
+    <rule>
+        <from>^/manage/oauth[.]html$</from>
+        <set type="response-header" name="X-Frame-Options">SAMEORIGIN</set>
+        <to last="true">/app-unifi/oauth.html</to>
+    </rule>
+    <rule>
+        <from>^/manage/.*$</from>
+        <set type="response-header" name="X-Frame-Options">SAMEORIGIN</set>
+        <to>/app-unifi/index.html</to>
+    </rule>
+    <rule>
+        <from>^/api/ucore/support-dump$</from>
+        <to last="true" type="forward">/v2/api/ucore/support-dump</to>
+    </rule>
+    <rule>
+        <from>^/api/ucore/backup/(.*)$</from>
+        <to last="true" type="forward">/v2/api/ucore/backup/$1</to>
+    </rule>
+    <rule>
+        <from>^/api/set/setting/provider_capabilities$</from>
+        <to last="true" type="forward">/v2/api/site/default/wan/provider-capabilities/legacy</to>
+    </rule>
+</urlrewrite>

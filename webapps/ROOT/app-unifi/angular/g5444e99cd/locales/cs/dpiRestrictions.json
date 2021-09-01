@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Upravit omezení skupiny",
+  "DPI_RESTRICTION_HEADER_ADD": "Přidat omezení ke skupině",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Přidat kategorii omezení",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Vytvořit novou skupinu omezení",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Přidat omezení",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Skupina",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Kategorie",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Aplikace",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Omezené kategorie",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Omezené aplikace",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Povoleno",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Blokovat",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Limit Down",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Limit Up",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Protokolovat provoz",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Povolit protokolování provozu odpovídajícího tomuto omezení",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Povolit toto omezení",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Blokovat veškerý odpovídající provoz",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Vybrat skupinu",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Vybrat kategorii",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "Všechny aplikace",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "Odstranit DPI omezení",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Opravdu chcete odstranit DPI omezení?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "DPI omezení bylo odstraněno.",
+  "DPI_RESTRICTION_DELETE_ERROR": "Při odstraňování DPI omezení došlo k chybě.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "DPI omezení bylo uloženo.",
+  "DPI_RESTRICTION_SAVE_ERROR": "Při ukládání DPI omezení došlo k chybě.",
+
+  "DPI_RESTRICTION_GROUP": "Skupiny omezení",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Vytvořit skupinu omezení",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Upravit skupinu omezení",
+  "DPI_RESTRICTION_GROUP_NAME": "Název skupiny",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "Skupina DPI omezení byla uložena.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "Při ukládání skupiny DPI omezení došlo k chybě.",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Odstranit skupinu DPI omezení",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Opravdu chcete odstranit skupinu DPI omezení \"{groupName}\"?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction. Do you want to delete the group and its contents?} other {The DPI restriction group \"{groupName}\" has # restrictions. Do you want to delete the group and its contents?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 assignment. Do you want to delete the group and its assignments?} other {The DPI restriction group \"{groupName}\" has # assignments. Do you want to delete the group and its assignments?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?} other {The DPI restriction group \"{groupName}\" has # restrictions and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "Skupina DPI omezení byla odstraněna.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "Při odstraňování skupiny DPI omezení došlo k chybě.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Kategorie/Aplikace",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Povoleno",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Blokováno",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Protokolovat provoz",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Limit Up",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Limit Down",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Akce",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Bez omezení",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "K této skupině nebyla přidána žádná omezení.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Sítě",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Bezdrátové sítě",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Přidělit omezení k síti",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Přidělit DPI omezení k síti",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Síť",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Vybrat síť",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Vybrat skupinu",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "Omezení již byla přidělena k veškerým dostupným sítím.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "DPI omezení bylo úspěšně přiděleno.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "Při přidělování DPI omezení došlo k chybě.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Odstranit přidělení skupiny DPI omezení k síti?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Opravdu chcete odstranit přidělení skupiny DPI omezení k síti?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "Přidělení skupiny DPI omezení k síti bylo odstraněno.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Při odstraňování přidělení DPI omezení k síti došlo k chybě.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Bezdrátová síť",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Síť",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": " K bezdrátovým sítím nejsou přidělena žádná DPI omezení.",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": " K sítím nejsou přidělena žádná DPI omezení."
+}

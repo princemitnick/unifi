@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "Ingen nye log meldinger enda.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Venter på logger fra kontroller",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Last ned logger",
+  "LOGS_MESSAGES_FETCH_MORE": "Hent flere logger",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "Loggfil lastet ned",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "Ingen flere logger",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Hentet logger"
+}

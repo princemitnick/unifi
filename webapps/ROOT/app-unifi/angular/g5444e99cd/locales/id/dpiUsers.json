@@ -1,0 +1,11 @@
+{
+  "CLIENT_PROPERTIES_LABEL_UP_PKTS_BYTES": "Atas Pkts Bytes",
+  "CLIENT_PROPERTIES_LABEL_DOWN_PKTS_BYTES": "Turun Pkts Bytes",
+  "DPI_USERS_TABLE_HEADER_NAME": "nama klien",
+  "DPI_USERS_TABLE_HEADER_CATEGORIES": "Categories",
+  "DPI_USERS_TABLE_HEADER_UP": "Up",
+  "DPI_USERS_TABLE_HEADER_DOWN": "Down",
+
+  "DPI_USERS_TABLE_EMPTY_HEADER": "tidak ada data DPI",
+  "DPI_USERS_TABLE_EMPTY_NO_DATA": "tidak ada data DPI dari kategori yang dipilih"
+}

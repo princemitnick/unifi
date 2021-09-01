@@ -1,0 +1,55 @@
+{
+  "WIFI_MAN_CONTROL_PANEL_ISP": "ISP",
+  "WIFI_MAN_CONTROL_PANEL_PUBLIC_IP": "Public IP",
+  "WIFI_MAN_CONTROL_PANEL_DOWN": "Down",
+  "WIFI_MAN_CONTROL_PANEL_UP": "Up",
+  "WIFI_MAN_CONTROL_PANEL_DATE_TIME": "Date/Time",
+
+  "WIFI_MAN_FILTER_HEADER_SSID": "SSID",
+  "WIFI_MAN_FILTER_HEADER_ACCESS_POINT": "Access Point",
+  "WIFI_MAN_FILTER_HEADER_EXPERIENCE": "WiFi Experience",
+
+  "WIFI_MAN_FILTER_FOOTER_COUNTS": "{numVisible} of {numTotal} devices",
+
+  "WIFI_MAN_TABLE_HEADER_CLIENT": "Client",  
+  "WIFI_MAN_TABLE_HEADER_WIFI_EXP": "WiFi Exp.",
+  "WIFI_MAN_TABLE_HEADER_NAME": "Name",
+  "WIFI_MAN_TABLE_HEADER_AP_MODEL": "AP Model",
+  "WIFI_MAN_TABLE_HEADER_AP_NAME": "AP Name",
+  "WIFI_MAN_TABLE_HEADER_SSID": "SSID",
+  "WIFI_MAN_TABLE_HEADER_SIGNAL": "Signal",
+  "WIFI_MAN_TABLE_HEADER_CHANNEL": "Channel",
+  "WIFI_MAN_TABLE_HEADER_DOWN": "Down",
+  "WIFI_MAN_TABLE_HEADER_UP": "Up",
+  "WIFI_MAN_TABLE_HEADER_RATE": "Rate",
+  "WIFI_MAN_TABLE_HEADER_DATE_TIME": "Date/Time",
+
+  "WIFI_MAN_EMPTY_HEADER": "No speed test results available",
+  "WIFI_MAN_EMPTY_DESCRIPTION": "Run a speed test from the WiFiman app on your mobile device and your results will appear here. Or change your filters/search.",
+
+  "WIFI_MAN_TABLE_ACTION_RESULTS": "Topology Results",
+
+  "WIFI_MAN_HISTORY_TABLE_FOOTER": "Showing {length} {length, plural, one{record} other{records}}",
+  "WIFI_MAN_HISTORY_TABLE_NO_HISTORY": "This is the first test from this device.",
+
+  "WIFI_MAN_NO_CONTENT_TITLE": "Ubiquiti WiFiman",
+  "WIFI_MAN_NO_CONTENT_SUBTITLE": "Download the WiFiman app on your mobile device and benchmark your WiFi performance.",
+
+  "WIFI_MAN_LATEST_SPEED_OVERVIEW_TEST": "Latest Speed Test:",
+  "WIFI_MAN_LATEST_SPEED_OVERVIEW_WIRED": "Wired",
+  "WIFI_MAN_LATEST_SPEED_OVERVIEW_WIRELESS": "Wireless",
+  "WIFI_MAN_ACCORDION_HEADER_HISTORY": "History",
+  
+  "WIFI_MAN_OVERVIEW_WIFI_EXP": "WiFi Experience",
+  "WIFI_MAN_OVERVIEW_AP_MODEL": "AP Model",
+  "WIFI_MAN_OVERVIEW_AP_NAME": "AP Name",
+  "WIFI_MAN_OVERVIEW_SSID": "SSID",
+  "WIFI_MAN_OVERVIEW_SIGNAL": "Signal",
+  "WIFI_MAN_OVERVIEW_CHANNEL": "Channel",
+  "WIFI_MAN_OVERVIEW_DOWN": "Download Speed",
+  "WIFI_MAN_OVERVIEW_UP": "Upload Speed",
+  "WIFI_MAN_OVERVIEW_RATE": "Rate",
+  "WIFI_MAN_OVERVIEW_TEST_SERVER": "Test Server",
+
+  "WIFI_MAN_FETCH_ERROR": "There was an error loading WiFiman results"
+}

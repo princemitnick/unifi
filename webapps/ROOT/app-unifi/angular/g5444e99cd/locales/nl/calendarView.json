@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Archiveer",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Archiveer alles",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Haal meer op",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Laat gearchiveerde meldingen zien",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "Er zijn geen meldingen binnen de desbetreffende tijdsspanne.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "Er zijn  geen gebeurtenissen gevonden binnen dit tijdsbestek.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "Er zijn geen gebeurtenissen die voldoen aan uw zoekcriteria",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "Het aantal resultaten is gelimiteerd tot {{currentLength}} van {{totalLength}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "Alles",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Problemen",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "Algemeen",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Waarschuwingen",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Admin",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "Alles",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Gebeurtenis",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Tijd",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} Gebeurtenissen",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "{{count}} Meer gebeurtenissen"
+}

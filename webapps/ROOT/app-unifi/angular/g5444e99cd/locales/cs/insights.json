@@ -1,0 +1,13 @@
+{
+  "INSIGHTS_NAV_DYNAMIC_DNS": "Dynamické DNS",
+  "INSIGHTS_NAV_CLIENT_HISTORY": "Client History",
+  "INSIGHTS_NAV_NEIGHBORING_ACCESS_POINTS": "Sousední přístupové body",
+  "INSIGHTS_NAV_PAST_CONNECTIONS": "Dřívější připojení",
+  "INSIGHTS_NAV_PAST_GUEST_AUTHORIZATIONS": "Dřívější autorizace hosta",
+  "INSIGHTS_NAV_PORT_FORWARD_STATS": "Statistiky přesměrování portů",
+  "INSIGHTS_NAV_STREAMS": "AC-EDU streamy",
+  "INSIGHTS_NAV_SWITCH_STATS": "Statistiky switche",
+  "INSIGHTS_NAV_REMOTE_USER_VPN": "Vzdálený přístup přes VPN",
+  "INSIGHTS_NAV_STATIC_ROUTING": "Statické směrování",
+  "INSIGHTS_NAV_LOGS": "Protokoly controlleru"
+}

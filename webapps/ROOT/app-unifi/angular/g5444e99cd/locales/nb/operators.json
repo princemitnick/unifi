@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Navn",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Passord",
+  "OPERATOR_TABLE_HEADER_NOTES": "Notater",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Ingen operatører funnet",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Ingen operatører passer til det søkekriteriet",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Ingen operatører har blitt opprettet.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Opprett ny operatør",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "En ny operatør har blitt opprettet.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Det oppstod en feil under opprettelsen av en operatør.",
+  "OPERATOR_ACTIONS_DELETE": "Slett",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Slett operatør {{name}}",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Er du sikker på at du vil slette operatøren {{name}}?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "Operatøren {{name}} har blitt fjernet.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Det oppstod en feil under fjerning av operatøren {{name}}.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Åpne innlogging for operatører",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Kontonavn",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Passord",
+  "OPERATOR_CREATE_LABEL_NOTES": "Notater",
+  "OPERATOR_CREATE_MODAL_TITLE": "Opprett ny operatør"
+}

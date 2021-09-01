@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Zayıf sinyal",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Lütfen cihazınızı en yakındaki UAP'ye yaklaştırın",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Düşük PHY Oranı",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Lütfen cihazınızı en yakındaki UAP'ye yaklaştırın",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "Yütke TCP Paket Kaybı",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Lütfen istemcinin kullandığı ağ geçidini, ISP bağlantısını veya web hizmetini kontrol edin",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Yüksek TCP Gecikmesi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Lütfen Internet bağlantınızı doğrulayın",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Yüksek TCP Gecikmesi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Lütfen UDM veya USG'deki Akıllı Kuyruklar gibi trafik şekillendirmenin etkinleştirildiği bir yönlendirici kullanın.",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Yüksek TCP Gecikmesi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Lütfen Ayarlar'daki WAN arayüzünüzden Akıllı Kuyrukları etkinleştirin",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "Yüksek WiFi bağlantı denemeleri",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Lütfen başka bir kanala geçmeyi düşünün",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Yüksek WiFi gecikmesi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Lütfen başka bir kanala geçmeyi düşünün",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "DHCP Zaman aşımı",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Lütfen DHCP sunucunuzun erişilebilirliğini ve yapılandırmasını kontrol edin",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "ARP Zaman aşımı",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Ağ geçidinizin bu cihaz taranfından erişilebilir olduğundan emin olun",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "DNS Zaman aşımı",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Lütfen DNS sunucunuzun erişilebilirliğini ve yapılandırmasını kontrol edin",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "Yüksek DNS Gecikmesi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Lütfen DNS sunucunuzun erişilebilirliğini ve yapılandırmasını kontrol edin"
+}

@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Paket",
+  "GUEST_TABLE_HEADER_AMOUNT": "Belopp",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Godkänd av",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Nedladdat",
+  "GUEST_TABLE_HEADER_UPLOAD": "Uppladdat",
+  "GUEST_TABLE_HEADER_STATUS": "Status",
+  "GUEST_TABLE_HEADER_ACTIONS": "Åtgärder",
+  "GUEST_TABLE_HEADER_NAME": "Namn",
+  "GUEST_TABLE_HEADER_NOTE": "Anteckning",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "RADIUS Sessions-ID",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "RADIUS Användarnamn",
+  "GUEST_TABLE_HEADER_START": "Starttid",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Inga gäster hittade",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Inga gäster matcha sökkriterierna.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "Inga gäster har anslutit.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Koppla ifrån",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Gäster har kopplats ifrån",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Det uppstod ett fel vid bortkoppling av en gäst.",
+  "GUEST_ACTIONS_EXTEND": "Utöka",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Åtkomsten har förlängts",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Det uppstod ett fel vid förlängning av åtkomst.",
+
+  "GUEST_STATUS_EXPIRED": "Gick ut {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Godkänd, hanterad av Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Giltig tom {{date}}"
+}

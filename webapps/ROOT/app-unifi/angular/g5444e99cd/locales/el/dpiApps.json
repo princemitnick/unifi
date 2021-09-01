@@ -1,0 +1,14 @@
+{
+  "DPI_APPS_TABLE_HEADER_NAME": "Όνομα εφαρμογής",
+  "DPI_APPS_TABLE_HEADER_USER_COUNT": "Ενεργοί Χρήστες",
+  "DPI_APPS_TABLE_HEADER_UP": "ΠΑΝΩ",
+  "DPI_APPS_TABLE_HEADER_DOWN": "ΚΑΤΩ",
+
+  "DPI_APPS_TABLE_UNKNOWN_APP": "Άγνωστο",
+
+  "DPI_APPS_TABLE_EMPTY_HEADER": "Κανένα δεδομένο DPI",
+  "DPI_APPS_TABLE_EMPTY_NO_DATA": "Κανένα δεδομένο DPI για τις επιλεγμένες κατηγορίες",
+
+  "DPI_OVERVIEW_GRID_EMPTY_HEADER": "No categories selected",
+  "DPI_OVERVIEW_GRID_EMPTY_NO_DATA": "No DPI categories have been selected."
+}

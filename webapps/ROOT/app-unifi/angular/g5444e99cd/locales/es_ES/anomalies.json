@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Señal débil",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Por favor, mueva su dispositivo cerca del Punto de acceso más próximo",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Velocidad PHY baja",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Por favor, mueva su dispositivo cerca del Punto de acceso más próximo",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "Pérdida alta de paquetes TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Por favor, compruebe su enrutador, la conexión con su proveedor de internet o el servicio web que esté utilizando su cliente",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Latencia TCP alta",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Por favor, compruebe su conexión a Internet",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Latencia TCP alta",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Utilice un enrutador que tenga habilitada la gestión de tráfico, como las Colas inteligentes en un UDM o un USG",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Latencia TCP alta",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Por favor, habilite las Colas inteligentes en la Configuración de su interfaz WAN",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "Número elevado de reintentos Wi-Fi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Por favor, considere cambiar de canal",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Latencia WiFi alta",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Por favor, considere cambiar de canal",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "Tiempo agotado del DHCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Por favor, compruebe que se pueda acceder al servidor DHCP y esté correctamente configurado",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "Tiempo agotado del ARP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Por favor, compruebe que se pueda acceder a su puerta de enlace desde este dispositivo",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "Tiempo agotado del DNS",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Por favor, compruebe que se pueda acceder al servidor DNS y esté correctamente configurado",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "Latencia DNS alta",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Por favor, compruebe que se pueda acceder al servidor DNS y esté correctamente configurado"
+}

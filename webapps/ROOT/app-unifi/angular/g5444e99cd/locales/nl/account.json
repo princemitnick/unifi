@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Hotspot manager",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Gebruikersnaam",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Wachtwoord",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Onthoud mijn gegevens",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Aanmelden",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "SSO Aanmelden",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Wachtwoord vergeten?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Verleng sessie timeout tot 7 dagen.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Voeg je 2FA token in",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6 teken token",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Aanmelden geannuleerd",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Authenticatie probleem",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Probleem met aanmelden",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Ongeldige gebruikersnaam en/of wachtwoord",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Ongeldig 2FA token",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Probleem met het resetten van het wachtwoord",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Account verificatie niet geslaagd",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Als u reeds een gebruikersnaam en wachtwoord heeft, kun u zich",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "hier aanmelden.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "SSO aanmelden...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Vul uw e-mail adres in om uw wachtwoord te resetten.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Reset wachtwoord",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Terug",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Een e-mail is verstuurd om uw wachtwoord te herstellen.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Er was een probleem met het herstellen van uw wachtwoord.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Een account voor al uw Ubiquiti apps en diensten.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Geen account?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Registreer hier"
+}

@@ -1,0 +1,13 @@
+{
+  "INSIGHTS_NAV_DYNAMIC_DNS": "Dynamische DNS",
+  "INSIGHTS_NAV_CLIENT_HISTORY": "Clientgeschiedenis",
+  "INSIGHTS_NAV_NEIGHBORING_ACCESS_POINTS": "Naburige Access Points",
+  "INSIGHTS_NAV_PAST_CONNECTIONS": "Vorige verbindingen",
+  "INSIGHTS_NAV_PAST_GUEST_AUTHORIZATIONS": "Vorige gast-authorisaties.",
+  "INSIGHTS_NAV_PORT_FORWARD_STATS": "Poort forwarding statistieken",
+  "INSIGHTS_NAV_STREAMS": "AC-EDU Streams",
+  "INSIGHTS_NAV_SWITCH_STATS": "Switch statistieken",
+  "INSIGHTS_NAV_REMOTE_USER_VPN": "Remote user VPN",
+  "INSIGHTS_NAV_STATIC_ROUTING": "Statische routeringen",
+  "INSIGHTS_NAV_LOGS": "Controller Logs"
+}

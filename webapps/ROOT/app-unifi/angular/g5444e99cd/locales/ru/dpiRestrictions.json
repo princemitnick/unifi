@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Изменить ограничение группы",
+  "DPI_RESTRICTION_HEADER_ADD": "Добавить ограничение к группе",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Добавить категорию ограничения",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Создать новую группу ограничений",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Добавить ограничение",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Группа",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Категория",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Приложение",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Запрещённые Категории",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Запрещённые приложения",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Включен",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Заблокировать",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Лимит Скачивания",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Лимит Отдачи",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Записывать Трафик в Лог",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Включить запись трафика, подходящего под условия, в Лог.",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Включить это ограничение",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Заблокировать весь совпадающий трафик",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Выбрать группу",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Выберете категорию",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "Все приложения",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "Удалить DPI ограничение",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Вы уверены, что хотите удалить DPI ограничение?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "Ограничение DPI было удалено.",
+  "DPI_RESTRICTION_DELETE_ERROR": "Ошибка при удалении DPI ограничения.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "Ограничение DPI было сохранено.",
+  "DPI_RESTRICTION_SAVE_ERROR": "Произошла ошибка при сохранении ограничения DPI.",
+
+  "DPI_RESTRICTION_GROUP": "Группа ограничений",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Создать группу ограничений",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Изменить группу ограничений",
+  "DPI_RESTRICTION_GROUP_NAME": "Имя группы",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "Группа ограничений DPI была сохранена.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "Ошибка при сохранении группы ограничений DPI.",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Удалить группу ограничений DPI",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Вы действительно хотите удалить группу ограничений DPI \"{groupName}\"?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction. Do you want to delete the group and its contents?} other {The DPI restriction group \"{groupName}\" has # restrictions. Do you want to delete the group and its contents?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 assignment. Do you want to delete the group and its assignments?} other {The DPI restriction group \"{groupName}\" has # assignments. Do you want to delete the group and its assignments?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?} other {The DPI restriction group \"{groupName}\" has # restrictions and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "Группа ограничений DPI была удалена.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "Произошла ошибка при удалении группы ограничений DPI.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Категория/Приложение",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Включено",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Заблокировано",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Записывать Трафик в Лог",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Лимит Отдачи",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Лимит Скачивания",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Действия",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Безлимитный",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "Ограничения пока не были добавленны к этой группе.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Сети",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Беспроводные Сети",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Применить ограничения к сети",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Применить DPI ограничения к сети",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Сеть",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Выбрать сеть",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Выбрать группу",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "Ограничения уже были применены ко всем доступным сетям.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "DPI ограничения успешно пременены.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "Произошла ошибка при сохранении ограничения DPI.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Удалить ассигнование сетевой группы?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Вы действительно хотите удалить сетевое применение группы ограничений DPI?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "Сетевое применение группы ограничений DPI было удалено.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Ошибка при удалении сетевого применения группы ограничений DPI.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Беспроводная Сеть",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Сеть",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": "Ограничения не были применены к беспроводным сетям.",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": "Ограничения не были применены к сетям."
+}

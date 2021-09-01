@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Foto",
+  "CLIENT_TABLE_HEADER_ICON": "Ikon",
+  "CLIENT_TABLE_HEADER_NAME": "Namn",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Värdnamn",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "MAC adress",
+  "CLIENT_TABLE_HEADER_IP": "IP-adress",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "802.1X-identitet",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Status",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Användargrupp",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Anslutning",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Nätverk",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Port",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Port",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Kanal",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi-anslutning",
+  "CLIENT_TABLE_HEADER_FT": "Fast Roaming (802.11r)",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Signal",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "LAN-trafik ned",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "LAN-trafik upp",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Aktivitet ned",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Aktivitet upp",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Tx-hastighet",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Rx-hastighet",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Aktivitet",
+  "CLIENT_TABLE_HEADER_UPTIME": "Körtid",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Produkt",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Tillverkare",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Enhetstyp",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Enhets-OS",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Upplevelse",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "WiFi-upplevelse",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Trådbunden upplevelse",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Åtgärder",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Snabb BSS Transition",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Klientnätverksaktivitet de senaste fem minuterna",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {klient} other {klienter}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Inga klienter hittades",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "När en klient upptäcks på nätverket kommer den automatiskt att dyka upp i denna listan.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Inga klienter matchade sökkriteriet.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Aktiv",
+  "CLIENT_ACTIVE_FILTER_ALL": "Alla",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Aktivt",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Anslutning",
+  "CLIENT_WIRED_FILTER_ALL": "Alla",
+  "CLIENT_WIRED_FILTER_FALSE": "Trådlös",
+  "CLIENT_WIRED_FILTER_TRUE": "Kabel",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Klienttyp",
+  "CLIENT_GUEST_FILTER_ALL": "Alla",
+  "CLIENT_GUEST_FILTER_FALSE": "Användare",
+  "CLIENT_GUEST_FILTER_TRUE": "Gäster",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Radiotyp",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Alla",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Nätverk",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Godkänd",
+  "CLIENT_TABLE_STATUS_PENDING": "Avvaktar",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Alla konfigurerade klienter",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Lägg till klient",
+
+  "CLIENT_ADD_TITLE": "Lägg till klient",
+  "CLIENT_ADD_EDIT_TITLE": "Redigera klient",
+  "CLIENT_ADD_LIST_TITLE": "Klienter med avvaktande förändringar",
+
+  "CLIENT_ADD_LABEL_MAC": "MAC-adress",
+  "CLIENT_ADD_LABEL_ALIAS": "Alias",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Användargrupp",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Fast IP-adress",
+  "CLIENT_ADD_LABEL_NETWORK": "Nätverk",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "IP-adress",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "Denna IP-adress är redan tillagd.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "Denna MAC-adress är redan tillagd.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Denna MAC-adress är redan i bruk.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Kan inte lägga till multicast MAC-adresser",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Kan inte lägga till broadcast MAC-adresser",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Lägg till klient",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "MAC-adress",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "alias",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Användargrupp",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Nätverk",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "IP-adress",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Radera 1 klient} other {Radera # klienter}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Vill du verkligen radera 1 klient som redan adderats till listan?} other {Vill du verkligen radera # klienter som redan adderats till listan?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Förvald",
+  "CLIENT_COLUMNS_PRESET_ALL": "Alla kolumner"
+}

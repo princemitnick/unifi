@@ -1,0 +1,52 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "İade",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Geri ödeme",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Ödemeyi iade etmek istiyor musunuz?",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "Ödeme iade edildi",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "Ödeme iade edilirken bir hata meydana geldi.",
+
+  "PAYMENT_ACTIONS_REMOVE": "Kaldır",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_TITLE": "Ödemey kaldır",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_MESSAGE": "Ödemeyi kaldırmak istiyor musunuz?",
+  "PAYMENT_ACTIONS_REMOVE_SUCCESS": "Ödeme kaldırıldı.",
+  "PAYMENT_ACTIONS_REMOVE_ERROR": "Ödeme kaldırılırken bir hata meydana geldi.",
+
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA": "Kişisel Verileri Sil",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_TITLE": "Kişisel Verilieri sil",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_MESSAGE": "Bu ödemeden kişisel verileri silmek istiyor musunuz?",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_SUCCESS": "Kişisel veriler ödemeden silindi.",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_ERROR": "Kişisel veriler silinirken bir hata meydana geldi.",
+
+  "PAYMENT_STATUS_AUTHORIZED": "Yetkili",
+  "PAYMENT_STATUS_PAID": "Ödenmiş",
+  "PAYMENT_STATUS_VOID": "İptal edildi/İade edildi",
+
+  "PAYMENT_GATEWAY_AUTHORIZE": "Authorize.net",
+  "PAYMENT_GATEWAY_FACEBOOK": "Facebook",
+  "PAYMENT_GATEWAY_FREE": "Ücretsiz deneme",
+  "PAYMENT_GATEWAY_GOOGLE": "Google",
+  "PAYMENT_GATEWAY_IPPAY": "IPpay",
+  "PAYMENT_GATEWAY_MERCHANTWARRIOR": "Merchant Warrior",
+  "PAYMENT_GATEWAY_PAYPAL": "PayPal",
+  "PAYMENT_GATEWAY_QUICKPAY": "Quickpay",
+  "PAYMENT_GATEWAY_STRIPE": "Stripe",
+
+  "PAYMENT_FILTER_TRANSACTION_TYPE": "İşlem türü",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_ALL": "Tümü",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_PAYMENTS": "Ödemeler",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_SOCIAL": "Sosyal",
+
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Meblağ",
+  "PAYMENT_TABLE_HEADER_EMAIL": "E-posta",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Ek bilgi",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "İsim",
+  "PAYMENT_TABLE_HEADER_GATEWAY": "Ağ geçidi",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Soyisim",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Paket",
+  "PAYMENT_TABLE_HEADER_STATUS": "Durum",
+  "PAYMENT_TABLE_HEADER_TIME": "Zaman",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "İşlem bulunamadı",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "Bu arama ölçütleriyle eşleşen işlem yok.",
+  "PAYMENT_TABLE_EMPTY_NO_TRANSACTIONS": "Hiç bir işlem yapılmamış"
+}

@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "Prepustnost",
+  "ISP_MODAL_1_HOUR": "1 ura",
+  "ISP_MODAL_24_HOURS": "24 ur",
+  "ISP_MODAL_7_DAYS": "7 dni",
+  "ISP_MODAL_30_DAYS": "30 dni",
+
+  "ISP_MODAL_SUMMARY_HEADER": "Povzetek",
+  "ISP_MODAL_THROUGHPUT_HEADER": "Zgodovina nalaganja in prenašanja",
+  "ISP_MODAL_LATENCY_HEADER": "Zgodovina latence",
+
+  "ISP_MODAL_UPLOAD_LABEL": "Nalaganje",
+  "ISP_MODAL_DOWNLOAD_LABEL": "Prenos",
+  "ISP_MODAL_LATENCY_LABEL": "Latenca",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "Povzetek omrežja",
+  "ISP_MODAL_TOP_PROCESS": "Najboljši procesi",
+  "ISP_MODAL_DOWN": "Brez povezave",
+  "ISP_MODAL_UP": "S povezavo"
+}

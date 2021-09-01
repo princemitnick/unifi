@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Desconectar transimisión",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "La transmisión {{streamId}} ha sido desconectada.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Se ha producido un error al desconectar la transmisión {{streamId}}.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Transmisión",
+  "STREAMS_FILTER_ALL_STREAMS": "Todos",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "No se han encontrado transmisiones",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "No hay transmisiones que coincidan con el criterio de búsqueda.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Aún no se han encontrado transmisiones.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Conectado",
+  "STREAMS_TABLE_HEADER_DEVICE": "Dispositivo",
+  "STREAMS_TABLE_HEADER_READY": "Listo",
+  "STREAMS_TABLE_HEADER_STREAMING": "Transmitiendo",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Transmisión",
+
+  "STREAMS_VIEW_ALL": "Todos"
+}

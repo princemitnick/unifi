@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "WiFi-mätvärden",
+  "DASHBOARD_NAMES_UNDEFINED": "Översikt",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Lägg till panel",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Added",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "Inga moduler finns tillgängliga just nu.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Hantera översiktsbilder",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Close",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Översikt",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Beskrivning",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Åtgärder",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Inga översiktsbilder hittades.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Öppen",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Redigera",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Ta bort",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Prenumerera",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Avprenumerera",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Dela",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Sluta dela",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Exportera",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Lägg till anpassad översiktsbild",
+  "DASHBOARD_FORM_TITLE_EDIT": "Redigera översiktsbild",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Filnamn: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Filnamn: Ogiltigt eller saknas</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Namn på översiktsbild",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Beskrivning",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Eller importera översiktsbildfil",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Rensa",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Drag & Släpp eller",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Bläddra bland filer",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Det uppstod ett fel när översiktsbilden skulle skapas.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Ogiltig översiktsbildfil. Endast filer exporterade från en UniFi Controller kan importeras här.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "WiFI-mätvärden",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "Den importerade översiktsbilden saknar paneler.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Denna översiktsbild skapades i version {{dashboardControllerVersion}} av UniFi Controller. Denna controller kör {{currentControllerVersion}}. Var vänlig och uppdatera till en nyare version av controller för att möjliggöra alla paneler i denna översiktsbild.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "Det uppstod ett fel när översiktsbilden {{name}} skulle sparas.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Kunde inte spara översiktsbild {{name}}. Den är skrivskyddad.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "Det uppstod ett fel när översiktsbilden {{name}} skulle tas bort.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Redigera paneler",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Hantera översiktsbilder",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Lägg till anpassad översiktsbild",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Done",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Anpassa översiktsbild"
+}

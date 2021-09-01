@@ -1,0 +1,52 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "Refunduj",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Refunduj płatność",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Czy na pewno chcesz refundować płatność?",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "Płatność została zrefundowana.",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "Wystąpił błąd podczas refundowania płatności.",
+
+  "PAYMENT_ACTIONS_REMOVE": "Usuń",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_TITLE": "Usuń płatność",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_MESSAGE": "Czy na pewno chcesz usunąć płatność?",
+  "PAYMENT_ACTIONS_REMOVE_SUCCESS": "Płatność została usunięta.",
+  "PAYMENT_ACTIONS_REMOVE_ERROR": "Wystąpił błąd podczas usuwania płatności.",
+
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA": "Usuń dane osobowe",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_TITLE": "Usuń dane osobowe",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_MESSAGE": "Czy na pewno chcesz usunąć dane osobowe dla tej płatności?",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_SUCCESS": "Dane osobowe zostały usunięte z płatności.",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_ERROR": "Podczas usuwania danych osobowych wystąpił błąd.",
+
+  "PAYMENT_STATUS_AUTHORIZED": "Autoryzowana",
+  "PAYMENT_STATUS_PAID": "Opłacona",
+  "PAYMENT_STATUS_VOID": "Unieważniona/Refundowana",
+
+  "PAYMENT_GATEWAY_AUTHORIZE": "Authorize.net",
+  "PAYMENT_GATEWAY_FACEBOOK": "Facebook",
+  "PAYMENT_GATEWAY_FREE": "Darmowy dostęp",
+  "PAYMENT_GATEWAY_GOOGLE": "Google",
+  "PAYMENT_GATEWAY_IPPAY": "IPpay",
+  "PAYMENT_GATEWAY_MERCHANTWARRIOR": "Merchant Warrior",
+  "PAYMENT_GATEWAY_PAYPAL": "PayPal",
+  "PAYMENT_GATEWAY_QUICKPAY": "Quickpay",
+  "PAYMENT_GATEWAY_STRIPE": "Stripe",
+
+  "PAYMENT_FILTER_TRANSACTION_TYPE": "Typ transakcji",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_ALL": "Wszystkie",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_PAYMENTS": "Płatności",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_SOCIAL": "Społecznościowe",
+
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Kwota",
+  "PAYMENT_TABLE_HEADER_EMAIL": "Email",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Dodatkowe informacje",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "Imię",
+  "PAYMENT_TABLE_HEADER_GATEWAY": "Brama",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Nazwisko",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Pakiet",
+  "PAYMENT_TABLE_HEADER_STATUS": "Status",
+  "PAYMENT_TABLE_HEADER_TIME": "Czas",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "Nie znaleziono żadnych transkacji",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "Żadne transakcje nie odpowiadają kryteriom wyszukiwania.",
+  "PAYMENT_TABLE_EMPTY_NO_TRANSACTIONS": "Nie dokonano żadnych transakcji."
+}

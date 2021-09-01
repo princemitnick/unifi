@@ -1,0 +1,99 @@
+{
+  "filters": [
+    {
+      "id": "default:timerange",
+      "filter_id": "stats|timerange"
+    },
+    {
+      "id": "default:devices",
+      "filter_id": "device|ap",
+      "config": {
+        "deviceStates": {
+          "exclude": ["PENDING"]
+        }
+      }
+    }
+  ],
+  "modules": [
+    {
+      "id": "default:mega|status",
+      "module_id": "mega|status",
+      "restrictions": {
+        "removable": false,
+        "draggable": false
+      }
+    },
+    {
+      "id": "default:first-row",
+      "module_id": "group|flex-row",
+      "config": {
+        "modules": [
+          {
+            "id": "default:wifi-anomalies",
+            "module_id": "wifi-anomalies",
+            "config": {
+              "contentHeight": "240px"
+            }
+          },
+          {
+            "id": "default:ap-statistics-carousel",
+            "module_id": "group|carousel|full",
+            "config": {
+              "wrapCarousel": false,
+              "withArrows": true,
+              "carouselClassName": "moduleCarousel--withLineChart",
+              "modules": [
+                {
+                  "id": "default:retry-rate",
+                  "module_id": "ap-statistics|retry-rate"
+                },
+                {
+                  "id": "default:airtime",
+                  "module_id": "ap-statistics|airtime"
+                },
+                {
+                  "id": "default:dropped-packets",
+                  "module_id": "ap-statistics|dropped-packets"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "default:second-row",
+      "module_id": "group|flex-row",
+      "config": {
+        "modules": [
+          {
+            "id": "default:wifi-association-failures",
+            "module_id": "wifi-association-failures",
+            "config": {
+              "contentHeight": "250px"
+            }
+          },
+          {
+            "id": "default:associations-carousel",
+            "module_id": "group|carousel|full",
+            "config": {
+              "wrapCarousel": false,
+              "withArrows": true,
+              "carouselClassName": "moduleCarousel--withLineChart",
+              "modules": [
+                {
+                  "id": "default:wifi-associations",
+                  "module_id": "wifi-associations"
+                },
+                {
+                  "id": "default:time-to-associate",
+                  "module_id": "time-to-associate"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

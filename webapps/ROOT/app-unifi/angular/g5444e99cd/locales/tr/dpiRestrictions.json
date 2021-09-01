@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Grup kısıtlamalarını düzenle",
+  "DPI_RESTRICTION_HEADER_ADD": "Gruba kısıtlama Ekle",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Kısıtlama kategorisi ekle",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Yeni bir kısıtlama grubu oluştur",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Kısıtlama Ekle",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Grup",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Kategori",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Uygulama",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Kısıtlanmış Kategoriler",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Kısıtlanmış Uygulamalar",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Etkin",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Engelle",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "İnd. Limiti",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Gönd. Limiti",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Günce Trafiği",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Bu Kısıtlama ile eşleşen trafik güncelerini etkinleştir",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Bu kısıtlamayı etkinleştir",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Eşleşen tüm trafikleri engelle",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Grubu seç",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Kategori Seç",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "Tüm Uygulamalar",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "DPA kısıtlamasını sil",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "DPA kısıtlamasını silmek istiyor musunuz?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "DPA kısıtlaması silindi.",
+  "DPI_RESTRICTION_DELETE_ERROR": "DPA kısıtlaması silinirken bir hata meydana geldi.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "DPA kısıtlaması kaydedildi.",
+  "DPI_RESTRICTION_SAVE_ERROR": "DPA kısıtlaması kaydedilirken bir hata meydana geldi.",
+
+  "DPI_RESTRICTION_GROUP": "Kısıtlama Grubu",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Kısıtlama grubu oluştur",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Kısıtlama grubunu düzenle",
+  "DPI_RESTRICTION_GROUP_NAME": "Grup Adı",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "DPA kısıtlama grubu kaydedildi.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "DPA kısıtlama grubu kaydedilirken bir hata meydana geldi.",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "DPA kısıtlama grubunu sil",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "\"{groupName}\" DPA kısıtlama grubunu silmek istiyor musunuz?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {\"{groupName}\" DPA kısıtlama grubu 1 adet kısıtlamaya sahip. Grubu ve içeriğini silmek istiyor musunuz?} other {\"{groupName}\" DPA kısıtlama grubu  # adet kısıtlamaya sahip. Grubu ve içeriğini silmek istiyor musunuz?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {\"{groupName}\" DPA kısıtlama grubu, 1 adet atama yapıyor. Grubu ve görevlerini silmek istiyor musunuz?} other {\"{groupName}\" DPA kısıtlama grubu, # adet atama yapıyor. Grubu ve görevlerini silmek istiyor musunuz?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {\"{GroupName}\" DPI kısıtlama grubu, 1 adet kısıtlamaya ve {assignmentsNumber, plural, one{1 atamaya} other{# atamaya}} 'e sahip. Grubu, içeriğini ve atama tanımlarını silmek istiyor musunuz?} other {\"{GroupName}\" DPI kısıtlama grubu, # adet kısıtlamaya ve {assignmentsNumber, plural, one{1 atamaya} other{# atamaya}} 'e sahip. Grubu, içeriğini ve atama tanımlarını silmek istiyor musunuz?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "DPA kıstlama grubu silindi.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "DPA kısıtlama grubu silinirken bir hata meydana geldi.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Kategori/Uygulama",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Etkin",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Engelli",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Günce Trafiği",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Gönd.Limiti",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "İnd. Limiti",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Eylemler",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Limitsiz",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "Bu gruba tanımlanmış kısıtlama yok",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Ağlar",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Kablosuz Ağlar",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Ağ üzerine kısıtlama ata",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Ağ üzerine DPA kısıtlaması ata",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Ağ",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Ağ seç",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Grup Seç",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "Mevcut tüm ağlara zaten kısıtlamalar atanmıştır.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "DPA kısıtlaması başarı ile atandı",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "DPA Kısıtlaması atanırken bir hata meydana geldi.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Ağ grubu ataması kaldırılsın mı?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "DPA kısıtlama grubu ağ atamasını kaldırmak istediğinizden emin misiniz?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "DPA kısıtlama grubu ağ ataması kaldırıldı.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "DPA kısıtlama grubu ağ ataması kaldırılırken bir hata meydana geldi.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Kablosuz Ağ",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Ağ",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": " Kablosuz ağlar üzerine atanmış DPA Kısıtlaması yok",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": " Ağ üzerine atanmış DPA kısıtlaması yok"
+}

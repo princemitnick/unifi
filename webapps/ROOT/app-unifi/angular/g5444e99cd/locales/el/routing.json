@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Διεπαφή",
+  "ROUTING_TABLE_HEADER_METRIC": "Μέθοδος μέτρησης ",
+  "ROUTING_TABLE_HEADER_PREFIX": "Πρόθεμα",
+  "ROUTING_TABLE_HEADER_TYPE": "Τύπος",
+  "ROUTING_TABLE_HEADER_VIA": "Μέσω",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Δεν επιστράφηκαν διαδρομές.",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Όταν μια διαδρομή προστεθεί στο δίκτυο σας, αυτόματα θα εμφανιστεί σε αυτήν την λίστα.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Καμία διαδρομή δεν ταιριάζει με τα κριτήρια αναζήτησης."
+}

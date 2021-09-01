@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Verbreek stream",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "Stream {{streamId}} is verbroken.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Er was een probleem met het verbreken van stream {{streamId}}.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Stream",
+  "STREAMS_FILTER_ALL_STREAMS": "Alle",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Geen streams gevonden",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Er zijn geen streams die voldoen aan uw zoek criteria.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Er zijn nog geen streams gevonden.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Verbonden",
+  "STREAMS_TABLE_HEADER_DEVICE": "Apparaat",
+  "STREAMS_TABLE_HEADER_READY": "Gereed",
+  "STREAMS_TABLE_HEADER_STREAMING": "Streaming",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Stream",
+
+  "STREAMS_VIEW_ALL": "Alle"
+}

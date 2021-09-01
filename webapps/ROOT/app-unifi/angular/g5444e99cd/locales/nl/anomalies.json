@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Zwak signaal",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Verplaats je apparaat dichter naar de dichtsbijzijnde UAP",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Lage PHY Rate",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Verplaats je apparaat dichter naar de dichtsbijzijnde UAP",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "Hoge TCP Packet loss",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Controleer uw router, ISP verbinding of webservice die uw client gebruikt.",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Hoge TCP Latency",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Controleer je internetverbinding",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Hoge TCP Latency",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Gebruik een router met traffic shaping ingeschakeld zoals Smart Queues op UDM of USG.",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Hoge TCP Latency",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Schakel Smart Queus in op uw WAN interface onder instellingen.",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "Hoge WiFI retries",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Overweeg een ander kanaal te kiezen",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Hoge WiFi latency",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Overweeg een ander kanaal te kiezen",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "DHCP Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Controleer of uw DHCP server beschikbaar is en op de juiste manier geconfigureerd",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "ARP Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Controleer of uw gateway beschikbaar is vanaf dit apparaat",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "DNS Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Controleer of uw DNS server beschikbaar is en op de juiste manier geconfigureerd",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "hoge DNS Latency",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Controleer of uw DNS server beschikbaar is en op de juiste manier geconfigureerd"
+}

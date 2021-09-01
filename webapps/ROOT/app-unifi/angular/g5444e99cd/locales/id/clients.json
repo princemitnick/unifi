@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Photo",
+  "CLIENT_TABLE_HEADER_ICON": "Ikon",
+  "CLIENT_TABLE_HEADER_NAME": "Nama",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Nama host",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "Alamat MAC",
+  "CLIENT_TABLE_HEADER_IP": "Alamat IP",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "802.1X identitas",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "status",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Kelompok pengguna",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Koneksi",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Jaringan",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP Port",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Port",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Saluran",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi Connection",
+  "CLIENT_TABLE_HEADER_FT": "Fast Roaming",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Sinyal",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "LAN Traffic Down",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "LAN Traffic Up",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "aktifitas down",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "aktifitas up",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Tingkat TX",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Tingkat RX",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Kegiatan",
+  "CLIENT_TABLE_HEADER_UPTIME": "uptime",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Product",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Produsen",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Tipe perangkat",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Device OS",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Experience",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "pengalaman WiFi",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Wired Experience",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Tindakan",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "transisi BSS cepat",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Client network activity over the last 5 minutes",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {client} other {clients}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Tidak ada klien yang ditemukan",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "Ketika klien terdeteksi pada jaringan Anda akan secara otomatis muncul di daftar ini.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Tidak ada pertandingan klien yang kriteria pencarian.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "aktif",
+  "CLIENT_ACTIVE_FILTER_ALL": "All",
+  "CLIENT_ACTIVE_FILTER_TRUE": "aktif",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Koneksi",
+  "CLIENT_WIRED_FILTER_ALL": "Semua",
+  "CLIENT_WIRED_FILTER_FALSE": "Nirkabel",
+  "CLIENT_WIRED_FILTER_TRUE": "Kabel",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Tipe klien",
+  "CLIENT_GUEST_FILTER_ALL": "Semua",
+  "CLIENT_GUEST_FILTER_FALSE": "Pengguna",
+  "CLIENT_GUEST_FILTER_TRUE": "Tamu",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Jenis radio",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Semua",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Jaringan",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Resmi",
+  "CLIENT_TABLE_STATUS_PENDING": "Tertunda",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "semua konfigurasi klien",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "tambahkan klien",
+
+  "CLIENT_ADD_TITLE": "tambah klien",
+  "CLIENT_ADD_EDIT_TITLE": "edit klien",
+  "CLIENT_ADD_LIST_TITLE": "perubahan klien tertunda",
+
+  "CLIENT_ADD_LABEL_MAC": "Alamat MAC",
+  "CLIENT_ADD_LABEL_ALIAS": "Alias",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Kelompok pengguna",
+  "CLIENT_ADD_LABEL_FIXED_IP": "IP",
+  "CLIENT_ADD_LABEL_NETWORK": "Jaringan",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "Alamat IP",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "alamat IP sudah pernah ditambahkan",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "alamat MAC sudah pernah ditambahkan",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "alamat MAC sudah pernah digunakan",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "tidak bisa menambah multicast alamat MAC",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "tidak bisa menambah alamat MAC",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "tambahkan klien",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "Alamat MAC",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Alias",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Kelompok pengguna",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Jaringan",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "Alamat IP",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Discard 1 client} other {Discard # clients}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Are you sure you want to discard 1 client already added to the list?} other {Are you sure you want to discard # clients already added to the list?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Standar",
+  "CLIENT_COLUMNS_PRESET_ALL": "Semua kolom"
+}

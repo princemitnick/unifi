@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Namn",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Lösenord",
+  "OPERATOR_TABLE_HEADER_NOTES": "Anmärkningar",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Inga operatörer hittades",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Inga operatörer matchar sökkriteriet.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Inga operatörer har skapats.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Skapa ny operatör",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "En ny operatör har skapats.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Det gick inte att skapa en operatör.",
+  "OPERATOR_ACTIONS_DELETE": "Radera",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Radera operatör {{name}}",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Är du säker på att du vill radera operatören {{name}}?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "Öperatören {{name}} har raderats.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Det gick inte att ta bort operatören {{name}}.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Öppna operatörslogin.",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Kontonamn",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Lösenord",
+  "OPERATOR_CREATE_LABEL_NOTES": "Anmärkningar",
+  "OPERATOR_CREATE_MODAL_TITLE": "Skapa ny operatör"
+}

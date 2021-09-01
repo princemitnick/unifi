@@ -1,0 +1,22 @@
+{
+  "DPI_CATEGORIES_INSTANT_MESSAGING": "pesan singkat",
+  "DPI_CATEGORIES_P2P": "P2P",
+  "DPI_CATEGORIES_FILE_TRANSFER": "data dikirim",
+  "DPI_CATEGORIES_STREAMING_MEDIA": "media streaming",
+  "DPI_CATEGORIES_MAIL_AND_COLLABORATION": "surat dan kolaborasi",
+  "DPI_CATEGORIES_VOICE_OVER_IP": "suara lewat IP",
+  "DPI_CATEGORIES_DATABASE": "database",
+  "DPI_CATEGORIES_GAMES": "permainan",
+  "DPI_CATEGORIES_NETWORK_MANAGEMENT": "manajemen jaringan",
+  "DPI_CATEGORIES_REMOTE_ACCESS_TERMINALS": "Remote Access Terminals",
+  "DPI_CATEGORIES_BYPASS_PROXIES_AND_TUNNELS": "lewati proxies dan tunnels",
+  "DPI_CATEGORIES_STOCK_MARKET": "ketersediaan barang di pasar",
+  "DPI_CATEGORIES_WEB": "web",
+  "DPI_CATEGORIES_SECURITY_UPDATE": "peningkatan keamanan",
+  "DPI_CATEGORIES_WEB_IM": "web IM",
+  "DPI_CATEGORIES_BUSINESS": "bisnis",
+  "DPI_CATEGORIES_NETWORK_PROTOCOLS": "protokol jaringan",
+  "DPI_CATEGORIES_PRIVATE_PROTOCOL": "protokol pribadi",
+  "DPI_CATEGORIES_SOCIAL_NETWORK": "jejaring sosial",
+  "DPI_CATEGORIES_UNKNOWN": "tidak diketahui"
+}

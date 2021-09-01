@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Name",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Passwort",
+  "OPERATOR_TABLE_HEADER_NOTES": "Anmerkungen",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Keine Verwalter gefunden",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Es entsprechen keine Verwalter den angegebenen Suchkriterien.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Es wurden bisher keine Verwalter angelegt.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Neuen Verwalter anlegen",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "Ein neuer Verwalter wurde angelegt.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Beim Anlegen eines neuen Verwalters ist ein Fehler aufgetreten.",
+  "OPERATOR_ACTIONS_DELETE": "Löschen",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Verwalter {{name}} löschen",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Sind Sie sicher, dass Sie den Verwalter {{name}} löschen möchten?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "Der Verwalter {{name}} wurde entfernt.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Beim Löschen des Verwalters {{name}} ist ein Fehler aufgetreten.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Anmeldeseite für Verwalter öffnen",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Name des Verwalters",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Passwort",
+  "OPERATOR_CREATE_LABEL_NOTES": "Anmerkungen",
+  "OPERATOR_CREATE_MODAL_TITLE": "Neuen Verwalter anlegen"
+}

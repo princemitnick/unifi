@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Interface",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "Fjern IP",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Bruger",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Pakker ned",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Pakker op",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Bytes ned",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Op bytes",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Oppetid",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Handlinger",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Afbryd",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "Ingen aktuelle sessioner fundet",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "I øjeblikket er der ingen VPN-sessioner med eksterne bruger aktive.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "Ingen VPN-sessioner med eksterne bruger svarer til søgekriterierne.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Bekræft venligst.",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Er du sikker på du vil afbryde denne Fjernbruger VPN forbindelse?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Forbindelse afbrudt",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Fejl ved afbrydelse af forbindelse"
+}

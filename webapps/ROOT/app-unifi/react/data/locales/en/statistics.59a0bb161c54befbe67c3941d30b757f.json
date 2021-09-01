@@ -1,0 +1,71 @@
+{
+  "STATISTICS_TABS_TRAFFIC": "Traffic",
+  "DPI_NO_DATA": "No Statistics Data",
+
+  "STATISTICS_RESET_DATA_BUTTON_LABEL": "Reset Statistics",
+  "STATISTICS_RESET_DATA_MODAL_TITLE": "Reset Statistics",
+  "STATISTICS_RESET_DATA_MODAL_MESSAGE": "All collected data will be discarded. Are you sure you want to proceed?",
+  "STATISTICS_RESET_DATA_SUCCESS": "Statistics data has been reset",
+  "STATISTICS_RESET_DATA_ERROR": "There was an error resetting statistics data, please try again",
+
+  "DPI_CATEGORIES_INSTANT_MESSAGING": "Instant Messaging",
+  "DPI_CATEGORIES_P2P": "P2P",
+  "DPI_CATEGORIES_FILE_TRANSFER": "File Transfer",
+  "DPI_CATEGORIES_STREAMING_MEDIA": "Streaming Media",
+  "DPI_CATEGORIES_MAIL_AND_COLLABORATION": "Mail and Collaboration",
+  "DPI_CATEGORIES_VOICE_OVER_IP": "Voice over IP",
+  "DPI_CATEGORIES_DATABASE": "Database",
+  "DPI_CATEGORIES_GAMES": "Games",
+  "DPI_CATEGORIES_NETWORK_MANAGEMENT": "Network Management",
+  "DPI_CATEGORIES_REMOTE_ACCESS_TERMINALS": "Remote Access Terminals",
+  "DPI_CATEGORIES_BYPASS_PROXIES_AND_TUNNELS": "Bypass Proxies and Tunnels",
+  "DPI_CATEGORIES_STOCK_MARKET": "Stock Market",
+  "DPI_CATEGORIES_WEB": "Web",
+  "DPI_CATEGORIES_SECURITY_UPDATE": "Security Update",
+  "DPI_CATEGORIES_WEB_IM": "Web IM",
+  "DPI_CATEGORIES_BUSINESS": "Business",
+  "DPI_CATEGORIES_NETWORK_PROTOCOLS": "Network Protocols",
+  "DPI_CATEGORIES_PRIVATE_PROTOCOL": "Private Protocol",
+  "DPI_CATEGORIES_SOCIAL_NETWORK": "Social Network",
+  "DPI_CATEGORIES_UNKNOWN": "Unknown",
+
+  "DPI_CATEGORIES_HEADER_TRAFFIC_TYPE": "Traffic Type",
+  "DPI_CATEGORIES_HEADER_TRAFFIC": "Traffic",
+  "DPI_CATEGORIES_HEADER_CLIENTS": "Clients",
+
+  "TRAFFIC_CATEGORY_COUNT": "{value1} of {value2} categories",
+  "TRAFFIC_SELECTED_APPS_COUNT": "{value1} of {value2} services",
+
+
+  "TRAFFIC_DONUT_LABEL_IDENTIFIED_TRAFFIC": "Identified Traffic",
+
+  "TRAFFIC_TABLE_LABEL_NAME": "Name",
+  "TRAFFIC_TABLE_LABEL_TRAFFIC": "Traffic",
+  "TRAFFIC_TABLE_LABEL_UP": "Up",
+  "TRAFFIC_TABLE_LABEL_DOWN": "Down",
+  "TRAFFIC_TABLE_LABEL_CLIENTS": "Clients",
+  "TRAFFIC_TABLE_LABEL_CLIENT": "Client",
+  "TRAFFIC_TABLE_LABEL_APPLICATION": "Application",
+  "TRAFFIC_TABLE_LABEL_TOTAL_TRAFFIC": "Total Traffic",
+
+  "APP_TABLE_BUTTON_SHOW_ALL": "Show All",
+  "APP_TABLE_BUTTON_SHOW_TOP_USAGE": "Show top usage",
+
+  "TRAFFIC_TOOLTIP_TRAFFIC": "Traffic",
+  "TRAFFIC_TOOLTIP_UP": "Up",
+  "TRAFFIC_TOOLTIP_DOWN": "Down",
+  "TRAFFIC_TOOLTIP_CLIENTS": "Clients",
+
+  "TRAFFIC_TAB_LABEL_OVERVIEW": "Overview",
+  "TRAFFIC_TAB_LABEL_TOP_APPLICATIONS": "Top Applications",
+
+
+  "TRAFFIC_SORTING_LABEL_BY_UPLOAD": "By Upload Traffic",
+  "TRAFFIC_SORTING_LABEL_BY_DOWNLOAD": "By Download Traffic",
+  "TRAFFIC_SORTING_LABEL_BY_TRAFFIC": "By Traffic Usage",
+  "TRAFFIC_SORTING_LABEL_UPLOAD": "Upload Traffic",
+  "TRAFFIC_SORTING_LABEL_DOWNLOAD": "Download Traffic",
+  "TRAFFIC_SORTING_LABEL_TRAFFIC": "Traffic Usage"
+
+
+}

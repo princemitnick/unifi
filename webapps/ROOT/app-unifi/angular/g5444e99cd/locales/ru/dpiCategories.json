@@ -1,0 +1,22 @@
+{
+  "DPI_CATEGORIES_INSTANT_MESSAGING": "Мгновенные Сообщения",
+  "DPI_CATEGORIES_P2P": "P2P",
+  "DPI_CATEGORIES_FILE_TRANSFER": "Перенос Файла",
+  "DPI_CATEGORIES_STREAMING_MEDIA": "Потоковое мультимедиа",
+  "DPI_CATEGORIES_MAIL_AND_COLLABORATION": "Почта и Сотрудничество",
+  "DPI_CATEGORIES_VOICE_OVER_IP": "Голос через IP",
+  "DPI_CATEGORIES_DATABASE": "База данных",
+  "DPI_CATEGORIES_GAMES": "Игры",
+  "DPI_CATEGORIES_NETWORK_MANAGEMENT": "Управление Сетью",
+  "DPI_CATEGORIES_REMOTE_ACCESS_TERMINALS": "Терминалы удалённого доступа",
+  "DPI_CATEGORIES_BYPASS_PROXIES_AND_TUNNELS": "Bypass Proxies и Тунели",
+  "DPI_CATEGORIES_STOCK_MARKET": "Рынок ценных бумаг",
+  "DPI_CATEGORIES_WEB": "Вэб",
+  "DPI_CATEGORIES_SECURITY_UPDATE": "Обновление Безопастности",
+  "DPI_CATEGORIES_WEB_IM": "Вэб IM",
+  "DPI_CATEGORIES_BUSINESS": "Бизнес",
+  "DPI_CATEGORIES_NETWORK_PROTOCOLS": "Сетевые протоколы",
+  "DPI_CATEGORIES_PRIVATE_PROTOCOL": "Частный Протокол",
+  "DPI_CATEGORIES_SOCIAL_NETWORK": "Социальная сеть",
+  "DPI_CATEGORIES_UNKNOWN": "Неизвестный"
+}

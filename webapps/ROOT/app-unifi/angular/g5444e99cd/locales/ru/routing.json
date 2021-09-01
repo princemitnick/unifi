@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Интерфейс",
+  "ROUTING_TABLE_HEADER_METRIC": "Метрика",
+  "ROUTING_TABLE_HEADER_PREFIX": "Префикс",
+  "ROUTING_TABLE_HEADER_TYPE": "Тип",
+  "ROUTING_TABLE_HEADER_VIA": "Через",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Маршруты отсутствуют",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "При добавлении маршрута в сеть, он автоматически появится в этом списке.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Нет маршрутов, соответствующих заданному условию."
+}

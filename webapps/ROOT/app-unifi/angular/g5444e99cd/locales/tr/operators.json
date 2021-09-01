@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "İsim",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Şifre",
+  "OPERATOR_TABLE_HEADER_NOTES": "Notlar",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Operatör bulunamadı",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Arama ölçütlerine uygun operatör bulunamadı.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Oluşturulmuş operatör yok.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Yeni operatör oluştur",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "Yeni bir operatör oluşturuldu.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Operatör oluşturulurken bir hata meydana geldi.",
+  "OPERATOR_ACTIONS_DELETE": "Sil",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "{{name}} operatörü silinsin mi?",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "{{name}} operatörünü silmek istiyor musunuz?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "{{name}} operatörü silindi.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "{{name}} operatörü silinirken bir hata meydana geldi.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Operatör girişini aç",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Hesap adı",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Şifre",
+  "OPERATOR_CREATE_LABEL_NOTES": "Notlar",
+  "OPERATOR_CREATE_MODAL_TITLE": "Yeni operatör oluştur"
+}

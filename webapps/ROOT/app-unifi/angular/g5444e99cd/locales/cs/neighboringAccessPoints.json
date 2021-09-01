@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BW [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Kanál",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Název/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Naposled viděno",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Umístění",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Výrobce",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Nedovolený",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Zabezpečení",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Signál",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "Nenalezeny žádné sousední přístupové body",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Dosud nebyly nenalezeny žádné přístupové body.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "Žádný přístupový bod neodpovídá hledaným kritériím.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Tento AP vysílá stejné SSID jako přístupové body ve Vašem umístění. Může jít o útok na Vaši síť nebo uživatele, při kterém se útočník snaží napodobit Vaše SSID a přimět tak uživatele připojit se k jeho AP namísto Vaší sítě. Důrazně doporučujeme prošetřit potenciální bezpečnostní problémy s tímto související.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "Poblíž {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Nejbližší {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Vše",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Označit jako známý",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Odebrat ze známých",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Označit přístupové body jako známé",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Opravdu chcete označit přístupový bod \"{{essid}}\" jako známý?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "AP \"{{essid}}\" byl označen jako známý.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "Při označování AP \"{{essid}}\" za známý došlo k chybě.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "AP \"{{essid}}\" byl odebrán ze seznamu známých.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "Při odebírání AP \"{{essid}}\" ze seznamu známých došlo k chybě."
+}

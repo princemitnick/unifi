@@ -1,0 +1,19 @@
+{
+  "DASHBOARD_FILTER_DEFINITIONS_DEVICES_UAP": "Filtrera accesspunkter",
+
+  "DASHBOARD_FILTER_DEVICES_TITLE_LABEL": "Filter:",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE": "{count, plural, one {# Enhet} other {# Enheter}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_TOP": "Top {count, plural, en {# Enhet} other {# Enheter}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_ALL": "Alla enheter",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE": "{count, plural, one {# Accesspunkt} other {# Accesspunkter}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_TOP": "Top {count, plural, en {# Accesspunkt} other {# Accesspunkter}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_ALL": "Alla accesspunkter",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE": "{count, plural, one {# Switch} other {# Switchar}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_TOP": "Top {count, plural, en {# Switch} other {# Switchar}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_ALL": "Alla switchar",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_SELECT_ALL": "Alla enheter",
+  "DASHBOARD_FILTER_DEVICES_UAP_SELECT_ALL": "Alla accesspunkter",
+  "DASHBOARD_FILTER_DEVICES_USW_SELECT_ALL": "Alla switchar"
+}

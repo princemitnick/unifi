@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Arşiv",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Tümünü arşivle",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Daha fazla getir",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Arşivlenen uyarıları göster",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "Bu zaman diliminde hiçbir uyarı yok.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "Bu zaman diliminde herhangi bir olay yok.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "Arama ölçütlerine uygun bir etkinlik yok.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "Sonuçlar {{currentLength}} ile {{totalLength}} arasında sınırlıdır.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "Tümü",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Hatalar",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "Genel",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Uyarılar",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Yönetici",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "Tümü",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "Yerel Ağ",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Etkinlik",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Zaman",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} Etkinlik",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "{{count}} Daha Fazla Etkinlik"
+}

@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Gestor de \"Hotspot\"",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Nome de utilizador",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Senha",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Lembrar-me",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Entrar",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "SSO Login",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Esqueceu a senha?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Extend session timeout to 7 days.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Insert your 2FA token",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6 Digits Token",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Logging canceled",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Authentication error",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Erro ao iniciar sessão",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Nome de utilizador e/ou senha inválidos.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Invalid 2FA Token",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Limpar erro de senha",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Falhou a verificação da conta",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Se já tem um nome de utilizador e senha pode",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "Iniciar sessão aqui.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "Entrar SSO...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Por favor, indique o seu endereço de e-mail para reconfigurar sua senha",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Restabelecer senha",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Regressar",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Um e-mail foi enviado para recuperar a sua senha.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Houve um erro ao recuperar a sua senha.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Uma conta para todos as aplicações e serviços Ubiquiti.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Não tem conta?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Registre-se aqui"
+}

@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Archivovať",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Archivovať všetko",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Stiahnuť viac",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Zobraziť archivované upozornenia",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "V danom časovom období nie sú žiadne výstrahy.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "V danom časovom období nie sú žiadne udalosti.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "Žiadna udalosť nezodpovedá hľadaným kritériám.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "Počet výsledkov je obmedzený na {{currentLength}} z celkom {{totalLength}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "All",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Chyby",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "Všeobecné",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Upozornenia",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Správca",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "All",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Udalosť",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Time",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} udalostí",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "{{count}} dalších udalostí"
+}

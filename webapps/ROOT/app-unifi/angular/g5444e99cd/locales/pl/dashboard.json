@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "Metryki WiFi",
+  "DASHBOARD_NAMES_UNDEFINED": "Pulpit",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Dodaj widżet",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Added",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "Brak modułów dostępnych w tej chwili.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Zarządzaj pulpitami",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Close",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Pulpit",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Opis",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Akcje",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Nie znaleziono panelu zarządzania",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Open",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Edytuj",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Usuń",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Subskrybuj",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Usuń subskrybcję",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Udostępnij",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Usuń udostępnianie",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Eksportuj",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Dodaj spersonalizowany pulpit",
+  "DASHBOARD_FORM_TITLE_EDIT": "Edytuj informacje o pulpicie",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Nazwa pliku: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Nazwa pliku: <em>Nieprawidłowa lub brakująca</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Nazwa pulpitu",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Opis",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Lub importuj plik pulpitu",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Wyczyść plik",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Przeciągnij i upuść lub",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Przeglądaj pliki",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Wystąpił problem podczas tworzenia panelu.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Nieprawidłowy plik pulpitu. W tym miejscu zaimportować można wyłącznie pliki wyeksportowane z kontrolera UniFi.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Brakujący plik do importu.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "Zaimportowany pulpit nie posiada żadnych widżetów.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Ten pulpit został utworzony przy użyciu kontrolera w wersji {{dashboardControllerVersion}}. Aktualnie używana wersja to {{currentControllerVersion}}. Aby wyświetlić wszystkie widżety na tym pulpicie, zaktualizuj kontroler do nowszej wersji.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "Podczas zapisywania panelu \"{{name}}\" wystąpił błąd.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Nie można zapisać panelu {{name}}. Jest on tylko do odczytu.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "Podczas usuwania panelu {{name}} wystąpił błąd.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Edytuj widżety",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Zarządzaj pulpitami",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Dodaj spersonalizowany pulpit",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Gotowe",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Personalizuj pulpit"
+}

@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "吞吐量",
+  "ISP_MODAL_1_HOUR": "1 小时",
+  "ISP_MODAL_24_HOURS": "24 小时",
+  "ISP_MODAL_7_DAYS": "7 天",
+  "ISP_MODAL_30_DAYS": "30 天",
+
+  "ISP_MODAL_SUMMARY_HEADER": "汇总",
+  "ISP_MODAL_THROUGHPUT_HEADER": "下载/上传历史",
+  "ISP_MODAL_LATENCY_HEADER": "历史延迟",
+
+  "ISP_MODAL_UPLOAD_LABEL": "上传",
+  "ISP_MODAL_DOWNLOAD_LABEL": "下载",
+  "ISP_MODAL_LATENCY_LABEL": "延迟",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "网络汇总",
+  "ISP_MODAL_TOP_PROCESS": "最活跃的进程",
+  "ISP_MODAL_DOWN": "下载",
+  "ISP_MODAL_UP": "上传"
+}

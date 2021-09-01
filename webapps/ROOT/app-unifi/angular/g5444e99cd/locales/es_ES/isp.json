@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "Actividad",
+  "ISP_MODAL_1_HOUR": "1 hora",
+  "ISP_MODAL_24_HOURS": "24 horas",
+  "ISP_MODAL_7_DAYS": "7 días",
+  "ISP_MODAL_30_DAYS": "30 días",
+
+  "ISP_MODAL_SUMMARY_HEADER": "Resumen",
+  "ISP_MODAL_THROUGHPUT_HEADER": "Historial de Subidas/Bajadas",
+  "ISP_MODAL_LATENCY_HEADER": "Historial de latencias",
+
+  "ISP_MODAL_UPLOAD_LABEL": "Subida",
+  "ISP_MODAL_DOWNLOAD_LABEL": "Bajada",
+  "ISP_MODAL_LATENCY_LABEL": "Latencia",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "Resumen de la red",
+  "ISP_MODAL_TOP_PROCESS": "Principales procesos",
+  "ISP_MODAL_DOWN": "Bajada",
+  "ISP_MODAL_UP": "Subida"
+}

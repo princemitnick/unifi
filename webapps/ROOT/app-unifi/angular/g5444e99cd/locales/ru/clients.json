@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Фото",
+  "CLIENT_TABLE_HEADER_ICON": "Значок",
+  "CLIENT_TABLE_HEADER_NAME": "Имя",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Имя узла",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "MAC адрес",
+  "CLIENT_TABLE_HEADER_IP": "IP адрес",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "802.1Х Идентификация",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1Х VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Статус",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Группа",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Подключение",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Сеть",
+  "CLIENT_TABLE_HEADER_AP_PORT": "ТД/Порт",
+  "CLIENT_TABLE_HEADER_AP": "ТД",
+  "CLIENT_TABLE_HEADER_PORT": "Порт",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Канал",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi Соединение",
+  "CLIENT_TABLE_HEADER_FT": "Быстрый роуминг",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Сигнал",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "LAN Трафик Загр",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "LAN Трафик Отд",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Активность Загр",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Активность Отпр",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Скорость приёма",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Скорость Приёма",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Активность",
+  "CLIENT_TABLE_HEADER_UPTIME": "Время работы",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Продукт",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Производитель",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Тип устройства",
+  "CLIENT_TABLE_HEADER_OS_NAME": "ОС устройства",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Эффективность",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "Производительность WiFi",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Проводная эффективность",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Действия",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Быстрый BSS Transition",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Активность клиентской сети за последние 5 минут",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {client} other {clients}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Клиенты отсутствуют",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "При обнаружении устройств в сети они автоматически появятся в этом списке.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Нет клиентов, соответствующих заданному условию.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Активность",
+  "CLIENT_ACTIVE_FILTER_ALL": "Все",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Активные",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Подключения",
+  "CLIENT_WIRED_FILTER_ALL": "Все",
+  "CLIENT_WIRED_FILTER_FALSE": "Беспроводные",
+  "CLIENT_WIRED_FILTER_TRUE": "Проводные",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Типы клиентов",
+  "CLIENT_GUEST_FILTER_ALL": "Все",
+  "CLIENT_GUEST_FILTER_FALSE": "Пользователи",
+  "CLIENT_GUEST_FILTER_TRUE": "Гости",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Тип Радио",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Все",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Сеть",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Авторизован",
+  "CLIENT_TABLE_STATUS_PENDING": "Ожидает",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Все настроенные клиенты",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Добавить клиента",
+
+  "CLIENT_ADD_TITLE": "Добавить клиента",
+  "CLIENT_ADD_EDIT_TITLE": "Изменить клиента",
+  "CLIENT_ADD_LIST_TITLE": "Клиенты ждущие применения изменённых настроек",
+
+  "CLIENT_ADD_LABEL_MAC": "MAC адрес",
+  "CLIENT_ADD_LABEL_ALIAS": "Псевдоним",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Группа",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Фиксированный IP",
+  "CLIENT_ADD_LABEL_NETWORK": "Сеть",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "IP адрес",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "Этот IP адрес уже добавлен.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "Этот MAC адрес уже добавлен.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Этот МАС адрес уже используется.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Не могу добавить multicast MAC Address.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Не могу добавить broadcast MAC Address.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Добавить клиента",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "MAC адрес",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Псевдоним",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Группа Пользователей",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Сеть",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "IP адреса",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Discard 1 client} other {Discard # clients}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Are you sure you want to discard 1 client already added to the list?} other {Are you sure you want to discard # clients already added to the list?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "По умолчанию",
+  "CLIENT_COLUMNS_PRESET_ALL": "Все колонки"
+}

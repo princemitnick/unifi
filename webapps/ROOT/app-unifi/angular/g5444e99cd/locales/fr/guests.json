@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Package",
+  "GUEST_TABLE_HEADER_AMOUNT": "Total",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Autorisé par",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Télécharger",
+  "GUEST_TABLE_HEADER_UPLOAD": "Envoyer",
+  "GUEST_TABLE_HEADER_STATUS": "Statut",
+  "GUEST_TABLE_HEADER_ACTIONS": "Actions",
+  "GUEST_TABLE_HEADER_NAME": "Name",
+  "GUEST_TABLE_HEADER_NOTE": "Note",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "ID session RADIUS",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "Utilisateur RADIUS",
+  "GUEST_TABLE_HEADER_START": "Date de début",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Aucun invité trouvé",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Aucune invité ne correspond à ce critère de recherche",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "Aucun invité ne s'est connecté",
+
+  "GUEST_ACTIONS_DISCONNECT": "Déconnecter",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "L’invité a été déconnecté",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Une erreur est survenue lors de la déconnexion d’un invité",
+  "GUEST_ACTIONS_EXTEND": "Étendre",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "L’accès a été étendu",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Une erreur est survenue lors de l’extension de l’accès.",
+
+  "GUEST_STATUS_EXPIRED": "Expire le {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Autorisé, géré par Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Valide jusqu’au {{date}}"
+}

@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Hotspot-administration",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Användarnamn",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Lösenord",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Kom ihåg mig",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Logga in",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "SSO-login",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Glömt lösenordet?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Förläng sessionens timeout till 7 dagar.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Mata in ditt 2FA (tvåfaktorsautentisering) lösenord",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6 siffor",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Login avbrutet",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Autentiseringsfel",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Inloggningsfel",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Ogiltigt användarnamn och/eller lösenord.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Ogiltigt 2FA (tvåfaktorsautentisering) lösenord",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Lösenordsåterställningsfel",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Fel vid kontoverifiering",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Om du redan har ett användarnamn och lösenord så kan du",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "logga in här.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "SSO inloggning...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Ange din e-postadress för att återställa ditt lösenord",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Återställ lösenord.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Tillbaka",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Ett mail har skickats för att återställa ditt lösenord.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Ett fel uppstod när ditt lösenord skulle återställas.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Ett konto för alla Ubiquiti appar och tjänster.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Inget konto?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Registrera här"
+}

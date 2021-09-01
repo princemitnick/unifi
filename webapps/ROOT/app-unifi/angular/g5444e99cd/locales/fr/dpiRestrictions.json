@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Éditer les restrictions de groupe",
+  "DPI_RESTRICTION_HEADER_ADD": "Ajouter des restrictions au groupe",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Ajouter une restriction de catégorie",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Créer un nouveau groupe de restriction",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Ajouter une restriction",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Groupe",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Catégorie",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Application",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Catégories restreintes",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Applications restreintes",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Activé",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Bloquer",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Limite Down",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Limite Up",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Journal de trafic",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Activer le log du trafic correspondant à cette restriction",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Activer cette restriction",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Bloquer tout le trafic correspondant",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Sélectionner le groupe",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Sélectionner une catégorie",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "Toutes les applications",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "Supprimer la restriction DPI",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Êtes-vous certain de vouloir supprimer la restriction DPI ?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "La restriction DPI à bien été supprimée.",
+  "DPI_RESTRICTION_DELETE_ERROR": "Erreur lors de la suppression de la restriction DPI.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "Restriction DPI enregistrée.",
+  "DPI_RESTRICTION_SAVE_ERROR": "Erreur lors de l’enregistrement de la restriction DPI.",
+
+  "DPI_RESTRICTION_GROUP": "Groupe de restriction",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Créer un groupe de restriction",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Modifier le groupe de restriction",
+  "DPI_RESTRICTION_GROUP_NAME": "Nom du groupe",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "Groupe de restriction DPI enregistré.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "Erreur lors de l’enregistrement du groupe de restriction DPI.",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Supprimer le groupe de restriction DPI",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Voulez-vous vraiment supprimer le groupe de restriction DPI \"{groupName}\" ?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {Le groupe de restriction DPI \"{groupName}\" a 1 restriction. Voulez-vous supprimer ce groupe ainsi que son contenu ?} other {Le groupe de restriction DPI \"{groupName}\" a # restrictions. Voulez-vous supprimer ce groupe ainsi que son contenu ?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {Le groupe de restriction DPI \"{groupName}\" a 1 affectation. Voulez-vous supprimer ce groupe ainsi que ses affectations ?} other {Le groupe de restriction DPI \"{groupName}\" a # affectations. Voulez-vous supprimer ce groupe ainsi que ses affectations ?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {Le groupe de restriction DPI \"{groupName}\" a une restriction et {assignmentsNumber, pluriel, un {1 affectation} autre {# affectations}}. Voulez-vous supprimer le groupe, son contenu et ses affectations?} other {Le groupe de restriction DPI \"{groupName}\" a # restrictions et {assignmentsNumber, pluriel, un {1 affectation} autre {# affectations}}. Voulez-vous supprimer le groupe, son contenu et ses affectations ?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "Groupe de restriction DPI supprimé.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "Erreur lors de la suppression du groupe de restriction DPI.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Catégorie/App",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Activée",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Bloqué",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Log du trafic",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Limite Up",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Limite Down",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Actions",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Illimité",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "Aucune restriction ajoutée à ce groupe.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Réseaux",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Réseaux sans-fil",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Affecter des restrictions au réseau",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Affecter des restrictions DPI au réseau",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Réseau",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Sélectionnez un réseau",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Sélectionner un groupe",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "Tous les réseaux disponibles ont déjà des restrictions.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "La restriction DPI à bien été assignée.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "Une erreur est survenue lors de l’assignation de la restriction DPI.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Supprimer l’affectation de groupe de réseau ?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Voulez-vous vraiment supprimer l’affectation réseau du groupe de restriction DPI ?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "L’affectation  réseau du groupe de restriction DPI a été supprimée.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Une erreur est survenue lors de la suppression des restriction DPI affectées aux réseaux.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Réseau sans-fil",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Réseau",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": " Aucune restriction DPI n’a été appliquée aux réseaux sans-fil.",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": "Aucune restriction DPI n’a été affectée aux réseaux."
+}

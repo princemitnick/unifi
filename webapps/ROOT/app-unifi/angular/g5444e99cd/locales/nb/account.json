@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Hotspot-håndterer",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Brukernavn",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Passord",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Husk meg",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Logg Inn",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "SSO Login",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Glemt passord?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Utvid øktens varighet til 7 dager",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Sett inn din 2FA kode",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6 talls kode",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Logging avbrudt",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Godkjenningsfeil",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Innloggingsfeil",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Ugyldig brukernavn og/eller passord.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Ugyldig 2FA kode",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Feil ved tilbakestilling av passord",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Verifisering av konto mislyktes",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Hvis du allerede har en brukerkonto kan du",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "logg inn her",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "Innlogging med SSO...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Vennligst skriv inn e-postadressen din for å tilbakestille passordet.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Tilbakestill passord",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Tilbake",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "En e-post har blitt sendt til deg for gjenoppretting av passordet.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Det oppstod en feil ved gjenoppretting av passordet.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "En konto for alle Ubiquiti apper og tjenester.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Ingen konto?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Registrer deg her."
+}

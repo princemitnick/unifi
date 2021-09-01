@@ -1,0 +1,52 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "Refund",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Refund payment",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Are you sure you want to refund payment?",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "The payment has been refunded.",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "There was an error refunding the payment.",
+
+  "PAYMENT_ACTIONS_REMOVE": "Remove",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_TITLE": "Remove payment",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_MESSAGE": "Are you sure you want to remove payment?",
+  "PAYMENT_ACTIONS_REMOVE_SUCCESS": "The payment has been removed.",
+  "PAYMENT_ACTIONS_REMOVE_ERROR": "There was an error removing the payment.",
+
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA": "Remove Personal Data",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_TITLE": "Remove Personal data",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_MESSAGE": "Are you sure you want to remove personal data from this payment?",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_SUCCESS": "The personal data has been removed from payment.",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_ERROR": "There was an error removing the personal data.",
+
+  "PAYMENT_STATUS_AUTHORIZED": "ავტორიზებული",
+  "PAYMENT_STATUS_PAID": "Paid",
+  "PAYMENT_STATUS_VOID": "Voided/Refunded",
+
+  "PAYMENT_GATEWAY_AUTHORIZE": "Authorize.net",
+  "PAYMENT_GATEWAY_FACEBOOK": "ფეისბუქი",
+  "PAYMENT_GATEWAY_FREE": "Free Trial",
+  "PAYMENT_GATEWAY_GOOGLE": "გუგლი",
+  "PAYMENT_GATEWAY_IPPAY": "IPpay",
+  "PAYMENT_GATEWAY_MERCHANTWARRIOR": "Merchant Warrior",
+  "PAYMENT_GATEWAY_PAYPAL": "PayPal",
+  "PAYMENT_GATEWAY_QUICKPAY": "Quickpay",
+  "PAYMENT_GATEWAY_STRIPE": "Stripe",
+
+  "PAYMENT_FILTER_TRANSACTION_TYPE": "Transaction type",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_ALL": "ყველა",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_PAYMENTS": "Payments",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_SOCIAL": "Social",
+
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Amount",
+  "PAYMENT_TABLE_HEADER_EMAIL": "ელ.ფოსტა",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Extra info",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "First name",
+  "PAYMENT_TABLE_HEADER_GATEWAY": "Gateway",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Last name",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Package",
+  "PAYMENT_TABLE_HEADER_STATUS": "სტატუსი",
+  "PAYMENT_TABLE_HEADER_TIME": "დრო",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "No transactions found",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "No transactions match that search criteria.",
+  "PAYMENT_TABLE_EMPTY_NO_TRANSACTIONS": "No transactions have been processed."
+}

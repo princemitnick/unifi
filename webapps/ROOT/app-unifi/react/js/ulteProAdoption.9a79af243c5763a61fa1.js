@@ -1,0 +1,1 @@
+(window.webpackJsonpunifiNetworkUi=window.webpackJsonpunifiNetworkUi||[]).push([[33],{2912:function(e,c,t){"use strict";t.r(c);var a=t(0),i=t.n(a),n=t(6),o=t(232),m=t(64),r=t(1145);var w=({mac:e})=>i.a.createElement(r.a,{mac:e});c.default=({mac:e})=>Object(m.e)([Object(n.fetchDevice)(e),Object(o.c)("devices"),Object(o.c)("common")],i.a.createElement(w,{mac:e}))}}]);

@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Arayüz",
+  "ROUTING_TABLE_HEADER_METRIC": "Metrik",
+  "ROUTING_TABLE_HEADER_PREFIX": "Önek",
+  "ROUTING_TABLE_HEADER_TYPE": "Tip",
+  "ROUTING_TABLE_HEADER_VIA": "ile",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Hiç bir yonlendirme dönmedi",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Ağınıza bir yönlendirme eklendiğinde, otomatik olarak bu listede görünecektir.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Arama ölçütlerine uygun yönlendirme bulunamadı."
+}

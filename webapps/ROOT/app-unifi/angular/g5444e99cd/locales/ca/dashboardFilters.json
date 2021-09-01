@@ -1,0 +1,19 @@
+{
+  "DASHBOARD_FILTER_DEFINITIONS_DEVICES_UAP": "Filtrar per Punt d'accés",
+
+  "DASHBOARD_FILTER_DEVICES_TITLE_LABEL": "Filtre:",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE": "{count, plural, one {# Dispositiu} other {# Dispositius}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_TOP": "Principal{count, plural, one{ # Dispositiu} other{s # Dispositius}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_ALL": "Tots els dispositius",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE": "{count, plural, one {# Punt d'accés} other {# Punts d'accés}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_TOP": "Principal{count, plural, one{ # Punt d'accés} other{s # Punts d'accés}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_ALL": "Tots els Punts d'accés",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE": "{count, plural, one {# Commutador} other {# Commutadors}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_TOP": "Principal{count, plural, one{ # Commutador} other{s # Commutadors}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_ALL": "Tots els Commutadors",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_SELECT_ALL": "Tots els dispositius",
+  "DASHBOARD_FILTER_DEVICES_UAP_SELECT_ALL": "Tots els Punts d'accés",
+  "DASHBOARD_FILTER_DEVICES_USW_SELECT_ALL": "Tots els Commutadors"
+}

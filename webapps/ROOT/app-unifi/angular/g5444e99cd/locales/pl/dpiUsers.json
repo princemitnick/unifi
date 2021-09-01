@@ -1,0 +1,11 @@
+{
+  "CLIENT_PROPERTIES_LABEL_UP_PKTS_BYTES": "Wysłane Pakiety/Bajty",
+  "CLIENT_PROPERTIES_LABEL_DOWN_PKTS_BYTES": "Pobrane Pakiety/Bajty",
+  "DPI_USERS_TABLE_HEADER_NAME": "Nazwa Klienta",
+  "DPI_USERS_TABLE_HEADER_CATEGORIES": "Kategorie",
+  "DPI_USERS_TABLE_HEADER_UP": "Wysłane",
+  "DPI_USERS_TABLE_HEADER_DOWN": "Pobrane",
+
+  "DPI_USERS_TABLE_EMPTY_HEADER": "Brak danych DPI",
+  "DPI_USERS_TABLE_EMPTY_NO_DATA": "Brak danych DPI dla wybranych kategorii."
+}

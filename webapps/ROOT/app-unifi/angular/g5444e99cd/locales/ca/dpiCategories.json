@@ -1,0 +1,22 @@
+{
+  "DPI_CATEGORIES_INSTANT_MESSAGING": "Missatgeria instantània",
+  "DPI_CATEGORIES_P2P": "P2P",
+  "DPI_CATEGORIES_FILE_TRANSFER": "Transferència d'arxius",
+  "DPI_CATEGORIES_STREAMING_MEDIA": "Multimèdia",
+  "DPI_CATEGORIES_MAIL_AND_COLLABORATION": "Correu i Col·laboració",
+  "DPI_CATEGORIES_VOICE_OVER_IP": "Veu sobre IP",
+  "DPI_CATEGORIES_DATABASE": "Bases de dades",
+  "DPI_CATEGORIES_GAMES": "Jocs",
+  "DPI_CATEGORIES_NETWORK_MANAGEMENT": "Gestió de xarxa",
+  "DPI_CATEGORIES_REMOTE_ACCESS_TERMINALS": "Terminals d'accés remot",
+  "DPI_CATEGORIES_BYPASS_PROXIES_AND_TUNNELS": "Servidors proxy i Túnels",
+  "DPI_CATEGORIES_STOCK_MARKET": "Mercats de valors",
+  "DPI_CATEGORIES_WEB": "Web",
+  "DPI_CATEGORIES_SECURITY_UPDATE": "Actualitzacions de seguretat",
+  "DPI_CATEGORIES_WEB_IM": "Missatgeria instantània per web",
+  "DPI_CATEGORIES_BUSINESS": "Negocis",
+  "DPI_CATEGORIES_NETWORK_PROTOCOLS": "Protocols de xarxa",
+  "DPI_CATEGORIES_PRIVATE_PROTOCOL": "Protocols de privacitat",
+  "DPI_CATEGORIES_SOCIAL_NETWORK": "Xarxes socials",
+  "DPI_CATEGORIES_UNKNOWN": "Desconegut"
+}

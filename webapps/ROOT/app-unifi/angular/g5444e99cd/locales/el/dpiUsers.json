@@ -1,0 +1,11 @@
+{
+  "CLIENT_PROPERTIES_LABEL_UP_PKTS_BYTES": "Ανερχόμενα Pkts/Bytes",
+  "CLIENT_PROPERTIES_LABEL_DOWN_PKTS_BYTES": "Κατερχόμενα Pkts/Bytes",
+  "DPI_USERS_TABLE_HEADER_NAME": "Όνομα πελάτη",
+  "DPI_USERS_TABLE_HEADER_CATEGORIES": "Κατηγορίες",
+  "DPI_USERS_TABLE_HEADER_UP": "Πάνω",
+  "DPI_USERS_TABLE_HEADER_DOWN": "Κάτω",
+
+  "DPI_USERS_TABLE_EMPTY_HEADER": "Κανένα δεδομένο DPI",
+  "DPI_USERS_TABLE_EMPTY_NO_DATA": "Κανένα δεδομένο DPI για τις επιλεγμένες κατηγορίες"
+}

@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Foto",
+  "CLIENT_TABLE_HEADER_ICON": "Ikon",
+  "CLIENT_TABLE_HEADER_NAME": "Navn",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Værtsnavn",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "MAC-adresse",
+  "CLIENT_TABLE_HEADER_IP": "IP-adresse",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "802.1X Identitet",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Status",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Brugergruppe",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Forbindelse",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Netværk",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Port",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Port",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Kanal",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi-forbindelse",
+  "CLIENT_TABLE_HEADER_FT": "Hurtig roaming",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Signal",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "LAN-trafik ned",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "LAN-trafik op",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Aktivitet ned",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Aktivitet op",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Tx værdi",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Rx værdi",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Aktivitet",
+  "CLIENT_TABLE_HEADER_UPTIME": "Oppetid",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Produkt",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Fabrikant",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Enhedstype",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Enheds OS",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Oplevelse",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "Wi-Fi oplevelse",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Kablet oplevelse",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Handlinger",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Hurtig BSS overgang",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Klientnetværksaktivitet i de sidste 5 minutter",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {klient} other {klienter}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Ingen klienter fundet",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "Når en  klient er opdaget på dit netværk, vil den automatisk blive vist på listen.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Ingen klienter matcher det søgekriterie.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Aktive",
+  "CLIENT_ACTIVE_FILTER_ALL": "Alle",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Aktive",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Forbindelse",
+  "CLIENT_WIRED_FILTER_ALL": "Alle",
+  "CLIENT_WIRED_FILTER_FALSE": "Trådløs",
+  "CLIENT_WIRED_FILTER_TRUE": "Kablet",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Klient type",
+  "CLIENT_GUEST_FILTER_ALL": "Alle",
+  "CLIENT_GUEST_FILTER_FALSE": "Brugere",
+  "CLIENT_GUEST_FILTER_TRUE": "Gæster",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Radio type",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Alle",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Netværk",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Autoriseret",
+  "CLIENT_TABLE_STATUS_PENDING": "Afventer",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Alle konfigurerede klienter",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Tilføj klient",
+
+  "CLIENT_ADD_TITLE": "Tilføj klient",
+  "CLIENT_ADD_EDIT_TITLE": "Redigere klient",
+  "CLIENT_ADD_LIST_TITLE": "Klient  med ventende ændringer",
+
+  "CLIENT_ADD_LABEL_MAC": "MAC-adresse",
+  "CLIENT_ADD_LABEL_ALIAS": "Alias",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Bruger Gruppe",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Statisk IP",
+  "CLIENT_ADD_LABEL_NETWORK": "Netværk",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "IP-adresse",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "Denne IP-adresse er allerede tilføjet.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "Denne MAC-adresse er allerede tilføjet.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Denne MAC-adresse er allerede i brug.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Kan ikke tilføje multicast MAC-adresse.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Kan ikke tilføje broadcast-MAC-adresse.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Tilføj klient",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "MAC-adresse",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Alias",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Bruger Gruppe",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Netværk",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "IP-adresse",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Fjern 1 klient} other {Fjern # klienter}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Er du sikker på du vil fjerne 1 klient som allerede er tilføjet på listen?} other {Er du sikker på du vil fjerne # klienter som allerede er tilføjet på listen?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Standard",
+  "CLIENT_COLUMNS_PRESET_ALL": "Alle kolonner"
+}

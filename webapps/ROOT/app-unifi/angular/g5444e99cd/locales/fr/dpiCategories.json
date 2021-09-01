@@ -1,0 +1,22 @@
+{
+  "DPI_CATEGORIES_INSTANT_MESSAGING": "Messagerie instantanée",
+  "DPI_CATEGORIES_P2P": "P2P",
+  "DPI_CATEGORIES_FILE_TRANSFER": "Transfert de fichiers",
+  "DPI_CATEGORIES_STREAMING_MEDIA": "Média en streaming",
+  "DPI_CATEGORIES_MAIL_AND_COLLABORATION": "E-mail et collaboration",
+  "DPI_CATEGORIES_VOICE_OVER_IP": "Voix sur IP",
+  "DPI_CATEGORIES_DATABASE": "Base de données",
+  "DPI_CATEGORIES_GAMES": "Jeux",
+  "DPI_CATEGORIES_NETWORK_MANAGEMENT": "Gestion du réseau",
+  "DPI_CATEGORIES_REMOTE_ACCESS_TERMINALS": "Terminal d’accès distant",
+  "DPI_CATEGORIES_BYPASS_PROXIES_AND_TUNNELS": "Proxys, tunnels et autre bypass",
+  "DPI_CATEGORIES_STOCK_MARKET": "Actions de marché",
+  "DPI_CATEGORIES_WEB": "Web",
+  "DPI_CATEGORIES_SECURITY_UPDATE": "Mise à jour de sécurité",
+  "DPI_CATEGORIES_WEB_IM": "Messagerie instantanée web",
+  "DPI_CATEGORIES_BUSINESS": "Business",
+  "DPI_CATEGORIES_NETWORK_PROTOCOLS": "Protocoles réseau",
+  "DPI_CATEGORIES_PRIVATE_PROTOCOL": "Protocole privé",
+  "DPI_CATEGORIES_SOCIAL_NETWORK": "Réseau social",
+  "DPI_CATEGORIES_UNKNOWN": "Inconnu"
+}

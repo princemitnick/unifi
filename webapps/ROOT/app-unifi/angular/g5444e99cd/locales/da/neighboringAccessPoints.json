@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BW [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Kanal",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Navn/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Sidst set",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Lokation",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Fabrikant",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Rogue",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Sikkerhed",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Signal",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "Ingen access points fundet i nærområdet",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Ingen access points er blevet opdaget endnu.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "Ingen access points matcher det søgekriterie.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Dette AP sender det samme SSID som AP(er) i din lokation. Dette kan være et angreb på dit netværk eller brugere, fra en hacker der forsøger at efterligne dit SSID for at få brugere til at forbinde til deres AP(er) istedet for dit netværk.\nDet anbefales at det undersøges om dette er en mulig trussel.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "Nær {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Nærmest {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Alle",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Markere som kendt",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Fjern som kendt",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Markér Access Point som kendt",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Er du sikker på at du vil markere access point \"{{essid}}\" som kendt?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "AP  \"{{essid}}\" var markeret som kendt.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "Der opstod en fejl ved markering af AP  \"{{essid}}\" som kendt.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "AP  \"{{essid}}\" blev fjernet som kendt.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "Der opstod en fejl ved fjernelsen af AP  \"{{essid}}\" som kendt."
+}

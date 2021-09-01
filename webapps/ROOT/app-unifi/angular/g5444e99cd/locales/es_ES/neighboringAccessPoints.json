@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BW [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Canal",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Nombre/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Visto por última vez",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Ubicación",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Fabricante",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Ilegal",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Seguridad",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Señal",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "No hay ningún Punto de acceso próximo",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Aún no se han descubierto puntos de acceso.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "No hay Puntos de acceso que coincidan con el criterio de búsqueda.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Este AP está transmitiendo el mismo SSID que AP(s) en tu sitio. Esto puede ser un ataque a tu red o usuarios, con el atacante intentando copiar tu SSID con el fin de que los usuarios se conecten a su(s) AP(s) en vez de a tu red. Una investigación del origen de esta potencial amenaza es altamente recomendada.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "Cerca de {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Más cercano de {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Todos",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Marcar como conocido",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Eliminar de conocidos",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Marcar Puntos de Acceso como conocidos",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "¿Está seguro de que quiere marcar el punto de acceso \"{{essid}}\" como conocido?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "El AP \"{{essid}}\" ha sido marcado como conocido.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "Se ha producido un error al marcar el AP \"{{essid}}\" como conocido.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "El AP \"{{essid}}\" fue eliminado de la lista de conocidos.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "Se ha producido un error al eliminar el AP \"{{essid}}\" de la lista de conocidos."
+}

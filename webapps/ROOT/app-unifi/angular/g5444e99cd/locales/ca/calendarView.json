@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Arxiva",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Arxivar-ho tot",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Obtenir-ne més",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Mostrar les alertes arxivades",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "No hi ha cap alerta.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "No hi ha cap esdeveniment dins aquesta franja.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "No hi ha cap esdeveniment amb aquest criteri de cerca.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "El nombre de resultats està limitat a {{currentLength}} of {{totalLength}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "Tots",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Errors",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "General",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Alertes",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Administració",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "Tots",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Esdeveniment",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Hora",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} esdeveniments",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "{{count}} esdeveniments més"
+}

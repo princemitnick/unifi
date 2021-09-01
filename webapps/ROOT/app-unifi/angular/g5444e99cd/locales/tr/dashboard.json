@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "WiFi Ölçümleri",
+  "DASHBOARD_NAMES_UNDEFINED": "Denetim paneli",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Araç ekle",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Eklendi",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "Şu an için hiçbir modül mevcut değil.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Denetin panelini yönet",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Kapat",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Denetim Paneli",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Tanım",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Eylemler",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Denetim paneli bulunamadı",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "aç",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Düzenle",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Sil",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Abone Ol",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Abonelikten Çık",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Paylaş",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Paylaşma",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Dışa aktar",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Özel Denetim Paneli Ekle",
+  "DASHBOARD_FORM_TITLE_EDIT": "Denetim Paneli Bilgilerini Düzenle",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Dosya Adı: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Dosya Adı: <em>Invalid or missing</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Denetim Paneli Adı",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Tanım",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Veya Denetim Paneli Dosyası Yükleyin",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Yüklemeyi temizle",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Sürükle & Bırak veya",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Dosyalara Göz At",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Denetim paneli oluşturulurken bir hata meydana geldi.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Hatalı denetim paneli dosyası. Sadece UniFi Konhtrolcüsünden alınmış dosyalar yüklenebilir.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Eksik aktarım dosyası.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "Aktarılan denetim panelinde herhangi bir araç bulunmuyor.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Denetim paneli UniFi Kontrolcüsünün {{dashboardControllerVersion}} sürümünde oluşturulmuş. Bu kontrolcü ise {{currentControllerVersion}}. sürümünde çalışıyor. Tüm araçları denetim panelinde kullanabilmek için lütfen kontrolcünüzü daha yeni bir sürüme güncelleyin.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "{{name}} denetim paneli kaydedilirken bir hata oluştu.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "{{name}} denetim paneli kaydedilirken bir hata oluştu. Salt okunur.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "{{name}} denetim paneli kaldırılırken bir hata oluştu.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Araçları düzenle",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Denetin panelini yönet",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Özel denetim paneli ekle",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Tamam",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Denetim panelini özelleştir"
+}

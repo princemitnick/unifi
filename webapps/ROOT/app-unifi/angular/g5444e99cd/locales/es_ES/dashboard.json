@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "Parámetros WiFi",
+  "DASHBOARD_NAMES_UNDEFINED": "Tablero",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Añadir Widget",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Añadido",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "No hay módulos disponibles en este momento.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Gestionar tableros",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Cerrar",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Tablero",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Descripción",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Acciones",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "No se han encontrado tableros.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Habilitar",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Editar",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Eliminar",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Suscribir",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Cancelar suscripción",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Compartir",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Dejar de compartir",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Exportar",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Añadir Tablero personalizado",
+  "DASHBOARD_FORM_TITLE_EDIT": "Editar la información del Tablero",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Nombre del archivo: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Nombre del archivo: <em>Falta o no es válido</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Nombre del tablero",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Descripción",
+  "DASHBOARD_FORM_LABEL_IMPORT": "O importar un archivo de tablero",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Eliminar carga",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Arrastrar y soltar o",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Buscar Archivos",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Se ha producido un error al crear el tablero.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "El archivo de tablero no es válido. Solamente se pueden importar archivos exportados desde un Controlador UniFi.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Falta el archivo para importar.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "El tablero importado no contiene ningún widget.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Este tablero fue creado con la versión {{dashboardControllerVersion}} del Controlador UniFi. Este controlador está ejecutando la versión {{currentControllerVersion}}. Por favor, actualice el controlador a una versión mas nueva para poder utilizar todos los widgets de este tablero.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "Se ha producido un error al guardar el tablero {{name}}.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "No se puede guardar el panel {{name}}. Es de solo lectura.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "Se ha producido un error al eliminar el tablero {{name}}.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Editar herramientas",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Gestionar los tableros",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Añadir tablero personalizado",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Hecho",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Personalizar tablero"
+}

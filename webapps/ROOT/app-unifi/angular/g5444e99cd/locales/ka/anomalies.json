@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "სუსტი სიგნალი",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "გთხოვთ, თქვენი მოწყობილობა მიუახლოვოთ უახლოეს UAP- ს",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "სუსტი PHY Rate",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "გთხოვთ, თქვენი მოწყობილობა მიუახლოვოთ უახლოეს UAP- ს",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "TCP პაკეტების დიდი დანაკარგი",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "გთხოვთ, შეამოწმოთ თქვენი როუტერი, კავშირი ინტერნეტ პროვაიდერთან ან კლიენტის მიერ გამოყენებულ ვებ-სერვისთან",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "დიდი TCP შეფერხება",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Please verify your internet connection",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "დიდი TCP შეფერხება",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Please use a router that has traffic shaping enabled, such as Smart Queues on UDM or USG",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "დიდი TCP შეფერხება",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Please enable Smart Queues at your WAN interface in Settings",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "ხშირი განმეორებადი WiFi-ის მოთხოვნა",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "გთხოვთ, განიხილოთ სხვა არხზე გადასვლა",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "WiFi დიდი შეფერხება",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "გთხოვთ, განიხილოთ სხვა არხზე გადასვლა",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "DHCP Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "გთხოვთ შეამოწმოთ, რომ DHCP სერვერი არის ხელმისაწვდომი და სწორად კონფიგურირებული.",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "ARP Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "გთხოვთ შეამოწმოთ, რომ თქვენი gateway ხელმისაწვდომია ამ მოწყობილობიდან.",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "DNS Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "გთხოვთ შეამოწმოთ, რომ DNS სერვერი არის ხელმისაწვდომი და სწორად კონფიგურირებული.",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "DNS დიდი შეფერხება",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "გთხოვთ შეამოწმოთ, რომ DNS სერვერი არის ხელმისაწვდომი და სწორად კონფიგურირებული."
+}

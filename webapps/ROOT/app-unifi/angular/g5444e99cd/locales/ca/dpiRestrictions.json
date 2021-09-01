@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Editar les restriccions del Grup",
+  "DPI_RESTRICTION_HEADER_ADD": "Afegir restriccions al Grup",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Afegir categoria de restricció",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Crear un nou grup",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Afegir restricció",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Grup",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Categoria",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Aplicació",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Categories restringides",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Aplicacions restringides",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Habilitat",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Bloqueja",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Límit de baixada",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Límit de pujada",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Registrar el tràfic",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Habilitar el registre del tràfic que correspongui amb aquesta restricció",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Habilitar aquesta restricció",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Bloqueja tot el tràfic coincident",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Seleccionar un grup",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Seleccionar una categoria",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "Totes les aplicacions",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "Eliminar la restricció DPI",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Estàs segur que vols eliminar la restricció DPI ?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "La restricció DPI s'ha eliminat correctament.",
+  "DPI_RESTRICTION_DELETE_ERROR": "S'ha produït un error mentre s'eliminava la restricció DPI.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "La restricció DPI s'ha desat correctament.",
+  "DPI_RESTRICTION_SAVE_ERROR": "S'ha produït un error mentre es desava la restricció DPI.",
+
+  "DPI_RESTRICTION_GROUP": "Grup de restricció",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Crear un nou grup",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Editar grup de restricció",
+  "DPI_RESTRICTION_GROUP_NAME": "Nom del grup",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "El grup de restricció DPI s'ha desat correctament.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "S'ha produït un error mentre es desava el grup de restricció DPI.",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Eliminar el grup de restricció DPI",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Estàs segur que vols eliminar el grup de restricció DPI {{groupName}} ?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {El Grup de restricció DPI \"{groupName}\" té 1 Restricció. Estàs segur que vols eliminar el Grup i els seus elements ?} other {El Grup de restricció DPI \"{groupName}\" té # Restriccions. Estàs segur que vols eliminar el Grup i els seus elements ?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {El Grup de restricció DPI \"{groupName}\" té 1 Assignació. Estàs segur que vols eliminar el Grup i les seves assignacions ?} other {El Grup de restricció DPI \"{groupName}\" té # Assignacions. Estàs segur que vols eliminar el Grup i les seves assignacions ?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {El Grup de restricció DPI \"{groupName}\" té 1 restricció i {assignmentsNumber, plural, one{1 assignació} other{# assignacions}}. Estàs segur que vols eliminar el Grup així com els seus elements i assignacions ?} other {El Grup de restricció DPI \"{groupName}\" té # Restriccions i {assignmentsNumber, plural, one{1 assignació} other{# assignacions}}. Estàs segur que vols eliminar el Grup així com els seus elements i assignacions ?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "El grup de restricció DPI s'ha eliminat correctament.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "S'ha produït un error mentre s'eliminava el grup de restricció DPI.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Categoria/App",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Habilitat",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Bloquejat",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Registrar el tràfic",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Límit de pujada",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Límit de baixada",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Accions",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Il·limitat",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "No s'ha definit cap restricció en aquest grup.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Xarxes",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Xarxes sense fil",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Assignar restriccions a la xarxa",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Assignar restriccions DPI a la xarxa",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Xarxa",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Seleccionar una xarxa",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Seleccionar un grup",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "Ja s'han assignat restriccions a totes les xarxes disponibles.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "La restricció DPI s'ha assignat correctament.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "S'ha produït un error mentre s'assignava la restricció DPI.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Vols eliminar l'assignació del grup de restricció de la xarxa ?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Estàs segur que vols eliminar l'assignació del grup de  restricció DPI de la xarxa ?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "S'ha eliminat correctament l'assignació del grup de  restricció DPI de la xarxa.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "S'ha produït un error mentre s'eliminava l'assignació del grup de restricció DPI de la xarxa.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Xarxa sense fil",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Xarxa",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": " No s'han assignat restriccions DPI a les xarxes sense fil.",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": " No s'han assignat restriccions DPI a les xarxes."
+}

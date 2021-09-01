@@ -1,0 +1,11 @@
+{
+  "CLIENT_PROPERTIES_LABEL_UP_PKTS_BYTES": "Uitgaande Pkts/Bytes",
+  "CLIENT_PROPERTIES_LABEL_DOWN_PKTS_BYTES": "Inkomende Pkts/Bytes",
+  "DPI_USERS_TABLE_HEADER_NAME": "Client naam",
+  "DPI_USERS_TABLE_HEADER_CATEGORIES": "Categorieën",
+  "DPI_USERS_TABLE_HEADER_UP": "Uitgaand",
+  "DPI_USERS_TABLE_HEADER_DOWN": "Inkomend",
+
+  "DPI_USERS_TABLE_EMPTY_HEADER": "Geen DPI data",
+  "DPI_USERS_TABLE_EMPTY_NO_DATA": "Geen DPI data voor de geselecteerde categorieën."
+}

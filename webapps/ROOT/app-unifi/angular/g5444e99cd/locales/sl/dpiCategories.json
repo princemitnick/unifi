@@ -1,0 +1,22 @@
+{
+  "DPI_CATEGORIES_INSTANT_MESSAGING": "Takojšnje sporočanje",
+  "DPI_CATEGORIES_P2P": "P2P",
+  "DPI_CATEGORIES_FILE_TRANSFER": "Prenos datotek",
+  "DPI_CATEGORIES_STREAMING_MEDIA": "Pretok medijev",
+  "DPI_CATEGORIES_MAIL_AND_COLLABORATION": "Pošta in sodelovanje",
+  "DPI_CATEGORIES_VOICE_OVER_IP": "VOIP",
+  "DPI_CATEGORIES_DATABASE": "Podatkovna baza",
+  "DPI_CATEGORIES_GAMES": "Igre",
+  "DPI_CATEGORIES_NETWORK_MANAGEMENT": "Upravljanje omrežja",
+  "DPI_CATEGORIES_REMOTE_ACCESS_TERMINALS": "Terminal za oddaljeni dostop",
+  "DPI_CATEGORIES_BYPASS_PROXIES_AND_TUNNELS": "Obvoz proxy in tunelov",
+  "DPI_CATEGORIES_STOCK_MARKET": "Trgovina",
+  "DPI_CATEGORIES_WEB": "Splet",
+  "DPI_CATEGORIES_SECURITY_UPDATE": "Varnostna posodobitev",
+  "DPI_CATEGORIES_WEB_IM": "Spletni IM",
+  "DPI_CATEGORIES_BUSINESS": "Podjetje",
+  "DPI_CATEGORIES_NETWORK_PROTOCOLS": "Omrežni protokoli",
+  "DPI_CATEGORIES_PRIVATE_PROTOCOL": "Zasebni protokoli",
+  "DPI_CATEGORIES_SOCIAL_NETWORK": "Socialno omrežje",
+  "DPI_CATEGORIES_UNKNOWN": "Neznano"
+}

@@ -1,0 +1,41 @@
+{
+  "TOPOLOGY_SECTION_TOPOLOGY": "Topology",
+  "TOPOLOGY_SECTION_FLOORPLAN": "Floorplan",
+
+  "TOPOLOGY_LEGEND_MULTIPLE_CONNECTIONS": "Multiple connections",
+  "TOPOLOGY_LEGEND_UPLINK_CONNECTION": "Uplink Connection",
+  "TOPOLOGY_LEGEND_DOWNLINK_CONNECTION": "Downlink Connection",
+  "TOPOLOGY_LEGEND_WIRED": "Wired",
+  "TOPOLOGY_LEGEND_WIRELESS": "Wireless",
+  "TOPOLOGY_LEGEND_2G": "2.4GHz",
+  "TOPOLOGY_LEGEND_5G": "5GHz",
+
+  "TOPOLOGY_FILTER_TOGGLE_LABEL": "Show All Clients",
+
+  "TOPOLOGY_FILTER_SHOW_2G_CLIENTS": "2.4 GHz",
+  "TOPOLOGY_FILTER_SHOW_5G_CLIENTS": "5 GHz",
+  "TOPOLOGY_FILTER_SHOW_SSID": "SSID",
+  "TOPOLOGY_FILTER_SHOW_WIFI_EXPERIENCE": "WiFi Experience",
+  "TOPOLOGY_FILTER_SHOW_RADIO_CHANNEL":"Channel",
+  "TOPOLOGY_FILTER_SHOW_WIFI_STANDARDS": "WiFi Standards",
+  "TOPOLOGY_FILTER_SHOW_WIRED_SPEED":"Speed",
+  "TOPOLOGY_FILTER_SHOW_WIRED_PORTS":"Port in / Port out",
+
+  "TOPOLOGY_FILTER_CAPTION_WIRELESS": "Wireless",
+  "TOPOLOGY_FILTER_CAPTION_WIRED":"Wired",
+
+  "TOPOLOGY_FILTER_BUTTON_LABEL": "Display Options",
+
+  "TOPOLOGY_FILTER_VISIBLE_OF" : "{visible} of {total} items",
+
+  "TOPOLOGY_FILTER_RESET_ALL": "Reset all filter(s)",
+
+  "TOPOLOGY_FLOORPLAN_TITLE": "Coming Soon",
+  "TOPOLOGY_FLOORPLAN_SENTENCE_1": "Floorplan functionality is still available on the legacy version of the Maps page.",
+  "TOPOLOGY_FLOORPLAN_SENTENCE_2": "Click Go To Settings and revert to the old Maps page.",
+  "TOPOLOGY_FLOORPLAN_SENTENCE_3": "Or, try our UniFi Design Center at ",
+  "TOPOLOGY_FLOORPLAN_DESIGN_URL":"Design.UI.com",
+  "TOPOLOGY_FLOORPLAN_SETTINGS_LINK": "Go to Settings",
+  "TOPOLOGY_FLOORPLAN_VISIT_LINK": "Visit UniFi Design Center"
+
+}

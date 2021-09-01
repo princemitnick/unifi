@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "No new log messages yet.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Waiting for logs from controller...",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Download logs",
+  "LOGS_MESSAGES_FETCH_MORE": "Fetch more logs",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "Log file was successfully downloaded",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "No more logs",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Logs fetched"
+}

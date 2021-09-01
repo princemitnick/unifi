@@ -1,0 +1,3 @@
+{
+  "EVENT_TITLE_UNREAD_ALERTS": "{count, plural, one {Evento non letto} other {Eventi non letti}}"
+}

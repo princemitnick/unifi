@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Správa hotspotu",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Používateľské meno",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Heslo",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Zapamätaj si ma",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Prihlásiť sa",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "Prihlásenie SSO",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Zabudnuté heslo?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Predĺžiť časový limit relácie na 7 dní.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Vložte token 2FA",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6 číslic tokenu",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Logovanie bolo zrušené",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Chyba overenia",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Chyba prihlásenia",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Neplatné používateľské meno alebo heslo",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Neplatný 2FA token",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Chyba pri resetovaní hesla",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Overenie účtu sa nepodarilo",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Ak už máte používateľské meno a heslo, môžete sa",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "prihlásiť tu.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "SSO prihlásenie...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Pre resetovanie hesla zadajte prosím znovu svoju e-mailovú adresu",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Resetovať heslo",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Naspäť",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "E-mail s informáciami pre obnovenie hesla bol odoslaný.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Pri obnovení Vášho hesla sa vyskytla chyba.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Jeden účet pre všetky Ubiquiti aplikácie a služby",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Nemáte účet?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Tu sa zaregistrujte"
+}

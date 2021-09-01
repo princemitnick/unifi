@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "DPI-Beschränkungen der Gruppe bearbeiten",
+  "DPI_RESTRICTION_HEADER_ADD": "DPI-Beschränkung zur Gruppe hinzufügen",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "DPI-Beschränkungs-Kategorie hinzufügen",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Neue DPI-Beschränkungsgruppe erstellen",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "DPI-Beschränkung hinzufügen",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Gruppe",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Kategorie",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Anwendung",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Beschränkte Kategorien",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Beschränkte Anwendungen",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Aktiviert",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Gesperrt",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Limit verringern",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Limit erhöhen",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Traffic loggen",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Traffic dieser DPI-Beschränkung aufzeichnen",
+  "DPI_RESTRICTION_VALUES_ENABLED": "DPI-Beschränkung aktivieren",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Gesamten ausgewählten Traffic sperren",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Gruppe auswählen",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Kategorie auswählen",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "Alle Anwendungen",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "DPI-Beschränkung löschen",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Sind Sie sicher, dass Sie die DPI-Beschränkung löschen möchten?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "Die DPI-Beschränkung wurden gelöscht.",
+  "DPI_RESTRICTION_DELETE_ERROR": "Beim Löschen der DPI-Beschränkungen ist ein Fehler aufgetreten.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "Die DPI-Beschränkung wurde gespeichert.",
+  "DPI_RESTRICTION_SAVE_ERROR": "Beim Speichern der DPI-Beschränkung ist ein Fehler aufgetreten.",
+
+  "DPI_RESTRICTION_GROUP": "DPI-Beschränkungsgruppe",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "DPI-Beschränkungsgruppe erstellen",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "DPI-Beschränkungsgruppe bearbeiten",
+  "DPI_RESTRICTION_GROUP_NAME": "Gruppennname",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "DPI-Beschränkungsgruppe wurde gespeichert.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "Beim Speichern der DPI-Beschränkungsgruppe ist ein Fehler aufgetreten.",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "DPI-Beschränkungsgruppe entfernen",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Möchten Sie die DPI-Beschränkungsgruppe \"{groupName}\" wirklich entfernen?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {DPI-Beschränkungsgruppe \"{groupName}\" enthält 1 Beschränkung. Möchten Sie die Gruppe inklusive Inhalt löschen?} other {DPI-Beschränkungsgruppe \"{groupName}\" enthält # Beschränkungen. Möchten Sie die Gruppe inklusive Inhalt löschen?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {DPI-Beschränkungsgruppe \"{groupName}\" hat 1 Zuordnung. Möchten Sie die Gruppe inklusive der Zuordnungen löschen?} other {DPI-Beschränkungsgruppe \"{groupName}\" hat # Zuordnungen Möchten Sie die Gruppe inklusive der Zuordnungen löschen?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {DPI-Beschränkungsgruppe \"{groupName}\" enthält 1 Beschränkung und {assignmentsNumber, plural, one{ist einer Zuordnung} other{sind # Zuordnungen}} zugeordnet. Möchten Sie die Gruppe inklusive Inhalt und Zuordnungen löschen?} other {DPI-Beschränkungsgruppe \"{groupName}\" enthält # Beschränkung und {assignmentsNumber, plural, one{ist 1 Zuordnung} other{sind # Zuordnungen}} zugeordnet. Möchten Sie die Gruppe inklusive Inhalt und Zuordnungen löschen?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "DPI-Beschränkungsgruppe wurde gelöscht.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "Beim Löschen der DPI-Beschränkungsgruppe ist ein Fehler aufgetreten.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Kategorie/App",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Aktiviert",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Gesperrt",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Traffic loggen",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Limit erhöhen",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Limit verringern",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Aktionen",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Unbegrenzt",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "Es wurden bisher keine DPI-Beschränkungen zur Gruppe hinzugefügt.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Netzwerke",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Drahtlos-Netzwerke",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Dem Netzwerk eine DPI-Beschränkung zuweisen",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Dem Netzwerk eine DPI-Beschränkung zuweisen",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Netzwerk",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Netzwerk auswählen",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Gruppe auswählen",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "Alle verfügbaren Netzwerke verfügen bereits über DPI-Beschränkungen.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "DPI-Beschränkung erfolgreich zugewiesen.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "Beim Zuweisen der DPI-Beschränkung ist ein Fehler aufgetreten.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Netzwerk-Gruppenzuweisung entfernen?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Sind Sie sicher, dass Sie die DPI-Beschränkungsgruppen-Netzwerkzuweisung wirklich entfernen möchten?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "DPI-Beschränkungsgruppen-Netzwerkzuweisung wurde entfernt.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Beim Löschen der DPI-Beschränkungs-Netzwerkzuweisung ist ein Fehler aufgetreten.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Drahtlos-Netzwerk",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Netzwerk",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": "Den Drahtlos-Netzwerken wurden bisher keine DPI-Beschränkungen zugewiesen.",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": "Den Netzwerken wurden bisher keine DPI-Beschränkungen zugewiesen."
+}

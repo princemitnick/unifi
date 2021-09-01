@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Διαχείριση hotspot ",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Όνομα χρήστη",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Κωδικός πρόσβασης",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Θυμήσου με",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Σύνδεση",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "SSO Login",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Ξεχάσατε τον κωδικό πρόσβασης;",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Extend session timeout to 7 days.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Εισαγάγετε τον κωδικό ελέγχου ταυτότητας 2 παραγόντων",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "Κλειδί 6 ψηφίων",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Logging canceled",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Authentication error",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Σφάλμα σύνδεσης",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Μη έγκυρο όνομα χρήστη ή κωδικός πρόσβασης.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Μη έγκυρο κλειδί ελέγχου ταυτότητας 2 παραγόντων",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Σφάλμα επαναφοράς κωδικού",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Αποτυχία επιβεβαίωσης λογαριασμού",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Αν έχετε ήδη όνομα χρήστη και κωδικό πρόσβασης, μπορείτε",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "Σύνδεση εδώ",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "Σύνδεση SSO...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Παρακαλώ εισάγετε το email σας για να επαναφέρετε τον κωδικό πρόσβασής σας",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Επαναφορά κωδικού",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Πίσω",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Ένα email έχει σταλεί για να ανακτήσετε τον κωδικό πρόσβασής σας.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Παρουσιάστηκε σφάλμα κατά την ανάκτηση του κωδικού πρόσβασής σας.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Ένας λογαριασμός για όλες τις εφαρμογές και τις υπηρεσίες της Ubiquiti.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Δεν έχετε λογαριασμό;",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Εγγραφείτε εδώ"
+}

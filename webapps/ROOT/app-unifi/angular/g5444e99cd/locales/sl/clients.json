@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Slika",
+  "CLIENT_TABLE_HEADER_ICON": "Ikona",
+  "CLIENT_TABLE_HEADER_NAME": "Ime",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Gostitelj",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "MAC naslov",
+  "CLIENT_TABLE_HEADER_IP": "IP naslov",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "802.1X identiteta",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Stanje",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Skupina uporabnikov",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Povezava",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Omrežje",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Vrata",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Vrata",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Kanal",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi povezava",
+  "CLIENT_TABLE_HEADER_FT": "Hitro gostovanje",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Signal",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "LAN padajoči promet",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "LAN naraščajoči promet",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Padajoča aktivnost",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Naraščajoča aktivnost",
+  "CLIENT_TABLE_HEADER_TX_RATE": "TX vrednost",
+  "CLIENT_TABLE_HEADER_RX_RATE": "RX vrednost",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Aktivnost",
+  "CLIENT_TABLE_HEADER_UPTIME": "Delovanje",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Izdelek",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Proizvajalec",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Tip naprave",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Operacijski sistem",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Izkušnje",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "WiFi izkušnje",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Omrežne izkušnje",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Možnosti",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Hitri prehod BSS",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Dejavnost omrežja odjemalca v zadnjih 5 minutah",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {odjemalec} two {odjemalca} few {odjemalcev} other {odjemalci}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Ni odjemalcev",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "Če bo v omrežju zaznan nov odjemalec bo to vidno na tem seznamu.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Za iskalni niz ne obstaja noben klient.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Aktivno",
+  "CLIENT_ACTIVE_FILTER_ALL": "Vse",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Aktivno",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Povezava",
+  "CLIENT_WIRED_FILTER_ALL": "Vse",
+  "CLIENT_WIRED_FILTER_FALSE": "Brezžična povezava",
+  "CLIENT_WIRED_FILTER_TRUE": "Žična povezava",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Tip odjemalca",
+  "CLIENT_GUEST_FILTER_ALL": "Vse",
+  "CLIENT_GUEST_FILTER_FALSE": "Uporabniki",
+  "CLIENT_GUEST_FILTER_TRUE": "Gostje",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Tip oddajanja",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Vse",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Omrežje",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Avtorizirano",
+  "CLIENT_TABLE_STATUS_PENDING": "Čaka",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Vsi konfigurirani odjemalci",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Dodaj odjemalca",
+
+  "CLIENT_ADD_TITLE": "Dodaj odjemalca",
+  "CLIENT_ADD_EDIT_TITLE": "Uredi odjemalca",
+  "CLIENT_ADD_LIST_TITLE": "Odjemalci z neshranjenimi spremembami",
+
+  "CLIENT_ADD_LABEL_MAC": "MAC naslov",
+  "CLIENT_ADD_LABEL_ALIAS": "Vzdevek",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Skupina uporabnikov",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Fiksen IP naslov",
+  "CLIENT_ADD_LABEL_NETWORK": "Omrežje",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "IP naslov",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "Ta IP naslov je že dodan.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "Ta MAC naslov je že dodan.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Ta MAC naslov je že v uporabi.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "MAC naslova ni mogoče dodati.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "MAC naslova za oddajanje \"broadcast\" ni mogoče dodati.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Dodaj odjemalca",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "MAC naslov",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Vzdevek",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Skupina uporabnikov",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Omrežje",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "IP naslov",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Zavrži 1 odjemalca} two {Zavrži # odjemalca} few {Zavrži # odjemalce} other {Zavrži # odjemalce}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Ali ste prepričani, da želite zavreči 1 odjemalca, ki je že dodan na seznam?} two {Ali ste prepričani, da želite zavreči # odjemalca, ki sta že dodan na seznam?} few {Ali ste prepričani, da želite zavreči # odjemalce/v, ki so/jih je dodan/ih na seznam?} other {Ali ste prepričani, da želite zavreči # odjemalce/v, ki so/jih je dodan/ih na seznam?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Privzeto",
+  "CLIENT_COLUMNS_PRESET_ALL": "Vsi stolpci"
+}

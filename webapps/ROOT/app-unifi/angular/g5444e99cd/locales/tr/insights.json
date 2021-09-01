@@ -1,0 +1,13 @@
+{
+  "INSIGHTS_NAV_DYNAMIC_DNS": "Dinamik DNS",
+  "INSIGHTS_NAV_CLIENT_HISTORY": "İstemci Geçmişi",
+  "INSIGHTS_NAV_NEIGHBORING_ACCESS_POINTS": "Komşu Erişim Noktaları",
+  "INSIGHTS_NAV_PAST_CONNECTIONS": "Geçmiş Bağlantılar",
+  "INSIGHTS_NAV_PAST_GUEST_AUTHORIZATIONS": "Geçmiş konuk Yetkilendirmeleri",
+  "INSIGHTS_NAV_PORT_FORWARD_STATS": "Port Yönlendirme Durumu",
+  "INSIGHTS_NAV_STREAMS": "AC-EDU Yayınları",
+  "INSIGHTS_NAV_SWITCH_STATS": "Switch Durumu",
+  "INSIGHTS_NAV_REMOTE_USER_VPN": "Uzak VPN Kullanıcısı",
+  "INSIGHTS_NAV_STATIC_ROUTING": "Statik Yönlendirme",
+  "INSIGHTS_NAV_LOGS": "Kontrolcü Günlükleri"
+}

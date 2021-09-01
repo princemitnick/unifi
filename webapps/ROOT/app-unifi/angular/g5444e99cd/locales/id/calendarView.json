@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "arsip",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "arsipkan semua",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "unduh lebih banyak",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "tampilkan peringatan pengarsipan",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "tidak ada peringatan dalam kurun waktu tersebut",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "tidak ada kegiatan ",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "tidak ada kegiatan di kriteria yang di cari",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "hasil dibatasi\n{{saat ini}} off {{jumlah}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "All",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "error",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "Umum",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Amaran",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "admin",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "All",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "kegiatan",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Time",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{hitung}} kegiatan",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "{{hitung}} kegiatan lebih banyak"
+}

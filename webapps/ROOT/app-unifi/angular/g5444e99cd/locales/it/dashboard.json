@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "WiFi Metrics",
+  "DASHBOARD_NAMES_UNDEFINED": "Schermata di controllo",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Add widget",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "aggiunto",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "No modules are available at this time.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Modifica schermata di controllo",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Chiudi",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Schermata di controllo",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Description",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Azioni",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Nessuna schermata di controllo trovata.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Aperta",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Modifica",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Elimina",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Sottoscrivi",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Annulla sottoscrizione",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Condividi",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Elimina condivisione",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Esporta",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Add Custom Dashboard",
+  "DASHBOARD_FORM_TITLE_EDIT": "Edit Dashboard Information",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "File Name: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "File Name: <em>Invalid or missing</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Dashboard Name",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Description",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Or import a dashboard file",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Clear upload",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Drag & Drop or",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Browse Files",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "There was an error creating the dashboard.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Invalid dashboard file. Only files exported from a UniFi Controller can be imported here.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Missing import file.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "The imported dashboard doesn't have any widgets.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "This dashboard was created in version {{dashboardControllerVersion}} of the UniFi Controller. This controller is running {{currentControllerVersion}}. Please update to a newer version of the controller in order to use all the widgets in this dashboard.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "There was an error saving the {{name}} dashboard.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Unable to save the {{name}} dashboard. It is read-only.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "There was an error removing the {{name}} dashboard.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Edit widgets",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Modifica schermata di controllo",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Add custom dashboard",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Fatto",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Customize dashboard"
+}

@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "Zatiaľ žiadne nové záznamy",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Čaká sa na logy z controlleru...",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Stiahnuť záznamy",
+  "LOGS_MESSAGES_FETCH_MORE": "Získať viac záznamov",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "Súbor záznamov bol úspešne stiahnutý",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "Žiadne ďalšie záznamy",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Záznamy získané"
+}

@@ -1,0 +1,11 @@
+{
+  "CLIENT_PROPERTIES_LABEL_UP_PKTS_BYTES": "Paquets/octet montants",
+  "CLIENT_PROPERTIES_LABEL_DOWN_PKTS_BYTES": "Pqts/Octets descendants",
+  "DPI_USERS_TABLE_HEADER_NAME": "Nom du client",
+  "DPI_USERS_TABLE_HEADER_CATEGORIES": "Catégories",
+  "DPI_USERS_TABLE_HEADER_UP": "Up",
+  "DPI_USERS_TABLE_HEADER_DOWN": "Down",
+
+  "DPI_USERS_TABLE_EMPTY_HEADER": "Aucune donnée DPI",
+  "DPI_USERS_TABLE_EMPTY_NO_DATA": "Aucune donnée DPI pour les catégories sélectionnées."
+}

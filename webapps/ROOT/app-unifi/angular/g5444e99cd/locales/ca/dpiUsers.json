@@ -1,0 +1,11 @@
+{
+  "CLIENT_PROPERTIES_LABEL_UP_PKTS_BYTES": "Paquets/Bytes de pujada",
+  "CLIENT_PROPERTIES_LABEL_DOWN_PKTS_BYTES": "Paquets/Bytes de baixada",
+  "DPI_USERS_TABLE_HEADER_NAME": "Nom de client",
+  "DPI_USERS_TABLE_HEADER_CATEGORIES": "Categories",
+  "DPI_USERS_TABLE_HEADER_UP": "Pujada",
+  "DPI_USERS_TABLE_HEADER_DOWN": "Baixada",
+
+  "DPI_USERS_TABLE_EMPTY_HEADER": "No hi ha informació DPI",
+  "DPI_USERS_TABLE_EMPTY_NO_DATA": "No existeix cap informació DPI per a les categories seleccionades."
+}

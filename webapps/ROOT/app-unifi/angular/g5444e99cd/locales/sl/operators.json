@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Ime",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Geslo",
+  "OPERATOR_TABLE_HEADER_NOTES": "Zapiski",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Ni operaterjev",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Noben operater se ne ujema z iskalnim nizom.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Nimate še ustvarjenih operaterjev.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Ustvari novega operaterja",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "Nov operater je bil ustvarjen.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Prišlo je do napake med ustvarjanjem operaterja.",
+  "OPERATOR_ACTIONS_DELETE": "Izbriši",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Izbriši operaterja {{name}}",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Želite res izbrisati operaterja {{name}}?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "Operater {{name}} je bil izbrisan.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Prišlo je do napake med brisanjem operaterja {{name}}.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Odpri prijavo operaterja",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Ime računa",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Geslo",
+  "OPERATOR_CREATE_LABEL_NOTES": "Zapiski",
+  "OPERATOR_CREATE_MODAL_TITLE": "Ustvari novega operaterja"
+}

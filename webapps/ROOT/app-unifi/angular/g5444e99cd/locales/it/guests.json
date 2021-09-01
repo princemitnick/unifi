@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Pacchetto",
+  "GUEST_TABLE_HEADER_AMOUNT": "Quantità",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Autorizzato da",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Download",
+  "GUEST_TABLE_HEADER_UPLOAD": "Upload",
+  "GUEST_TABLE_HEADER_STATUS": "Stato",
+  "GUEST_TABLE_HEADER_ACTIONS": "Azioni",
+  "GUEST_TABLE_HEADER_NAME": "Nome",
+  "GUEST_TABLE_HEADER_NOTE": "Note",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "RADIUS Session ID",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "RADIUS Username",
+  "GUEST_TABLE_HEADER_START": "Ora di inizio",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Nessun ospite trovato",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Nessun ospite corrisponde ai criteri di ricerca.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "No guests have connected.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Disconnetti",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "L'ospite è stato disconnesso",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Si è verificato un errore durante la disconnessione dell'ospite.",
+  "GUEST_ACTIONS_EXTEND": "Estendi",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "L'accesso è stato esteso",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Si è verificato un errore durante l'estensione dell'accesso",
+
+  "GUEST_STATUS_EXPIRED": "Scaduto il {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Autorizzato, gestito da Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Valido fino {{date}}"
+}

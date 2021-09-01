@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Signal faible",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Veuillez déplacer votre appareil à proximité de l'UAP le plus proche",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Signal faible",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Veuillez déplacer votre appareil à proximité de l'UAP le plus proche",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "Perte de paquets TCP élevée",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Veuillez vérifier votre routeur, votre connexion Internet ou le service Web utilisé par le client",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Latence TCP élevée",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Veuillez vérifier votre connexion Internet",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Latence TCP élevée",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Veuillez utiliser un routeur sur lequel la mise en forme du trafic est activée, comme les files d'attente intelligentes sur UDM ou USG",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Latence TCP élevée",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Veuillez activer les files d'attente intelligentes sur votre interface WAN dans les paramètres",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "Taux élevé de ré essais WiFi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Essayez de changer de canal",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Latence WiFi élevée",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Essayez de changer de canal",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "Timeout DHCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Veuillez vérifier que votre serveur DHCP est accessible et correctement configuré",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "Timeout ARP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Veuillez vérifier que votre passerelle est accessible depuis cet appareil",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "Timeout DNS",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Veuillez vérifier que votre serveur DNS est accessible et correctement configuré",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "Latence DNS élevée",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Veuillez vérifier que votre serveur DNS est accessible et correctement configuré"
+}

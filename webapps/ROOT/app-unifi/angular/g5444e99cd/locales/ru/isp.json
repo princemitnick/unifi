@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "Пропускная способность",
+  "ISP_MODAL_1_HOUR": "1 Час",
+  "ISP_MODAL_24_HOURS": "24 Часа",
+  "ISP_MODAL_7_DAYS": "7 Дней",
+  "ISP_MODAL_30_DAYS": "30 Дней",
+
+  "ISP_MODAL_SUMMARY_HEADER": "Сводка",
+  "ISP_MODAL_THROUGHPUT_HEADER": "История Скачиваний/Загрузок",
+  "ISP_MODAL_LATENCY_HEADER": "История Задержек",
+
+  "ISP_MODAL_UPLOAD_LABEL": "Отдача",
+  "ISP_MODAL_DOWNLOAD_LABEL": "Загрузка",
+  "ISP_MODAL_LATENCY_LABEL": "Задержка",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "Сводка Сети",
+  "ISP_MODAL_TOP_PROCESS": "Топ Процессов",
+  "ISP_MODAL_DOWN": "Скачано",
+  "ISP_MODAL_UP": "Раздача"
+}

@@ -1,0 +1,19 @@
+{
+  "DASHBOARD_FILTER_DEFINITIONS_DEVICES_UAP": "Filtrer par Point d'accès",
+
+  "DASHBOARD_FILTER_DEVICES_TITLE_LABEL": "Filtrer:",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE": "{count, plural, one {1 équipement} other {# équipements}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_TOP": "Top {nombre, pluriel, un {# Appareil} autre {# Appareil}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_ALL": "Tous les équipements",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE": "{count, plural, one {# Point d'Accès} other {# Points d'Accès}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_TOP": "Top {nombre, pluriel, un{# Point d'Accès} autre{# Points d'Accès}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_ALL": "Tous les points d'accès",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE": "{count, plural, one {# Switch} other {# Switchs}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_TOP": "Top {nombre, pluriel, un{# Commutateur} autre{# Commutateurs}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_ALL": "Tous les switchs",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_SELECT_ALL": "Tous les équipements",
+  "DASHBOARD_FILTER_DEVICES_UAP_SELECT_ALL": "Tous les points d'accès",
+  "DASHBOARD_FILTER_DEVICES_USW_SELECT_ALL": "Tous les switchs"
+}

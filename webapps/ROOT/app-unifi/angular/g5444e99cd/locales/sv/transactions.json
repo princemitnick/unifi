@@ -1,0 +1,52 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "Återbetalning",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Återbetala betalning",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Är du säker på att du vill återföra betalningen?",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "Betalningen har återbetalats.",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "Ett fel uppstod vid återbetalningen.",
+
+  "PAYMENT_ACTIONS_REMOVE": "Ta bort",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_TITLE": "Ta bort betalning",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_MESSAGE": "Är du säker på att du vill ta bort betalningen?",
+  "PAYMENT_ACTIONS_REMOVE_SUCCESS": "Betalningen har tagits bort.",
+  "PAYMENT_ACTIONS_REMOVE_ERROR": "Det uppstod ett fel när betalningen skulle tas bort.",
+
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA": "Ta bort personlig information",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_TITLE": "Ta bort personlig information",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_MESSAGE": "Är du säker på att du vill ta bort personlig information från denna betalningen?",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_SUCCESS": "Den personliga informationen har tagits bort.",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_ERROR": "Det uppstod ett fel när personlig information skulle tas bort.",
+
+  "PAYMENT_STATUS_AUTHORIZED": "Auktoriserad",
+  "PAYMENT_STATUS_PAID": "Betald",
+  "PAYMENT_STATUS_VOID": "Ogiltigförklarad/Återbetald",
+
+  "PAYMENT_GATEWAY_AUTHORIZE": "Authorize.net",
+  "PAYMENT_GATEWAY_FACEBOOK": "Facebook",
+  "PAYMENT_GATEWAY_FREE": "Gratisprov",
+  "PAYMENT_GATEWAY_GOOGLE": "Google",
+  "PAYMENT_GATEWAY_IPPAY": "IPpay",
+  "PAYMENT_GATEWAY_MERCHANTWARRIOR": "Merchant Warrior",
+  "PAYMENT_GATEWAY_PAYPAL": "PayPal",
+  "PAYMENT_GATEWAY_QUICKPAY": "Quickpay",
+  "PAYMENT_GATEWAY_STRIPE": "Stripe",
+
+  "PAYMENT_FILTER_TRANSACTION_TYPE": "Transaktionstyp",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_ALL": "Alla",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_PAYMENTS": "Betalningar",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_SOCIAL": "Social",
+
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Belopp",
+  "PAYMENT_TABLE_HEADER_EMAIL": "E-mail",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Extrainformation",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "Förnamn",
+  "PAYMENT_TABLE_HEADER_GATEWAY": "Gateway",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Efternamn",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Paket",
+  "PAYMENT_TABLE_HEADER_STATUS": "Status",
+  "PAYMENT_TABLE_HEADER_TIME": "Tid",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "Inga transaktioner hittades",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "Inga transaktioner matchade sökkriteriet.",
+  "PAYMENT_TABLE_EMPTY_NO_TRANSACTIONS": "Inga transaktioner har blivit behandlade."
+}

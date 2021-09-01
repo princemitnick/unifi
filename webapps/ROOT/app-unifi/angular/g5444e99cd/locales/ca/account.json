@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Gestor del Hotspot",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Usuari",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Contrasenya",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Recorda'm",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Iniciar sessió",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "Accés SSO",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Has oblidat la contrasenya?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Ampliar la caducitat de la sessió a 7 dies.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Introdueix el codi de doble factor",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "Codi de 6 dígits",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Accés cancel·lat",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Error d'autenticació",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "S'ha produït un error",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Usuari o contrasenya incorrecta.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "El codi de doble factor no és vàlid",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "S'ha produït un error",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Ha fallat la verificació del compte",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Si tens un usuari i contrasenya pots",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "Entra.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "Accés SSO...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Introdueix el teu correu per restablir la contrasenya",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Restablir la contrasenya",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Enrere",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Hem enviat un correu per restablir la contrasenya.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "S'ha produït un error mentre es restablia la contrasenya.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Un compte per a tots els serveis i aplicacions d'Ubiquiti.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "No tens compte?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Registra't aquí"
+}

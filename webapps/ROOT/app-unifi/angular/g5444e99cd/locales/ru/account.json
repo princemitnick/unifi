@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Менеджер Hotspot",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Имя пользователя",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Пароль",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Запомнить меня",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Войти",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "Войти с помощью SSO",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Забыли пароль?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Продлить время сессии до 7 дней.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Вставьте ваш 2FA токен",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6-ти циферный токен",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Ведение журнала отменено",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Ошибка аутентификации",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Ошибка входа",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Неверное имя пользователя и/или пароль.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Ошибка в 2FA токене",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Ошибка сброса пароля",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Ошибка проверки учётной записи",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Если у вас уже есть учётная запись, вы можете",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "войти здесь.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "Войти с помощью SSO...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Пожалуйста введите ваш адрес электронной почты для сброса вашего пароля.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Сбросить пароль",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Назад",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Для восстановления вашего пароля было отправлено электронное письмо.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Произошла ошибка при восстановлении вашего пароля.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Одна учётная запись для всех приложений и служб Ubiquiti.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Нет учётной записи?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Зарегистрироваться здесь"
+}

@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Afbryd stream",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "Stream {{streamId}} er blevet afbrudt.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Der var en fejl ved afbrydelse af stream {{streamId}}.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Stream",
+  "STREAMS_FILTER_ALL_STREAMS": "Alle",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Ingen streams fundet",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Ingen streams matcher det søgekriterie.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Ingen streams er fundet",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Tilsluttet",
+  "STREAMS_TABLE_HEADER_DEVICE": "Enhed",
+  "STREAMS_TABLE_HEADER_READY": "Klar",
+  "STREAMS_TABLE_HEADER_STREAMING": "Streamer",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Stream",
+
+  "STREAMS_VIEW_ALL": "Alle"
+}

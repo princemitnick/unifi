@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Επεξεργασία Περιορισμών",
+  "DPI_RESTRICTION_HEADER_ADD": "Προσθήκη Περιορισμών",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Add restriction category",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Create new restriction group",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Add restriction",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Group",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Category",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Εφαρμογή",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Restricted Categories",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Restricted Applications",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Ενεργοποιημένο",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Block",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Όριο λήψης",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Όριο αποστολής",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Log Traffic",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Enable logging traffic matching this restriction",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Enable this restriction",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Block all matching traffic",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Επιλογή ομάδας",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Select category",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "All Applications",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "Διαγραφή του DPI(restriction)",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Είστε σίγουροι ότι θέλετε να διαγράψετε το DPI(inspection);",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "Το DPI(inspection) διαγράφηκε.",
+  "DPI_RESTRICTION_DELETE_ERROR": "Παρουσιάστηκε σφάλμα κατά τη διαγραφή του DPI(inspection).",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "Το DPI(inspection) αποθηκεύτηκε.",
+  "DPI_RESTRICTION_SAVE_ERROR": "Παρουσιάστηκε σφάλμα κατά την αποθήκευση του DPI(inspection).",
+
+  "DPI_RESTRICTION_GROUP": "Περιορισμένη Ομάδα",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Δημιουργία περιοσμένης ομάδας",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Επεξεργασία περιορισμένης ομάδας",
+  "DPI_RESTRICTION_GROUP_NAME": "Όνομα ομάδας",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "Η περιορισμένη ομάδα DPI(restriction) αποθηκεύτηκε.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "Παρουσιάστηκε σφάλμα κατά την αποθήκευση της περιορισμένης ομάδας του DPI(restriction).",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Διαγραφή περιορισμένης ομάδας DPI(restriction).",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Θέλετε πραγματικά να διαγράψετε το DPI Περιορισμού Ομάδας \"{{groupName}}\";;",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction. Do you want to delete the group and its contents?} other {The DPI restriction group \"{groupName}\" has # restrictions. Do you want to delete the group and its contents?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 assignment. Do you want to delete the group and its assignments?} other {The DPI restriction group \"{groupName}\" has # assignments. Do you want to delete the group and its assignments?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?} other {The DPI restriction group \"{groupName}\" has # restrictions and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "Το DPI(restriction) διαγράφηκε.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "Παρουσιάστηκε σφάλμα κατά τη διαγραφή του DPI(restriction).",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Κατηγορία/Εφαρμογή",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Ενεργοποιημένο",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Αποκλεισμένο",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Log Traffic",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Όριο αποστολής",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Όριο λήψης",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Ενέργειες",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Απεριόριστο",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "Δεν ορίστηκαν περιορισμοί",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Δίκτυα",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Ασύρματα δίκτυα",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Ανάθεση δικτύου",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Ανάθεση του DPI(restriction) σε δίκτυο",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Δίκτυο",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Επιλογή δικτύου",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Επιλογή ομάδας",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "All available networks have been assigned restrictions already.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "Το DPI(restriction) ανατέθηκε επιτυχώς.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "Παρουσιάστηκε σφάλμα κατά την ανάθεση του DPI(restriction).",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Αφαιρετής DPI(restriction) Περιορισμένης Ομάδας εκχώρησης δικτύου",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Είστε βέβαιοι ότι θέλετε να καταργήσετε το ανατεθειμένο DPI(restriction) από το δίκτυό σας;",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "Το ανατεθειμένο δίκτυο DPI(restriction) διαγράφηκε.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Παρουσιάστηκε σφάλμα κατά τη διαγραφή του ανατεθειμένου δικτύου DPI(restriction).",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Ασύρματο δίκτυο",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Δίκτυο",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": "Δεν έχει ανατεθεί το DPI(restriction) σε κανένα ασύρματο δίκτυο",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": " Δεν έχει ανατεθεί το DPI(restriction) σε κανένα δίκτυο"
+}

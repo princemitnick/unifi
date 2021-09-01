@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Photo",
+  "CLIENT_TABLE_HEADER_ICON": "Εικονίδιο",
+  "CLIENT_TABLE_HEADER_NAME": "Όνομα",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Όνομα κεντρικού υπολογιστή",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "Διεύθυνση MAC",
+  "CLIENT_TABLE_HEADER_IP": "Διεύθυνση IP",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "Ταυτότητα 802.1X",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Κατάσταση",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Κατηγορία χρηστών",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Σύνδεση",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Δίκτυο",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Θύρα",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Θύρα",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Κανάλι",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi Connection",
+  "CLIENT_TABLE_HEADER_FT": "Γρήγορη περιαγωγή",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Σήμα",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "LAN Traffic Down",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "LAN Traffic Up",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Εκτός Λειτουργίας",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Σε Λειτουργία",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Βαθμολογία TX",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Βαθμολογία RX",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Δραστηριότητα",
+  "CLIENT_TABLE_HEADER_UPTIME": "Χρόνος λειτουργίας",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Product",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Κατασκευαστής",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Τύπος συσκευής",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Device OS",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Experience",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "WiFi Experience",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Wired Experience",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Ενέργειες",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Γρήγορη μετάβαση BSS",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Client network activity over the last 5 minutes",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {client} other {clients}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Δεν βρέθηκαν πελάτες",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "Όταν ένας πελάτης εντοπιστεί στο δίκτυό σας θα εμφανίζονται αυτόματα σε αυτήν τη λίστα.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Δεν βρέθηκαν πελάτες που να ταιριάζουν με τα κριτήρια αναζήτησης.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Ενεργό",
+  "CLIENT_ACTIVE_FILTER_ALL": "Όλα",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Ενεργό",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Σύνδεση",
+  "CLIENT_WIRED_FILTER_ALL": "Όλα",
+  "CLIENT_WIRED_FILTER_FALSE": "Ασύρματα",
+  "CLIENT_WIRED_FILTER_TRUE": "Ενσύρματα",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Τύπος πελάτη",
+  "CLIENT_GUEST_FILTER_ALL": "Όλα",
+  "CLIENT_GUEST_FILTER_FALSE": "Χρήστες",
+  "CLIENT_GUEST_FILTER_TRUE": "Επισκέπτες",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Τύπος Radio",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Όλα",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Δίκτυο",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Εξουσιοδοτημένα",
+  "CLIENT_TABLE_STATUS_PENDING": "Εκκρεμής",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Όλοι οι διαμορφωμένοι πελάτες",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Πρόσθεση Πελάτη",
+
+  "CLIENT_ADD_TITLE": "Προσθήκη Πελάτη",
+  "CLIENT_ADD_EDIT_TITLE": "Επεξεργασία Client",
+  "CLIENT_ADD_LIST_TITLE": "Clients με εκκρεμείς αλλαγές",
+
+  "CLIENT_ADD_LABEL_MAC": "Διεύθυνση MAC",
+  "CLIENT_ADD_LABEL_ALIAS": "Ψευδόνυμο",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Ομάδα χρήστη",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Σταθερή IP",
+  "CLIENT_ADD_LABEL_NETWORK": "Δίκτυο",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "Διεύθυνση IP",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "Αυτή η διεύθυνση IP έχει ήδη δοθεί.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "Αυτή η διεύθυνση MAC έχει ήδη προστεθεί.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Αυτή η διεύθυνση MAC χρησιμοποιείται ήδη.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Δεν μπορεί να προστεθεί multicast διεύθυνση MAC.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Δεν μπορεί να προστεθεί broadcat διεύθυνση MAC.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Πρόσθεση Πελάτη",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "Διεύθυνση MAC",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Alias",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Κατηγορία χρηστών",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Δίκτυο",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "Διεύθυνση IP",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Discard 1 client} other {Discard # clients}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Are you sure you want to discard 1 client already added to the list?} other {Are you sure you want to discard # clients already added to the list?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Προεπιλογή",
+  "CLIENT_COLUMNS_PRESET_ALL": "Όλες οι στήλες"
+}

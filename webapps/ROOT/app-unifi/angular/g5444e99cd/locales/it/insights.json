@@ -1,0 +1,13 @@
+{
+  "INSIGHTS_NAV_DYNAMIC_DNS": "DNS Dinamico",
+  "INSIGHTS_NAV_CLIENT_HISTORY": "Client History",
+  "INSIGHTS_NAV_NEIGHBORING_ACCESS_POINTS": "Access Point vicini",
+  "INSIGHTS_NAV_PAST_CONNECTIONS": "Collegamenti precedenti",
+  "INSIGHTS_NAV_PAST_GUEST_AUTHORIZATIONS": "Autorizzazioni Ospiti precedenti",
+  "INSIGHTS_NAV_PORT_FORWARD_STATS": "Statistiche Instradamento Porte",
+  "INSIGHTS_NAV_STREAMS": "Stream AC-EDU",
+  "INSIGHTS_NAV_SWITCH_STATS": "Statistiche Switch",
+  "INSIGHTS_NAV_REMOTE_USER_VPN": "Utente remoto VPN",
+  "INSIGHTS_NAV_STATIC_ROUTING": "Routing Statico",
+  "INSIGHTS_NAV_LOGS": "Log del Controller"
+}

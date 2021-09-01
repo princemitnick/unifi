@@ -1,0 +1,47 @@
+{
+  "KNOWN_CLIENT_TABLE_HEADER_PHOTO": "Фото",
+  "KNOWN_CLIENT_TABLE_HEADER_NAME": "Имя",
+  "KNOWN_CLIENT_TABLE_HEADER_MANUFACTURER": "Производитель",
+  "KNOWN_CLIENT_TABLE_HEADER_MAC": "Mac",
+  "KNOWN_CLIENT_TABLE_HEADER_FIXED_IP": "Фиксированный IP",
+  "KNOWN_CLIENT_TABLE_HEADER_USER_GUEST": "Пользователь/Гость",
+  "KNOWN_CLIENT_TABLE_HEADER_DOWN": "Скачано",
+  "KNOWN_CLIENT_TABLE_HEADER_UP": "Отдано",
+  "KNOWN_CLIENT_TABLE_HEADER_FIRST_SEEN": "Первое появление",
+  "KNOWN_CLIENT_TABLE_HEADER_LAST_SEEN": "Последнее появление",
+  "KNOWN_CLIENT_TABLE_HEADER_DEVICE_ID": "Продукт",
+  "KNOWN_CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Производитель",
+  "KNOWN_CLIENT_TABLE_HEADER_DEVICE_CAT": "Тип устройства",
+  "KNOWN_CLIENT_TABLE_HEADER_OS_NAME": "ОС устройства",
+  "KNOWN_CLIENT_TABLE_HEADER_ACTIONS": "Действия",
+
+  "KNOWN_CLIENT_COLUMNS_PRESET_DEFAULT": "По умолчанию",
+  "KNOWN_CLIENT_COLUMNS_PRESET_ALL": "Все колонки",
+
+  "KNOWN_CLIENT_TABLE_VALUE_USER_GUEST_GUEST": "Гость",
+  "KNOWN_CLIENT_TABLE_VALUE_USER_GUEST_USER": "Пользователь",
+
+  "KNOWN_CLIENT_TABLE_EMPTY_HEADER": "Нет известных клиентов",
+  "KNOWN_CLIENT_TABLE_EMPTY_NO_CLIENTS": "При обнаружении клиентов в сети, они автоматически появятся в этом списке.",
+  "KNOWN_CLIENT_TABLE_EMPTY_NO_MATCHES": "Нет клиентов, соответствующих заданному условию.",
+
+  "KNOWN_CLIENT_FILTER_TITLE_WIRED": "Подключение",
+  "KNOWN_CLIENT_WIRED_FILTER_ALL": "Все",
+  "KNOWN_CLIENT_WIRED_FILTER_FALSE": "Беспроводные",
+  "KNOWN_CLIENT_WIRED_FILTER_TRUE": "Проводные",
+
+  "KNOWN_CLIENT_FILTER_TITLE_GUEST": "Типы клиентов",
+  "KNOWN_CLIENT_GUEST_FILTER_ALL": "Все",
+  "KNOWN_CLIENT_GUEST_FILTER_FALSE": "Пользователи",
+  "KNOWN_CLIENT_GUEST_FILTER_TRUE": "Гости",
+
+  "KNOWN_CLIENT_FILTER_TITLE_CONFIGURATION": "Конфигурация",
+  "KNOWN_CLIENT_CONFIGURATION_FILTER_ALL": "Все",
+  "KNOWN_CLIENT_CONFIGURATION_FILTER_TRUE": "Настроенные",
+  "KNOWN_CLIENT_CONFIGURATION_FILTER_FALSE": "По умолчанию",
+
+  "KNOWN_CLIENT_FILTER_TITLE_EXTRA": "Подробнее",
+  "KNOWN_CLIENT_BLOCKED_FILTER": "Заблокированные",
+  "KNOWN_CLIENT_NOTED_FILTER": "Отмеченные",
+  "KNOWN_CLIENT_FIXED_IP_FILTER": "Фиксированный IP"
+}

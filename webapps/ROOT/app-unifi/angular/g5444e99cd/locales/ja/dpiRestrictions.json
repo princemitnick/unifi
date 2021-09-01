@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "グループ制限を編集",
+  "DPI_RESTRICTION_HEADER_ADD": "グループに制限を加える",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "制限カテゴリーを追加",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "制限グループを新規作成",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "制限を追加",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "グループ",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "カテゴリー",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "アプリケーション",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "制限付きカテゴリー",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "制限付きアプリケーション",
+  "DPI_RESTRICTION_LABEL_ENABLED": "有効",
+  "DPI_RESTRICTION_LABEL_BLOCK": "ブロック",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "ダウンを制限",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "アップを制限",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "トラフィックを記録",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "この制限に一致するトラフィックのログインを有効にする",
+  "DPI_RESTRICTION_VALUES_ENABLED": "この制限を有効化",
+  "DPI_RESTRICTION_VALUES_BLOCK": "一致するトラフィックをすべてブロック",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "グループを選択",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "カテゴリーを選択",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "すべてのアプリケーション",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "DPI制限を削除",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "DPI制限を削除してもよろしいですか？",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "DPI制限は削除されました。",
+  "DPI_RESTRICTION_DELETE_ERROR": "DPI制限の削除中にエラーが発生しました。",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "DPI制限は保存されました。",
+  "DPI_RESTRICTION_SAVE_ERROR": "DPI制限の保存中にエラーが発生しました。",
+
+  "DPI_RESTRICTION_GROUP": "制限グループ",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "制限グループを作成",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "制限グループを編集",
+  "DPI_RESTRICTION_GROUP_NAME": "グループ名",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "DPI制限グループは保存されました。",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "DPI制限グループの保存中にエラーが発生しました。",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "DPI制限グループを削除",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "DPI制限グループ「{groupName}」を削除してもよろしいですか？",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction. Do you want to delete the group and its contents?} other {The DPI restriction group \"{groupName}\" has # restrictions. Do you want to delete the group and its contents?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 assignment. Do you want to delete the group and its assignments?} other {The DPI restriction group \"{groupName}\" has # assignments. Do you want to delete the group and its assignments?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?} other {The DPI restriction group \"{groupName}\" has # restrictions and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "DPI制限グループは削除されました。",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "DPI制限グループの削除中にエラーが発生しました。",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "カテゴリー/アプリ",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "有効",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "ブロック済み",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "トラフィックを記録",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "アップを制限",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "ダウンを制限",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "アクション",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "制限なし",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "このグループに追加された制限はありません。",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "ネットワーク",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "ワイヤレスネットワーク",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "ネットワークに制限を追加",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "ネットワークにDPI制限を割り当てる",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "ネットワーク",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "ネットワークを選択",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "グループを選択",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "利用可能なネットワークにはすでに制限が割り当てられています。",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "DPI制限は正常に割り当てられました。",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "DPI制限の割り当て中にエラーが発生しました。",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "ネットワークグループの割り当てを削除しますか？",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "DPI制限グループのネットワーク割り当てを削除してもよろしいですか？",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "DPI制限グループのネットワーク割り当ては削除されました。",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "DPI制限のネットワーク割り当ての削除中にエラーが発生しました。",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "ワイヤレスネットワーク",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "ネットワーク",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": "ワイヤレスネットワークに割り当てられたDPI制限はありません。",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": "ネットワークに割り当てられたDPI制限はありません。"
+}

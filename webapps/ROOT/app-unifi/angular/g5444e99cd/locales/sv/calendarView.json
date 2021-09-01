@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Arkivera",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Arkivera alla",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Hämta fler",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Visa arkiverade varningar.",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "Det finns inte några varningar inom denna tidsperiod.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "Det finns inga händelser inom angivet tidsintervall.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "Inga händelser matchar sökkriterierna.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "Antalet resultat är begränsat till {{currentLength}} av {{totalLength}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "Alla",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Fel",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "Allmänt",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Varningar",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Admin",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "Alla",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Händelse",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Tid",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} Händelser",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "{{count}} Fler händelser"
+}

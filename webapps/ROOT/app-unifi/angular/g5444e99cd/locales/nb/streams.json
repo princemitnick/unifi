@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Terminer strøm",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "Strøm {{streamId}} har blitt terminert",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Det oppstod en feil ved terminering av strømmen {{streamId}}.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Strøm",
+  "STREAMS_FILTER_ALL_STREAMS": "Alle",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Ingen strømmer funnet",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Ingen strømmer passer til det søkekriteriet",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Ingen strømmer har blitt funnet enda.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Tilkoblet",
+  "STREAMS_TABLE_HEADER_DEVICE": "Enhet",
+  "STREAMS_TABLE_HEADER_READY": "Klar",
+  "STREAMS_TABLE_HEADER_STREAMING": "Strømming",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Strøm",
+
+  "STREAMS_VIEW_ALL": "Alle"
+}

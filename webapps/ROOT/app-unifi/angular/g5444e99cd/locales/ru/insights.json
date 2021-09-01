@@ -1,0 +1,13 @@
+{
+  "INSIGHTS_NAV_DYNAMIC_DNS": "Динамический DNS",
+  "INSIGHTS_NAV_CLIENT_HISTORY": "Client History",
+  "INSIGHTS_NAV_NEIGHBORING_ACCESS_POINTS": "Соседние точки доступа",
+  "INSIGHTS_NAV_PAST_CONNECTIONS": "Прошлые подключения",
+  "INSIGHTS_NAV_PAST_GUEST_AUTHORIZATIONS": "Прошлые Гостевые Авторизации",
+  "INSIGHTS_NAV_PORT_FORWARD_STATS": "Статистика Перенаправляющего Порта",
+  "INSIGHTS_NAV_STREAMS": "Трансляции AC-EDU",
+  "INSIGHTS_NAV_SWITCH_STATS": "Статистика коммутаторов",
+  "INSIGHTS_NAV_REMOTE_USER_VPN": "ВПС удалённого пользователя",
+  "INSIGHTS_NAV_STATIC_ROUTING": "Статистика маршрутизации",
+  "INSIGHTS_NAV_LOGS": "Лог файлы Контроллера"
+}

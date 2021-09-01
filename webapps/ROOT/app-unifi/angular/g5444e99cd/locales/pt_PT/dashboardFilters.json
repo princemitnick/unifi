@@ -1,0 +1,19 @@
+{
+  "DASHBOARD_FILTER_DEFINITIONS_DEVICES_UAP": "Filtrar por Ponto de Acesso",
+
+  "DASHBOARD_FILTER_DEVICES_TITLE_LABEL": "Filtro:",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE": "{count, plural, one {# Dispositivo} other {# Dispositivos}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_TOP": "Topo {count, plural, one{# Dispositivo} other{# Dispositivos}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_ALL": "Todos os dispositivos",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE": "{count, plural, one {# Ponto de Acesso} other {# Pontos de Acesso}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_TOP": "Topo {count, plural, one{# Ponto de acesso} other{# Pontos de acesso}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_ALL": "Todos os Pontos de Acesso",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE": "{count, plural, one {# Switch} other {# Switches}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_TOP": "Topo {count, plural, one{# Switch} other{# Switches}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_ALL": "Todos os Switches",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_SELECT_ALL": "Todos os Dispositivos",
+  "DASHBOARD_FILTER_DEVICES_UAP_SELECT_ALL": "Todos os Pontos de Acesso",
+  "DASHBOARD_FILTER_DEVICES_USW_SELECT_ALL": "Todos os Switches"
+}

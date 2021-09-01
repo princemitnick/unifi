@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Интерфейс",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "Удаленный IP",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Пользователь",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Скачано пакетов",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Отдано пакетов",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Скачано байт",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Отдано байт",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Время работы",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Действия",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Завершить",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "Не найдено текущих сессий",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": " Сейчас сессий удаленных пользователей VPN нет.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "Отсутствуют \"Remote User VPN\" сессии, соответствующие заданным условиям поиска.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Пожалуйста подтвердите",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Вы уверены что хотите закрыть \"remote user VPN\" соединение?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Подключение прервано",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Ошибка при закрытии соединения"
+}

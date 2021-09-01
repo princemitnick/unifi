@@ -1,0 +1,11 @@
+{
+  "CLIENT_PROPERTIES_LABEL_UP_PKTS_BYTES": "Отдано Пкты/Байты",
+  "CLIENT_PROPERTIES_LABEL_DOWN_PKTS_BYTES": "Скачано Пктв/Байт",
+  "DPI_USERS_TABLE_HEADER_NAME": "Имя клиента",
+  "DPI_USERS_TABLE_HEADER_CATEGORIES": "Категории",
+  "DPI_USERS_TABLE_HEADER_UP": "Отдано",
+  "DPI_USERS_TABLE_HEADER_DOWN": "Скачано",
+
+  "DPI_USERS_TABLE_EMPTY_HEADER": "Нет данных DPI",
+  "DPI_USERS_TABLE_EMPTY_NO_DATA": "Нет данных DPI для выбранных категорий"
+}

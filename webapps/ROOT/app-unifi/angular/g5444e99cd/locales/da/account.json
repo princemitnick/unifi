@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Hotspot Manager",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Brugernavn",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Adgangskode",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Husk mig",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Log ind",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "SSO Login",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Glemt din adgangskode?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Forlæng session timeout til 7 dage.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Insæt din 2FA token",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6 cifret token",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Logning aflyst",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Godkendelsesfejl",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Login fejl",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Ugyldigt brugernavn eller adgangskode.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Ugyldig 2FA token",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Nulstil adgangskodefejl",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Kontobekræftelse mislykkedes",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Hvis du allerede har et brugernavn og en adgangskode, kan du",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "log ind her",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "SSO login...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Tast venligt din e-mail adresse her, for at nulstille din adgangskode",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Nulstil adgangskode",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Tilbage",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Der er sendt en e-mail for at gendanne din adgangskode.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Der opstod en fejl ved gendannelse af din adgangskode.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "En konto for alle Ubiquiti apps og tjenester.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Ingen konto?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Registrér her"
+}

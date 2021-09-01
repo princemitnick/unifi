@@ -1,0 +1,52 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "Επιστροφή",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Επιστροφή ποσού Πληρωμής",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Είστε σίγουροι ότι θέλετε επιστροφή του ποσού πληρωμής;;",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "Το ποσό πληρωμής έχει επιστραφεί.",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "Παρουσιάστηκε σφάλμα κατά την επιστροφή του ποσού πληρωμής.",
+
+  "PAYMENT_ACTIONS_REMOVE": "Αφαίρεση",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_TITLE": "Remove payment",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_MESSAGE": "Are you sure you want to remove payment?",
+  "PAYMENT_ACTIONS_REMOVE_SUCCESS": "The payment has been removed.",
+  "PAYMENT_ACTIONS_REMOVE_ERROR": "There was an error removing the payment.",
+
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA": "Remove Personal Data",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_TITLE": "Remove Personal data",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_MESSAGE": "Are you sure you want to remove personal data from this payment?",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_SUCCESS": "The personal data has been removed from payment.",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_ERROR": "There was an error removing the personal data.",
+
+  "PAYMENT_STATUS_AUTHORIZED": "Εξουσιοδοτημένο",
+  "PAYMENT_STATUS_PAID": "Πληρώθηκε",
+  "PAYMENT_STATUS_VOID": "Ακυρωμένα/Επιστράφηκαν",
+
+  "PAYMENT_GATEWAY_AUTHORIZE": "Authorize.net",
+  "PAYMENT_GATEWAY_FACEBOOK": "Facebook",
+  "PAYMENT_GATEWAY_FREE": "Free Trial",
+  "PAYMENT_GATEWAY_GOOGLE": "Google",
+  "PAYMENT_GATEWAY_IPPAY": "IPpay",
+  "PAYMENT_GATEWAY_MERCHANTWARRIOR": "Merchant Warrior",
+  "PAYMENT_GATEWAY_PAYPAL": "PayPal",
+  "PAYMENT_GATEWAY_QUICKPAY": "Quickpay",
+  "PAYMENT_GATEWAY_STRIPE": "Stripe",
+
+  "PAYMENT_FILTER_TRANSACTION_TYPE": "Τύπος συναλλαγής",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_ALL": "Όλα",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_PAYMENTS": "Πληρωμές",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_SOCIAL": "Κοινωνικό δίκτυο",
+
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Ποσό",
+  "PAYMENT_TABLE_HEADER_EMAIL": "Email",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Επιπλέον πληροφορίες",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "Όνομα",
+  "PAYMENT_TABLE_HEADER_GATEWAY": "Πύλη",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Επώνυμο",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Πακέτο",
+  "PAYMENT_TABLE_HEADER_STATUS": "Κατάσταση",
+  "PAYMENT_TABLE_HEADER_TIME": "Ώρα",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "Δεν βρέθηκαν συναλλαγές",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "Δεν βρέθηκαν συναλλαγές που να ταιριάζουν με τα κριτήρια αναζήτησης.",
+  "PAYMENT_TABLE_EMPTY_NO_TRANSACTIONS": "Δεν έχουν υποβληθεί συναλλαγές σε επεξεργασία."
+}

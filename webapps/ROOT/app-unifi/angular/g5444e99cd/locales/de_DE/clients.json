@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Foto",
+  "CLIENT_TABLE_HEADER_ICON": "Symbol",
+  "CLIENT_TABLE_HEADER_NAME": "Name",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Hostname",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "MAC-Adresse",
+  "CLIENT_TABLE_HEADER_IP": "IP-Adresse",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "802.1X-Identität",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X-VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Status",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Benutzergruppe",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Verbindung",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Netzwerk",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Port",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Port",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Kanal",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WLAN Verbindung",
+  "CLIENT_TABLE_HEADER_FT": "Fast Roaming",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Signal",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "LAN Traffic ↓",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "LAN Traffic ↑",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Empfangen",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Gesendet",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Senderate",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Empfangsrate",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Aktivität",
+  "CLIENT_TABLE_HEADER_UPTIME": "Betriebszeit",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Produkt",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Hersteller",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Gerätetyp",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Gerätebetriebssystem",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Erfahrung",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "WLAN Erfahrung",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Kabelgebundene Erfahrung",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Aktionen",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Schneller BSS-Übergang",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Endgeräte-Netzwerkaktivität der letzten 5 Minuten",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {Endgerät} other {Endgeräte}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Keine Endgeräte gefunden",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "Neu erkannte Endgeräte werden automatisch in dieser Liste angezeigt.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Es entspricht kein Endgerät den Suchkriterien.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Aktiv",
+  "CLIENT_ACTIVE_FILTER_ALL": "Alle",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Aktiv",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Verbindung",
+  "CLIENT_WIRED_FILTER_ALL": "Alle",
+  "CLIENT_WIRED_FILTER_FALSE": "Drahtlos",
+  "CLIENT_WIRED_FILTER_TRUE": "Kabel",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Endgeräte-Typ",
+  "CLIENT_GUEST_FILTER_ALL": "Alle",
+  "CLIENT_GUEST_FILTER_FALSE": "Benutzer",
+  "CLIENT_GUEST_FILTER_TRUE": "Gäste",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Funk-Typ",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Alle",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2.4 GHz",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5 GHz",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Netzwerk",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Berechtigt",
+  "CLIENT_TABLE_STATUS_PENDING": "Ausstehend",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Alle konfigurierten Endgeräte",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Endgerät hinzufügen",
+
+  "CLIENT_ADD_TITLE": "Endgerät hinzufügen",
+  "CLIENT_ADD_EDIT_TITLE": "Endgerät bearbeiten",
+  "CLIENT_ADD_LIST_TITLE": "Endgeräte mit ausstehenden Änderungen",
+
+  "CLIENT_ADD_LABEL_MAC": "MAC-Adresse",
+  "CLIENT_ADD_LABEL_ALIAS": "Alias",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Benutzergruppe",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Feste IP",
+  "CLIENT_ADD_LABEL_NETWORK": "Netzwerk",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "IP-Adresse",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "IP-Adresse wurde bereits hinzugefügt.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "MAC-Adresse wurde bereits hinzugefügt.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Diese MAC-Adresse wird bereits benutzt.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Kann keine Multicast MAC-Adresse hinzufügen.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Broadcast MAC-Adresse kann nicht hinzugefügt werden.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Endgerät hinzufügen",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "MAC-Adresse",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Alias",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Benutzergruppe",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Netzwerk",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "IP-Adresse",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {1 Endgerät verwerfen} other {# Endgeräte verwerfen}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Sind Sie sicher, dass Sie 1 bereits der Liste hinzugefügtes Endgerät entfernen möchten?} other {Sind Sie sicher, dass Sie # bereits der Liste hinzugefügte Endgeräte entfernen möchten?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Standard",
+  "CLIENT_COLUMNS_PRESET_ALL": "Alle Spalten"
+}

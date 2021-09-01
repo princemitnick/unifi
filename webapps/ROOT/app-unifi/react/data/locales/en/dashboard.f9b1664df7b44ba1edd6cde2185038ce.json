@@ -1,0 +1,204 @@
+{
+  "DASHBOARD_MODULE_INTERNET_HEADER": "Internet",
+  "DASHBOARD_MODULE_CLIENTS_HEADER": "Client Device Types",
+  "DASHBOARD_MODULE_WI_FI_EXPERIENCE_HEADER": "WiFi Experience",
+
+  "DASHBOARD_MODULE_INTERNET_ALL_TAB": "All",
+  "DASHBOARD_MODULE_INTERNET_RUN_SPEED_TEST_ACTION": "Run Speed Test",
+  "DASHBOARD_MODULE_INTERNET_DOWNLOAD": "Downlink",
+  "DASHBOARD_MODULE_INTERNET_UPLOAD": "Uplink",
+  "DASHBOARD_MODULE_INTERNET_UPTIME": "Uptime",
+  "DASHBOARD_MODULE_INTERNET_PEAK": "Peak Usage",
+  "DASHBOARD_MODULE_INTERNET_REAL_TIME": "Real-Time Usage",
+  "DASHBOARD_MODULE_INTERNET_HIGH_RX_USAGE_TOOLTIP_TITLE": "High Download Usage",
+  "DASHBOARD_MODULE_INTERNET_HIGH_TX_USAGE_TOOLTIP_TITLE": "High Upload Usage",
+  "DASHBOARD_MODULE_INTERNET_HIGH_USAGE_TOOLTIP_MESSAGE": "It's recommended that you upgrade your ISP service plan based on high usage.",
+  "DASHBOARD_MODULE_INTERNET_NEXT_UPDATE": "Next Update: {seconds}s",
+
+  "DASHBOARD_MODULE_LTE_INTERNET_LABEL": "UniFi LTE",
+
+  "DASHBOARD_MODULE_CLIENTS_VIEW_TRAFFIC_ACTION": "View Traffic",
+  "DASHBOARD_MODULE_CLIENTS_ALL_TAB": "All",
+  "DASHBOARD_MODULE_CLIENTS_WIRED_TAB": "Wired",
+  "DASHBOARD_MODULE_CLIENTS_WIRELESS_TAB": "Wireless",
+  "DASHBOARD_MODULE_CLIENTS_GUEST_TAB": "Guest",
+  "DASHBOARD_MODULE_CLIENTS_SUBTITLE_ACTIVE_TIMEFRAME": "Active / {timeframe}",
+  "DASHBOARD_MODULE_CLIENTS_TABLE_EMPTY": "No clients are active on the network.",
+  "DASHBOARD_MODULE_CLIENTS_TABLE_TYPE": "Type",
+  "DASHBOARD_MODULE_CLIENTS_TABLE_ACTIVITY": "Activity",
+  "DASHBOARD_MODULE_CLIENTS_TABLE_EXPERIENCE": "Experience",
+  "DASHBOARD_MODULE_CLIENTS_TABLE_TOTAL": "Total",
+  "DASHBOARD_MODULE_CLIENTS_OS_UNKNOWN": "Unknown",
+
+  "DASHBOARD_STATUS_MAIN_HEADLINE_GOOD_INTRO": "Everything is",
+  "DASHBOARD_STATUS_MAIN_HEADLINE_GOOD_STATUS_TEXT": "good!",
+  "DASHBOARD_STATUS_MAIN_HEADLINE_GREAT_INTRO": "Everything is",
+  "DASHBOARD_STATUS_MAIN_HEADLINE_GREAT_STATUS_TEXT": "great!",
+  "DASHBOARD_STATUS_MAIN_HEADLINE_YOUR_SETUP_NEEDS_ATTENTION_INTRO": "Your network needs",
+  "DASHBOARD_STATUS_MAIN_HEADLINE_YOUR_SETUP_NEEDS_ATTENTION_TEXT": "attention",
+
+  "DASHBOARD_ISP_CHART_ISP_LOAD": "ISP Load",
+  "DASHBOARD_ISP_CHART_NO_GATEWAY_INTRO": "No",
+  "DASHBOARD_ISP_CHART_NO_GATEWAY_LINK": "UniFi Security Gateway",
+  "DASHBOARD_ISP_CHART_NO_GATEWAY_OUTRO": "detected. Routing info unavailable.",
+  "DASHBOARD_ISP_TOOLTIP_BUTTON": "View History",
+  "DASHBOARD_ISP_TOOLTIP_HEADER": "Current ISP Load",
+
+  "DASHBOARD_DURATION_MONTHS": "{months}m {weeks}w {days}d {hours}h {minutes}m",
+  "DASHBOARD_DURATION_WEEKS": "{weeks}w {days}d {hours}h {minutes}m",
+  "DASHBOARD_DURATION_DAYS": "{days}d {hours}h {minutes}m",
+  "DASHBOARD_DURATION_HOURS": "{hours}h {minutes}m",
+  "DASHBOARD_DURATION_MINUTES": "{minutes}m {seconds}s",
+  "DASHBOARD_DURATION_SECONDS": "{seconds}s",
+
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_CLIENTS_EXP_TEXT": "WiFi Exp:",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_CLIENTS_LABEL": "Clients",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_CLIENTS_TOOLTIP_BANDWIDTH_PROFILES": "Client Groups",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_CLIENTS_TOOLTIP_INFO":
+    "WiFi Clients represents all devices connected to your WiFi network(s)",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_CLIENTS_TOOLTIP_TOTAL_CLIENTS": "Total Clients",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_CLIENTS_TOOLTIP_EXP": "WiFi Experience",
+
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_INTERNET_LABEL": "Internet Capacity",
+
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_IOT_EXP_TEXT": "WiFi Exp:",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_IOT_LABEL": "IoT",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_IOT_TOOLTIP_IOT_GROUPS": "IoT Groups",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_IOT_TOOLTIP_INFO":
+    "IoT represents all devices that do not require human interaction to operate on your WiFi network(s). Such as smart locks, thermostats... etc.",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_IOT_TOOLTIP_TOTAL_IOT": "Total IoT Clients",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_IOT_TOOLTIP_EXP": "WiFi Experience",
+
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_GUESTS_EXP_TEXT": "WiFi Exp:",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_GUESTS_LABEL": "Guests",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_GUESTS_TOOLTIP_GUEST_GROUPS": "Guest Groups",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_GUESTS_TOOLTIP_INFO":
+    "Guests represents all devices connected to your WiFi hotspot network(s)",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_GUESTS_TOOLTIP_TOTAL_GUESTS": "Total Guests",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_GUESTS_TOOLTIP_EXP": "WiFi Experience",
+
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_UAP_EXP_TEXT": "WiFi Exp:",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_UAP_LABEL": "Access Points",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_UAP_TOOLTIP_TOTAL_CLIENTS": "Total Clients",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_UAP_TOOLTIP_BANDWIDTH_PROFILES": "Client Groups",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_UAP_TOOLTIP_EXP": "WiFi Experience",
+
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_UDM_LABEL": "Gateway Utilization",
+
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_USG_LABEL": "Gateway Utilization",
+
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_UTILIZATION_24H": "24 Hr Utilization",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_UTILIZATION_7D": "7-Day Utilization",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_UTILIZATION_30D": "30-Day Utilization",
+
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_USW_EXP_TEXT": "Switch Exp:",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_USW_LABEL": "Switches",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_USW_TOOLTIP_AVAILABLE_PORTS": "Available Ports",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_USW_TOOLTIP_CONSUMPTION": "Consumption",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_USW_TOOLTIP_EXP": "Switch Experience",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_USW_TOOLTIP_TOTAL_PORTS": "Total Ports",
+  "DASHBOARD_NETWORK_STATUS_DIAGRAM_USW_TOOLTIP_POWER": "Power",
+
+  "DASHBOARD_THEME_SWITCHER_THEME": "Theme",
+
+  "DASHBOARD_EDITOR_WIFI_METRICS": "WiFi Metrics",
+
+  "DASHBOARD_MODULE_DEFINITIONS_ANOMALIES": "Anomalies",
+  "DASHBOARD_MODULE_ANOMALIES_NO_DATA": "No anomalies",
+  "DASHBOARD_MODULE_ANOMALIES_HEADER": "Anomalies over {count} devices",
+  "DASHBOARD_MODULE_ANOMALIES_AP_HIGH_UTILISATION": "Excessive utilization for Access Point \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_AP_HIGH_TX_RETRIES": "Access Point \"{name}\" experienced high retry rates",
+  "DASHBOARD_MODULE_ANOMALIES_AP_HIGH_DROP_RATE": "Excessive packet drops for Access Point \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_AP_HIGH_CPU": "High CPU usage for Access Point \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_AP_MAC_REJECTION": "Access Point \"{name}\" rejected some MAC address",
+  "DASHBOARD_MODULE_ANOMALIES_AP_LONG_ASSOCIATION_TIME": "Long average association time for Access Point \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_AP_LONG_MAX_ASSOCIATION_TIME": "Long association time for Access Point \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_AP_HIGH_ASSOCIATION_FAILURES": "High associations failures for Access Point \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_USER_SIGNAL_STRENGTH_FAILURES": "Low signal strength for Client \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_USER_LOW_PHY_RATE": "Low bandwidth for Client \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_USER_HIGH_TCP_PACKET_LOSS": "High TCP packet loss for Client \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_USER_HIGH_TCP_LATENCY": "High TCP latency for Client \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_USER_HIGH_WIFI_RETRIES": "High WiFi retries for Client \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_USER_POOR_STREAM_EFF": "Poor stream efficiency for Client \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_USER_SLEEPY_CLIENT": "Client \"{name}\" is sleeping too much and losing packets",
+  "DASHBOARD_MODULE_ANOMALIES_USER_HIGH_WIFI_LATENCY": "High WiFi latency for Client \"{name}\"",
+  "DASHBOARD_MODULE_ANOMALIES_USER_IP_TIMEOUT": "Client \"{name}\" is having trouble obtaining an IP via DHCP.",
+  "DASHBOARD_MODULE_ANOMALIES_USER_ARP_TIMEOUT":
+    "Client \"{name}\" is having trouble resolving an IP to a MAC address (ARP timeout).",
+  "DASHBOARD_MODULE_ANOMALIES_USER_DNS_TIMEOUT":
+    "Client \"{name}\" is having trouble resolving a domain name to an IP address (DNS timeout).",
+  "DASHBOARD_MODULE_ANOMALIES_DURATION": "for last {duration}",
+  "DASHBOARD_MODULE_ANOMALIES_SHOW_ALL": "Show All",
+
+  "DASHBOARD_MODULE_ACTIVE_CLIENTS": "Active Clients",
+  "DASHBOARD_MODULE_ACTIVE_CLIENTS_NOW": "Now",
+  "DASHBOARD_MODULE_ACTIVE_CLIENTS_TOTAL": "Total",
+
+  "DASHBOARD_MODULE_WIFI_TITLE": "WiFi Experience",
+  "DASHBOARD_MODULE_WIFI_AI_BUTTON": "Launch WiFi AI",
+  "DASHBOARD_MODULE_WIFI_NOW": "Now",
+  "DASHBOARD_MODULE_WIFI_AVERAGE": "Avg",
+  "DASHBOARD_MODULE_WIFI_TOOLTIP": "An aggregate measurement of the WiFi connection and performance of all clients.",
+
+  "DASHBOARD_CHANNEL_DISTRIBUTION_SUBTITLE_NA": "5GHz",
+  "DASHBOARD_CHANNEL_DISTRIBUTION_SUBTITLE_NG": "2.4GHz",
+  "DASHBOARD_CHANNEL_DISTRIBUTION_TITLE": "WiFi-Traffic Dist.",
+  "DASHBOARD_CHANNEL_DISTRIBUTION_TOOLTIP_AP": "{count, plural, one {AP} other {APs}}",
+  "DASHBOARD_CHANNEL_DISTRIBUTION_TOOLTIP_CHANNEL": "{count, plural, one {Channel} other {Channels}}",
+  "DASHBOARD_CHANNEL_DISTRIBUTION_TOOLTIP_CLIENT": "{count, plural, one {Client} other {Clients}}",
+  "DASHBOARD_CHANNEL_DISTRIBUTION_WARNING_UNKNOWN_CHANNEL":
+    "Some devices use channels that are not allowed for the region configured for this site. Check your configuration to resolve the problem.",
+
+  "DASHBOARD_UDM_TRAFFIC_SECURITY": "Traffic Security",
+  "DASHBOARD_UDM_TRAFFIC_SECURITY_NO_THREATS": "No recent threats",
+
+  "UDM_DASHBOARD_POWER_USAGE": "Power Usage",
+
+  "DASHBOARD_STATUS_LIST_DURATION": "Duration",
+  "DASHBOARD_STATUS_LIST_UTILIZATION": "Utilization",
+  "DASHBOARD_STATUS_LIST_UTILIZATION_PAST_24_HRS": "Past 24Hrs",
+  "DASHBOARD_STATUS_LIST_UTILIZATION_TOOLTIP": "The percentage of bandwidth from your ISP that is being utilized.",
+  "DASHBOARD_SYSTEM_UPTIME": "System Uptime",
+
+  "DASHBOARD_MOST_ACTIVE_CLIENTS": "Most Active Clients",
+  "DASHBOARD_MOST_ACTIVE_CLIENTS_DESCRIPTION": "Most active clients results will be displayed once clients are connected to your network",
+  "DASHBOARD_MOST_ACTIVE_APPS": "Most Active Apps",
+  "DASHBOARD_MOST_ACTIVE_APPS_DESCRIPTION": "Most active app results will be displayed once clients are connected to your network",
+
+  "DASHBOARD_UDM_ALL_ACCESS_POINTS": "All Access Points",
+
+  "DASHBOARD_WIFI_CHART_TOOLTIP_EXP": "WiFi Exp",
+
+  "DASHBOARD_SPEEDTEST_ISP_INFO": "{provider} to {location}",
+  "DASHBOARD_SPEEDTEST_ISP_RESULT_INFO": "Connection: {provider} to {location}",
+  "DASHBOARD_SPEEDTEST_ISP_ADJUST": "Adjust your ISP speed",
+
+  "HYBRID_DASHBOARD_NOTICE": "Not seeing everything you need?",
+  "HYBRID_DASHBOARD_NOTICE_CTA": "Go to classic dashboard",
+
+  "DASHBOARD_WIFI_MODULE_NO_AP_PLACEHOLDER_TEXT": "Elevate your WiFi <br /> Experience with UniFi APs",
+  "DASHBOARD_WIFI_MODULE_NO_AP_PLACEHOLDER_BANNER_TITLE": "WiFi Experience Score <br /> not yet available",
+  "DASHBOARD_WIFI_MODULE_NO_AP_PLACEHOLDER_BANNER_DESCRIPTION": "UniFi access points are required. <br /> Click <a href=\"{url}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> to learn more.",
+  "DASHBOARD_WIFI_MODULE_NO_WIFI_PLACEHOLDER_TITLE": "WiFi Experience Unavailable",
+  "DASHBOARD_WIFI_MODULE_NO_WIFI_PLACEHOLDER_DESCRIPTION": "Create a WiFi network in settings and benchmark your Wifi Experience",
+  "DASHBOARD_WIFI_MODULE_NO_WIFI_PLACEHOLDER_BUTTON": "Go To Settings",
+
+  "DASHBOARD_NON_UBNT_DEVICE_LABEL": "Network Version {network_version} | {os} {os_version}",
+  "DASHBOARD_DREAM_MACHINE_PRO_LABEL": "Dream Machine Pro",
+  "DASHBOARD_DREAM_MACHINE_PRO_DESCRIPTION": "Powerful network insights and control now available with UniFi Dream Machine Professional",
+  "DASHBOARD_DREAM_MACHINE_PRO_BUTTON": "Learn More",
+
+  "DASHBOARD_ISP_PROPERTY_OVERVIEW": "Overview",
+  "DASHBOARD_ISP_PROPERTY_SPEED_TESTS": "Speed Tests",
+  "DASHBOARD_ISP_PROPERTY_SERVICE_PROVIDER": "Service Provider",
+  "DASHBOARD_ISP_PROPERTY_DOWNLOAD_CAPACITY": "Download Capacity",
+  "DASHBOARD_ISP_PROPERTY_UPLOAD_CAPACITY": "Upload Capacity",
+  "DASHBOARD_ISP_PROPERTY_WAN_IP": "WAN IP (Port {port_idx})",
+  "DASHBOARD_ISP_PROPERTY_DNS_SERVER_1": "DNS Server 1",
+  "DASHBOARD_ISP_PROPERTY_DNS_SERVER_2": "DNS Server 2",
+  "DASHBOARD_ISP_PROPERTY_LINK_INTERNET_SETTINGS": "Internet Settings",
+  "DASHBOARD_ISP_ACCORDION_TITLE_WAN_FAILOVER": "WAN Failover",
+  "DASHBOARD_ISP_PROPERTY_LTE_BACKUP": "LTE Backup",
+  "DASHBOARD_ISP_PROPERTY_TABLE_HEADER_TIME": "Date/Time",
+  "DASHBOARD_ISP_PROPERTY_TABLE_NO_SPEED_TESTS": "No speed test results available"
+}

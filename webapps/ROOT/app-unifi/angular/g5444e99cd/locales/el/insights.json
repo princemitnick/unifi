@@ -1,0 +1,13 @@
+{
+  "INSIGHTS_NAV_DYNAMIC_DNS": "Δυναμικό DNS",
+  "INSIGHTS_NAV_CLIENT_HISTORY": "Client History",
+  "INSIGHTS_NAV_NEIGHBORING_ACCESS_POINTS": "Γειτονικά σημεία πρόσβασης",
+  "INSIGHTS_NAV_PAST_CONNECTIONS": "Παλιότερες συνδέσεις",
+  "INSIGHTS_NAV_PAST_GUEST_AUTHORIZATIONS": "Παλιότεροι εξουσιοδοτημένοι επισκέπτες",
+  "INSIGHTS_NAV_PORT_FORWARD_STATS": "Στατιστικά προωθημένων πυλών",
+  "INSIGHTS_NAV_STREAMS": "Ροές AC-EDU",
+  "INSIGHTS_NAV_SWITCH_STATS": "Στατιστικά κατανεμητή",
+  "INSIGHTS_NAV_REMOTE_USER_VPN": "Απομακρυσμένος χρήστης VPN",
+  "INSIGHTS_NAV_STATIC_ROUTING": "Στατιστικά δρομολογητή",
+  "INSIGHTS_NAV_LOGS": "Controller Logs"
+}

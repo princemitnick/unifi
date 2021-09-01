@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "Brak nowych wiadomości.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Oczekiwanie na logi z kontrolera",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Pobierz logi",
+  "LOGS_MESSAGES_FETCH_MORE": "Dociągnij wcześniejsze logi",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "Plik z logami został poprawnie pobrany",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "nie ma więcej logów",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Logi pobrane"
+}

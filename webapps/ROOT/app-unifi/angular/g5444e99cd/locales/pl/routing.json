@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Interfejs",
+  "ROUTING_TABLE_HEADER_METRIC": "Metryka",
+  "ROUTING_TABLE_HEADER_PREFIX": "Prefiks",
+  "ROUTING_TABLE_HEADER_TYPE": "Typ",
+  "ROUTING_TABLE_HEADER_VIA": "Przez",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Brak zwróconych ścieżek.",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Gdy trasa jest dodana do Twojej sieci zostanie automatycznie wyświetlona na tej liście.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Żaden z wpisów routingu nie pasuje do kryteriów wyszukiwania/"
+}

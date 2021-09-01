@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Interfejs",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "Zdalny adres IP",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Użytkownik",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Pobrane pakiety",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Wysłane pakiety",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Pobierany bajty",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Wysyłane bajty",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Czas działania",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Akcje",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Terminacja",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "Brak bieżących sesji",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "Brak aktywnych zdalnych użytkowników VPN",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "Żadna sesja VPN nie jest zgodna z kryteriami wyszukiwania.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Potwierdź proszę",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Czy na pewno chcesz zakończyć to połączenie VPN użytkownika ? ",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Połączenie przerwane",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Błąd podczas terminacji połączenia"
+}

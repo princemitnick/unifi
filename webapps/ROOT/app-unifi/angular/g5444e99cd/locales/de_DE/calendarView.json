@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Archiv",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Alles archivieren",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Mehr anzeigen",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Archivierte Alarme anzeigen",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "Es sind keine Alarme in diesem Zeitabschnitt aufgetreten.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "Es sind keine Ereignisse in diesem Zeitabschnitt aufgetreten.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "Keine Ereignisse passen zu den angegebenen Suchkriterien.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "Die Anzahl der angezeigten Ergebnisse ist auf {{currentLength}} von gesamt {{totalLength}} begrenzt.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "Alle",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Fehler",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "Allgemein",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Warnungen",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Admin",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "Alle",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Ereignis",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Zeit",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} Ereignisse",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "{{count}} weitere Ereignisse"
+}

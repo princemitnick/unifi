@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Όνομα",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Κωδικός πρόσβασης",
+  "OPERATOR_TABLE_HEADER_NOTES": "Σημειώσεις",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Δεν βρέθηκαν χειριστές",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Δεν βρέθηκαν χειριστές που να ταιριάζουν με τα κριτήρια αναζήτησης.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Δεν έχουν δημιουργηθεί χειριστές.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Δημιουργία νέου χειριστή",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "Ένας νέος χειριστής έχει ενεργοποιηθεί.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Υπήρξε σφάλμα κατά τη δημιουργία του χειριστή.",
+  "OPERATOR_ACTIONS_DELETE": "Διαγραφή",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Διαγραφή χειριστή {{name}}",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Είστε σίγουροι ότι θέλετε να διαγράψετε τον χειριστή {{name}};",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "Η λειτουργία {{name}} έχει διαγραφεί.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Παρουσιάστηκε σφάλμα κατά τη διαγραφή του χειριστή {{name}}.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Άνοιγμα σύνδεσης χειριστή",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Όνομα λογαριασμού",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Κωδικός πρόσβασης",
+  "OPERATOR_CREATE_LABEL_NOTES": "Σημειώσεις",
+  "OPERATOR_CREATE_MODAL_TITLE": "Δημιουργία νέου χειριστή"
+}

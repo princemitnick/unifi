@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Paket",
+  "GUEST_TABLE_HEADER_AMOUNT": "Jumlah",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Disahkan oleh",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Men-download",
+  "GUEST_TABLE_HEADER_UPLOAD": "Meng-upload",
+  "GUEST_TABLE_HEADER_STATUS": "status",
+  "GUEST_TABLE_HEADER_ACTIONS": "Tindakan",
+  "GUEST_TABLE_HEADER_NAME": "Nama",
+  "GUEST_TABLE_HEADER_NOTE": "Catatan",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "RADIUS Session ID",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "RADIUS Username",
+  "GUEST_TABLE_HEADER_START": "Start time",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Para tamu tidak ditemukan",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Para tamu tidak cocok yang kriteria pencarian.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "No guests have connected.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Putuskan",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Tamu telah terputus",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Ada kesalahan melepaskan tamu.",
+  "GUEST_ACTIONS_EXTEND": "Memperpanjang",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Akses telah diperpanjang",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Ada kesalahan memperluas akses.",
+
+  "GUEST_STATUS_EXPIRED": "Expired on {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Authorized, managed by Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Berlaku hingga {{date}}"
+}

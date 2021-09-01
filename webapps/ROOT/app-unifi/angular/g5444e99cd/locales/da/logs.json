@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "Ingen nye logbeskeder endnu.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Venter på logfiler fra controller ...",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Download logs",
+  "LOGS_MESSAGES_FETCH_MORE": "Hent flere logs",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "Logfil blev downloaded med success",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "Ikke flere logs",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Logs hentet"
+}

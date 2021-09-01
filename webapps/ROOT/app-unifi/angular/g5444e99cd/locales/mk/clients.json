@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Photo",
+  "CLIENT_TABLE_HEADER_ICON": "Icon",
+  "CLIENT_TABLE_HEADER_NAME": "Name",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Hostname",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "MAC Address",
+  "CLIENT_TABLE_HEADER_IP": "IP Address",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "802.1X Identity",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Status",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "User Group",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Connection",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Network",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Port",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Port",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Channel",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi Connection",
+  "CLIENT_TABLE_HEADER_FT": "Fast Roaming",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Signal",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "LAN Traffic Down",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "LAN Traffic Up",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Activity Down",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Activity Up",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Tx Rate",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Rx Rate",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Activity",
+  "CLIENT_TABLE_HEADER_UPTIME": "Uptime",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Product",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Manufacturer",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Device Type",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Device OS",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Experience",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "WiFi Experience",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Wired Experience",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Actions",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Fast BSS Transition",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Client network activity over the last 5 minutes",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {client} other {clients}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "No clients found",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "When a client is detected on your network it will automatically show up in this list.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "No clients match that search criteria.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Active",
+  "CLIENT_ACTIVE_FILTER_ALL": "All",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Active",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Connection",
+  "CLIENT_WIRED_FILTER_ALL": "All",
+  "CLIENT_WIRED_FILTER_FALSE": "Wireless",
+  "CLIENT_WIRED_FILTER_TRUE": "Wired",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Client type",
+  "CLIENT_GUEST_FILTER_ALL": "All",
+  "CLIENT_GUEST_FILTER_FALSE": "Users",
+  "CLIENT_GUEST_FILTER_TRUE": "Guests",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Radio type",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "All",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Network",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Authorized",
+  "CLIENT_TABLE_STATUS_PENDING": "Pending",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "All configured clients",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Add Client",
+
+  "CLIENT_ADD_TITLE": "Add client",
+  "CLIENT_ADD_EDIT_TITLE": "Edit client",
+  "CLIENT_ADD_LIST_TITLE": "Clients with pending changes",
+
+  "CLIENT_ADD_LABEL_MAC": "MAC Address",
+  "CLIENT_ADD_LABEL_ALIAS": "Alias",
+  "CLIENT_ADD_LABEL_USER_GROUP": "User Group",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Fixed IP",
+  "CLIENT_ADD_LABEL_NETWORK": "Network",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "IP Address",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "This IP Address is already added.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "This MAC Address is already added.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "This MAC Address is already used.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Cannot add multicast MAC Address.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Cannot add broadcast MAC Address.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Add Client",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "MAC Address",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Alias",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "User Group",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Network",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "IP Address",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Discard 1 client} other {Discard # clients}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Are you sure you want to discard 1 client already added to the list?} other {Are you sure you want to discard # clients already added to the list?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Default",
+  "CLIENT_COLUMNS_PRESET_ALL": "All columns"
+}

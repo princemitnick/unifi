@@ -1,0 +1,14 @@
+{
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_SERVICE": "Služba",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_STATUS": "Stav",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_HOSTNAME": "Názov hostiteľa",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_USERNAME": "Používateľské meno",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_SERVER": "Server",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_IP": "IP",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_LAST_UPDATED": "Naposledy aktualizované",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_ACTIONS": "Akcie",
+
+  "DYNAMIC_DNS_STATS_TABLE_EMPTY_HEADER": "Žiadne dynamické DNS",
+  "DYNAMIC_DNS_STATS_TABLE_EMPTY_NO_DYNAMIC_DNS": "Zatiaľ sa nenašli žiadne služby dynamického DNS.",
+  "DYNAMIC_DNS_STATS_TABLE_EMPTY_NO_MATCHES": "Žiadne služby dynamického DNS nezodpovedajú kritériám vyhľadávania."
+}

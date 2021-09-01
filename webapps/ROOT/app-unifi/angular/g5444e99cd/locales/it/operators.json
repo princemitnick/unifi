@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Nome",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Password",
+  "OPERATOR_TABLE_HEADER_NOTES": "Note",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Nessun operatore trovato",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Nessun operatore corrisponde ai criteri di ricerca.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Nessun operatore è stato creato.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Crea nuovo operatore",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "Un nuove operatore è stato creato.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Si è verificato un errore durante la creazione di un operatore.",
+  "OPERATOR_ACTIONS_DELETE": "Elimina",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Cancellare l'operatore {{name}}",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Si è certi di voler cancellare l'operatore {{name}}?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "L'operatore {{name}} è stato cancellato.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Si è verificato un errore durante la rimozione dell'operatore {{name}}.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Aprire accesso operatore",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Nome Account",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Password",
+  "OPERATOR_CREATE_LABEL_NOTES": "Note",
+  "OPERATOR_CREATE_MODAL_TITLE": "Creare nuovo operatore"
+}

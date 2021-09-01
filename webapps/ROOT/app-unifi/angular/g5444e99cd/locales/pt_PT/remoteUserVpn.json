@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Interface",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "IP Remoto",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Utilizador",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Pc. Recebidos",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Pc. Enviados",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Bytes recebidos",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Bytes enviados",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Tempo de atividade",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Ações",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Terminar",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "Nenhuma sessão atual encontrada",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "Atualmente, não há sessões VPN de utilizadores remotos ativas.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "Nenhuma sessão VPN de utilizadores remotos corresponde a esse critério de pesquisa.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Por favor, confirme",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Tem a certeza que deseja encerrar esta ligação VPN de utilizador remoto?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Ligação terminada",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Erro durante a terminação da ligação"
+}

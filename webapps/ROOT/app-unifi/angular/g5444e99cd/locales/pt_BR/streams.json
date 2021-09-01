@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Terminar fluxo",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "O fluxo {{streamId}} foi encerrado.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Ocorreu um erro ao terminar o fluxo {{streamId}}.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Fluxo",
+  "STREAMS_FILTER_ALL_STREAMS": "Todos",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Nenhum fluxo encontrado",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Nenhum fluxo corresponde a esse critério de pesquisa.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Ainda não foram encontrados fluxos.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Ligado",
+  "STREAMS_TABLE_HEADER_DEVICE": "Dispositivo",
+  "STREAMS_TABLE_HEADER_READY": "Pronto",
+  "STREAMS_TABLE_HEADER_STREAMING": "Transmissão",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Fluxo",
+
+  "STREAMS_VIEW_ALL": "Todos"
+}

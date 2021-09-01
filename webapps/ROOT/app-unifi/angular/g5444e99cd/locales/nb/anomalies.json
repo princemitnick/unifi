@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Svakt signal",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Flytt enheten nærmere til nærmeste UAP",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Lav PHY hastighet",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Flytt enheten nærmere til nærmeste UAP",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "High TCP Packet Loss",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Please check your router, ISP connection, or web service that the client is using",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Høy TCP forsinkelse",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Please verify your internet connection",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Høy TCP forsinkelse",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Please use a router that has traffic shaping enabled, such as Smart Queues on UDM or USG",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Høy TCP forsinkelse",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Please enable Smart Queues at your WAN interface in Settings",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "High WiFi retries",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Vennligst vurder å flytte til en annen kanal",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Høy WiFi forsinkelse",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Vennligst vurder å flytte til en annen kanal",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "DHCP tidsavbrudd",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Kontroller at DNS-tjeneren din er tilgjengelig og riktig konfigurert",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "ARP tidsavbrudd",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Kontroller at gateway er tilgjengelig fra denne enheten",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "DNS tidsavbrudd",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Kontroller at DNS-tjeneren din er tilgjengelig og riktig konfigurert",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "High DNS Latency",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Kontroller at DNS-tjeneren din er tilgjengelig og riktig konfigurert"
+}

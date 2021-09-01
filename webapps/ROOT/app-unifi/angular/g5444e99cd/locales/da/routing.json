@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Interface",
+  "ROUTING_TABLE_HEADER_METRIC": "Metric",
+  "ROUTING_TABLE_HEADER_PREFIX": "Præfiks",
+  "ROUTING_TABLE_HEADER_TYPE": "Type",
+  "ROUTING_TABLE_HEADER_VIA": "Via",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Ingen ruter returneret.",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Når en rute er tilføjet dit netværk vil den automatisk blive vist på listen.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Ingen ruter matcher det søgekriterie."
+}

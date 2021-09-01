@@ -1,0 +1,57 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>UniFi Network - Database Migration</title><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><base href="/manage/"><link href="angular/g5444e99cd/fonts/aura/fonts.css" rel="stylesheet"><link href="angular/g5444e99cd/fonts/ubnt-icon/style.css" rel="stylesheet"><link href="angular/g5444e99cd/css/app.css" rel="stylesheet"><link rel="apple-touch-icon-precomposed" href="angular/g5444e99cd/images/favicons/favicon-152.png?v=2"><meta name="msapplication-TileColor" content="#0193d7"><meta name="msapplication-TileImage" content="angular/g5444e99cd/images/favicons/favicon-144.png?v=2"><link rel="apple-touch-icon-precomposed" sizes="152x152" href="angular/g5444e99cd/images/favicons/favicon-152.png?v=2"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="angular/g5444e99cd/images/favicons/favicon-144.png?v=2"><link rel="apple-touch-icon-precomposed" sizes="120x120" href="angular/g5444e99cd/images/favicons/favicon-120.png?v=2"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="angular/g5444e99cd/images/favicons/favicon-72.png?v=2"><link rel="apple-touch-icon-precomposed" href="angular/g5444e99cd/images/favicons/favicon-57.png?v=2"><link rel="icon" href="angular/g5444e99cd/images/favicons/favicon-32.png?v=2" sizes="32x32"></head><body><script type="text/javascript">function checkStatus () {
+  var xhr = new XMLHttpRequest();
+  xhr.addEventListener('load', function (event) {
+    try {
+      var response = JSON.parse(event.currentTarget.response);
+      if (response.meta && !response.meta.db_migrating) {
+        window.location.reload();
+      } else if (response.meta && response.meta.db_migration_state && response.meta.db_migratable) {
+        document.getElementById("state").innerHTML = response.meta.db_migration_state;
+
+        var siteElement = document.getElementById("site");
+        if (response.meta.db_migration_site) {
+          siteElement.innerHTML = ' for site: ' + response.meta.db_migration_site;
+          siteElement.style.display = '';
+        } else {
+          siteElement.style.display = 'none';
+        }
+
+        var progressElement = document.getElementById("progress");
+        if (response.meta.db_migration_step && response.meta.db_migration_stepsTotal) {
+          progressElement.innerHTML = ' step: ' + response.meta.db_migration_step + ' / ' + response.meta.db_migration_stepsTotal;
+          progressElement.style.display = '';
+        } else {
+          progressElement.style.display = 'none';
+        }
+      } else if (response.meta && !response.meta.db_migratable) {
+        showError(response.meta.db_migratable_message);
+      }
+    }
+    catch (e) {
+      console.log(e);
+    }
+  }, false);
+  xhr.addEventListener('error', function (jqXHR, status, error) {
+    showError('Connection error. Please check your controller process state.', error);
+  }, false);
+
+  var url = location.protocol + '//' + location.host + '/status';
+  xhr.open('GET', url);
+  xhr.send();
+}
+
+function showError(msg, error) {
+  document.getElementById("migration").innerHTML = '<p>' + msg + '</p>';
+  document.getElementById("appInfoBox").className += ' appInfoBox--danger';
+  document.getElementById("appInfoBoxIcon").className = document.getElementById("appInfoBoxIcon").className.replace(/ubnt-icon--info/ , 'ubnt-icon--alert');
+  document.getElementById("state").style.display = 'none';
+  document.getElementById("site").style.display = 'none';
+  document.getElementById("progress").style.display = 'none';
+  console.log(error);
+  clearInterval(checkInterval);
+}
+
+var checkInterval = setInterval(function(){
+  checkStatus();
+}, 500);
+</script><div class="appContainer appContainer--responsive appContainer--centered verticalRhythmTop"><div class="appRow--comfy"><div class="col--xs12"><div class="appInfoBox appInfoBox--responsive" id="appInfoBox"><div class="appInfoBox__icon icon ubnt-icon--info" id="appInfoBoxIcon"></div><div class="appInfoBox__content"><div class="appInfoBox__header"><p id="migration">Database Migration in progress...</p><p><span id="state"></span><span id="site" style="display: none;"></span><span id="progress" style="display: none;"></span></p></div></div></div></div></div></div></body></html>

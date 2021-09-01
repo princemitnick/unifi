@@ -1,0 +1,10 @@
+{
+  "SETTINGS_GROUP_WIFI_NETWORKS": "Sieci WiFi",
+  "SETTINGS_GROUP_NETWORKS": "Sieci",
+  "SETTINGS_GROUP_WIFI_HOTSPOT": "Sieci Hotspot",
+  "SETTINGS_GROUP_NETWORK_SECURITY": "Bezpieczeństwo sieci",
+  "SETTINGS_GROUP_APP_MANAGEMENT": "Zarządzanie aplikacjami",
+  "SETTINGS_GROUP_REMOTE_NETWORK_ACCESS": "Zdalny dostęp sieciowy",
+  "SETTINGS_GROUP_NETWORK_SERVICES": "Usługi sieciowe",
+  "SETTINGS_GROUP_CONTROLLER": "Kontroler"
+}

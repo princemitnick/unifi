@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "Нет новых сообщений лога.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Ждём лог файлы от контроллера...",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Скачать логи",
+  "LOGS_MESSAGES_FETCH_MORE": "Получить больше логов",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "Файл логов был успешно скачан",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "Нет больше логов",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Логи получены"
+}

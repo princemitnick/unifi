@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BW [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Κανάλι",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Όνομα/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Εθεάθη πρόσφατα",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Τοποθεσία",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Κατασκευαστής",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Προβληματικό",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Ασφάλεια",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Σήμα",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "Δεν βρέθηκε γειτονικό σημείο πρόσβασης",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Δεν ανακαλύφθηκαν σημεία πρόσβασης ακόμα",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "Κανένα σημείο πρόσβασης δεν ταιριάζει με τα κριτήρια αναζήτησης.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Αυτό το AP εκπέμπει το ίδιο SSID όπως το/τα AP(s) της δική σας τοποθεσίας. Αυτό μπορεί να είναι μια επίθεση στο δίκτυό σας ή στους χρήστες σας, με τον εισβολέα να προσπαθεί να μιμηθεί το δικό σας SSID προκειμένου οι χρήστες να συνδέονται στα δικά τους AP(s) και όχι στο δίκτυό σας. Η διερεύνηση ως προς την πηγή αυτής της δυνητικής απειλής είναι ιδιαιτέρως ενθαρρυντική.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "Κοντινό {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Πλησιέστερο {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Όλα",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Σήμανση ως γνωστό",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Κατάργηση από γνωστό",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Σήμανση σημείου πρόσβασης ως γνωστό",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Είστε σίγουροι ότι θέλετε να επισημάνετε το σημείο πρόσβασης \"{{essid}}\" ως γνωστό;",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "Το AP \"{{essid}}\" επισημάνθηκε ως γνωστό.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "Παρουσιάστηκε σφάλμα κατά την επισήμανση του AP \"{{essid}}\" ως γνωστό.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "Το AP \"{{essid}}\" διαγράφηκε από τη λίστα γνωστών δικτύων.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "Παρουσιάστηκε σφάλμα κατά την αφαίρεση του AP \"{{essid}}\" από τη λίστα γνωστών δικτύων."
+}

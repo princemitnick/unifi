@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "ストリームを終了する",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "ストリーム {{streamId}} は終了されました。",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "ストリーム {{streamId}}の終了中にエラーが発生しました。",
+
+  "STREAMS_FILTER_TITLE_STREAM": "ストリーム",
+  "STREAMS_FILTER_ALL_STREAMS": "すべて",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "ストリームが見つかりません",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "この検索条件に合致するストリームはありません。",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "まだストリームが見つかっていません。",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "接続済み",
+  "STREAMS_TABLE_HEADER_DEVICE": "デバイス",
+  "STREAMS_TABLE_HEADER_READY": "待機",
+  "STREAMS_TABLE_HEADER_STREAMING": "ストリーミング",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "ストリーム",
+
+  "STREAMS_VIEW_ALL": "すべて"
+}

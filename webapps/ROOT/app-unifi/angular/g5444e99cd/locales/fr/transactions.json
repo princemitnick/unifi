@@ -1,0 +1,52 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "Rembourser",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Rembourser le paiement",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Voulez-vous vraiment rembourser le paiement?",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "Le paiement a été remboursé.",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "Une erreur s’est produite lors du remboursement du paiement.",
+
+  "PAYMENT_ACTIONS_REMOVE": "Supprimer",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_TITLE": "Retirer le paiement",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_MESSAGE": "Êtes-vous sûr de vouloir retirer le paiement ?",
+  "PAYMENT_ACTIONS_REMOVE_SUCCESS": "Le paiement a été supprimé.",
+  "PAYMENT_ACTIONS_REMOVE_ERROR": "Une erreur est survenue lors de la suppression du paiement",
+
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA": "Retirer les données personnelles",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_TITLE": "Retirer les données personnelles",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_MESSAGE": "Êtes-vous sûr de vouloir retirer les données personnelles de ce paiement ?",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_SUCCESS": "Les données personnelles ont été retirées de ce paiement.",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_ERROR": "Une erreur est survenue lors de la suppression des données personnelles.",
+
+  "PAYMENT_STATUS_AUTHORIZED": "Autorisé",
+  "PAYMENT_STATUS_PAID": "Payé",
+  "PAYMENT_STATUS_VOID": "Annulé / Remboursé",
+
+  "PAYMENT_GATEWAY_AUTHORIZE": "Authorize.net",
+  "PAYMENT_GATEWAY_FACEBOOK": "Facebook",
+  "PAYMENT_GATEWAY_FREE": "Essai Gratuit",
+  "PAYMENT_GATEWAY_GOOGLE": "Google",
+  "PAYMENT_GATEWAY_IPPAY": "IPpay",
+  "PAYMENT_GATEWAY_MERCHANTWARRIOR": "Merchant Warrior",
+  "PAYMENT_GATEWAY_PAYPAL": "PayPal",
+  "PAYMENT_GATEWAY_QUICKPAY": "Quickpay",
+  "PAYMENT_GATEWAY_STRIPE": "Stripe",
+
+  "PAYMENT_FILTER_TRANSACTION_TYPE": "Type de transaction",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_ALL": "Tout",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_PAYMENTS": "Paiements",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_SOCIAL": "Social",
+
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Montant",
+  "PAYMENT_TABLE_HEADER_EMAIL": "E-mail",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Informations supplémentaires",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "Prénom",
+  "PAYMENT_TABLE_HEADER_GATEWAY": "Passerelle",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Nom",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Package",
+  "PAYMENT_TABLE_HEADER_STATUS": "Statut",
+  "PAYMENT_TABLE_HEADER_TIME": "Temps",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "Aucune transaction trouvée",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "Aucune transaction ne correspond à ce critère de recherche.",
+  "PAYMENT_TABLE_EMPTY_NO_TRANSACTIONS": "Aucune transaction n’a été traitée."
+}

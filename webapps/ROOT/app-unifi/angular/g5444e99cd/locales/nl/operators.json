@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Naam",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Wachtwoord",
+  "OPERATOR_TABLE_HEADER_NOTES": "Notities",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Geen operators gevonden",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Er zijn geen operators die aan uw zoek criteria voldoen.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Er zijn geen operators aangemaakt.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Maak een nieuwe operator aan",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "Een nieuwe operator is aangemaakt.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Er was een probleem met het aanmaken van een operator.",
+  "OPERATOR_ACTIONS_DELETE": "Verwijder",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Verwijder operator {{name}}",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Bent u zeker dat u operator {{name}} wil verwijderen?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "Operator {{name}} is verwijderd.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Er was een probleem met het verwijderen van operator {{name}}.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Open operator aanmelden",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Account Naam",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Wachtwoord",
+  "OPERATOR_CREATE_LABEL_NOTES": "Notities",
+  "OPERATOR_CREATE_MODAL_TITLE": "Maak een nieuwe operator aan"
+}

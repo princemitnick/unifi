@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Фото",
+  "CLIENT_TABLE_HEADER_ICON": "Піктограма",
+  "CLIENT_TABLE_HEADER_NAME": "Ім'я",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Ім'я вузла",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "MAC-адреса",
+  "CLIENT_TABLE_HEADER_IP": "IP-адреса",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "Ідентифікатор 802.1X",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Статус",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Група користувачів",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Підключення",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Мережа",
+  "CLIENT_TABLE_HEADER_AP_PORT": "ТД/Порт",
+  "CLIENT_TABLE_HEADER_AP": "ТД",
+  "CLIENT_TABLE_HEADER_PORT": "Порт",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Канал",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi Connection",
+  "CLIENT_TABLE_HEADER_FT": "Швидкий роумінг",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Сигнал",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "Локальний вхідний трафік",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "Локальний висхідний трафік",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Активність скачування",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Активність закачування",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Швидкість передавання",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Швидкість приймання",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Активність",
+  "CLIENT_TABLE_HEADER_UPTIME": "Час роботи",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Product",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Manufacturer",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Тип прострою",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Device OS",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Experience",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "Задовільність WiFi",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Wired Experience",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Дії",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Швидкий перехід BSS",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Мережева активність клієнтів протягом останніх 5 хвилин",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {клієнт} few {клієнта} many {клієнтів} other {клієнтів}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Клієнти відсутні",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "При виявленні пристроїв в мережі вони автоматично з'являться в цьому списку.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Немає клієнтів, відповідних заданій умові.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Активні",
+  "CLIENT_ACTIVE_FILTER_ALL": "Всі",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Активні",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Підключення",
+  "CLIENT_WIRED_FILTER_ALL": "Всі",
+  "CLIENT_WIRED_FILTER_FALSE": "Бездротові",
+  "CLIENT_WIRED_FILTER_TRUE": "Дротові",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Тип клієнтів",
+  "CLIENT_GUEST_FILTER_ALL": "Всі",
+  "CLIENT_GUEST_FILTER_FALSE": "Коритувачі",
+  "CLIENT_GUEST_FILTER_TRUE": "Гості",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Тип радіо",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Всі",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Мережа",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "ТД",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Авторизован",
+  "CLIENT_TABLE_STATUS_PENDING": "Очікують",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Всі налаштовані клієнти",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Додати клієнта",
+
+  "CLIENT_ADD_TITLE": "Додати клієнта",
+  "CLIENT_ADD_EDIT_TITLE": "Редагувати клієнта",
+  "CLIENT_ADD_LIST_TITLE": "Клієнти які очікують застосування змінених налаштувань",
+
+  "CLIENT_ADD_LABEL_MAC": "MAC-адреса",
+  "CLIENT_ADD_LABEL_ALIAS": "Псевдонім",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Група користувачів",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Постійна IP-адреса",
+  "CLIENT_ADD_LABEL_NETWORK": "Мережа",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "IP-адреса",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "Цю IP-адресу вже додано.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "Цю MAC-адресу вже додано",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Ця MAC-адреса вже використовується",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Неможливо додати багатоканальну MAC-адресу.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Неможливо додати циркулярну MAC-адресу.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Додати клієнта",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "MAC-адреса",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Псевдонім",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Група користувачів",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Мережа",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "IP-адреса",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Вилучити 1 клієнта} few {Вилучити # клієнти} many {Вилучити # клієнтів} other {Вилучити # клієнтів}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Ви впевнені, що бажаєте вилучити 1 вже доданого до списку клієнта?} few {Ви впевнені, що бажаєте вилучити # вже доданих до списку клієнтів?} many {Ви впевнені, що бажаєте вилучити # вже доданих до списку клієнтів?} other {Ви впевнені, що бажаєте вилучити # вже доданих до списку клієнтів?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Типова",
+  "CLIENT_COLUMNS_PRESET_ALL": "Усі стовпці"
+}

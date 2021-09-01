@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BG [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Kanal",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "İsim/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Son görülme",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Konum",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Üretici",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "İstenmeyen",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Güvenlik",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Sinyal",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "Hiç bir komşu erişim noktası bulunmadı",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Henüz hiç bir erişim noktası bulunmadı.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "Arama ölçütlerine uygun erişim noktası bulunamadı.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Bu AP, sitenizdeki AP (ler) ile aynı SSID'yi yayınlıyor. Bu taklit işlemi ağınıza veya kullanıcılarınıza yönelik bir saldırı veya bilgi hırsızlığı için yapılıyor olabilir. Meydana gelen problemi potansiyel saldırı olarak değerlendirip detaylı detaylı bir şekilde araştırmanızı tavsiye ediyoruz.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "{{ap}} Yakın",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "En yakın {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "AD-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Tümü",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Bilinen olarak işaretle",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Bilinenlerden kaldır",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Kablosuz cihazları bilinen olarak işaretle",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "\"{{essid}}\" kablosuz cihazı bilinen olarak işaretlensin mi?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "\"{{essid}}\" AP'si bilinen olarak işaretlendi.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "\"{{essid}}\" AP'si bilinen olarak işaretlenirken bir hata meydana geldi.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "\"{{essid}}\" AP'si bilinenler listesinden kaldırıldı.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "\"{{essid}}\" bilinenler listesinden kaldırılırken bir hata meydana geldi."
+}

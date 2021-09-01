@@ -1,0 +1,52 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "Reembolso",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Reembolso de pagamento",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Tem a certeza que deseja reembolsar o pagamento?",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "O pagamento foi reembolsado.",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "Ocorreu um erro ao reembolsar o pagamento.",
+
+  "PAYMENT_ACTIONS_REMOVE": "Remover",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_TITLE": "Remover pagamento",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_MESSAGE": "Tem a certeza que deseja remover o pagamento?",
+  "PAYMENT_ACTIONS_REMOVE_SUCCESS": "O pagamento foi removido.",
+  "PAYMENT_ACTIONS_REMOVE_ERROR": "Ocorreu um erro ao remover o pagamento.",
+
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA": "Remover dados pessoais",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_TITLE": "Remover dados pessoais",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_MESSAGE": "Tem a certeza que deseja remover os dados pessoais deste pagamento?",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_SUCCESS": "Os dados pessoais foram removidos do pagamento.",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_ERROR": "Ocorreu um erro ao remover os dados pessoais.",
+
+  "PAYMENT_STATUS_AUTHORIZED": "Autorizado",
+  "PAYMENT_STATUS_PAID": "Pago",
+  "PAYMENT_STATUS_VOID": "Anulado/Reembolsado",
+
+  "PAYMENT_GATEWAY_AUTHORIZE": "Authorize.net",
+  "PAYMENT_GATEWAY_FACEBOOK": "Facebook",
+  "PAYMENT_GATEWAY_FREE": "Teste grátis",
+  "PAYMENT_GATEWAY_GOOGLE": "Google",
+  "PAYMENT_GATEWAY_IPPAY": "IPpay",
+  "PAYMENT_GATEWAY_MERCHANTWARRIOR": "Merchant Warrior",
+  "PAYMENT_GATEWAY_PAYPAL": "PayPal",
+  "PAYMENT_GATEWAY_QUICKPAY": "Quickpay",
+  "PAYMENT_GATEWAY_STRIPE": "Stripe",
+
+  "PAYMENT_FILTER_TRANSACTION_TYPE": "Tipo de transação",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_ALL": "Todos",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_PAYMENTS": "Pagamentos",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_SOCIAL": "Social",
+
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Quantidade",
+  "PAYMENT_TABLE_HEADER_EMAIL": "E-mail",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Informação extra",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "Primeiro Nome",
+  "PAYMENT_TABLE_HEADER_GATEWAY": "Gateway",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Último nome",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Pacotes",
+  "PAYMENT_TABLE_HEADER_STATUS": "Estado",
+  "PAYMENT_TABLE_HEADER_TIME": "Tempo",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "Nenhuma transação encontrada",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "Nenhuma transação corresponde aos critérios de pesquisa.",
+  "PAYMENT_TABLE_EMPTY_NO_TRANSACTIONS": "Nenhuma transação foi processada."
+}

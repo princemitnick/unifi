@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "merubah kelompok yang dilarang",
+  "DPI_RESTRICTION_HEADER_ADD": "masukkan ke kelompok yang dilarang",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "masukkan ke kategori yang dilarang",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "buat kelompok yang dilarang",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "tambahkan ke yang tidak diperbolehkan",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "kelompok",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "kategori",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Applikasi",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "kategori yang dilarang",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "aplikasi yang tidak diperbolehkan",
+  "DPI_RESTRICTION_LABEL_ENABLED": "diaktifkan",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Blok",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "batas bawah",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "batas atas",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Log Traffic",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Enable logging traffic matching this restriction",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Enable this restriction",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Block all matching traffic",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "pilih kelompok",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "pilih kategori",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "semua aplikasi",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "hapus DPI yang tidak diperbolehkan",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Are you sure you want to delete the DPI restriction?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "The DPI restriction was deleted.",
+  "DPI_RESTRICTION_DELETE_ERROR": "There was an error deleting DPI restriction.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "The DPI restriction was saved.",
+  "DPI_RESTRICTION_SAVE_ERROR": "There was an error saving the DPI restriction.",
+
+  "DPI_RESTRICTION_GROUP": "kelompok yang tidak diperbolehkan",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "buat kelompok yang tidak diperbolehkan",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "rubah kelompok yang tidak diperbolehkan",
+  "DPI_RESTRICTION_GROUP_NAME": "nama kelompok",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "The DPI restriction group was saved.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "There was an error saving DPI restriction group.",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Remove DPI restriction group",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Do you really want to delete DPI restriction group \"{groupName}\"?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction. Do you want to delete the group and its contents?} other {The DPI restriction group \"{groupName}\" has # restrictions. Do you want to delete the group and its contents?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 assignment. Do you want to delete the group and its assignments?} other {The DPI restriction group \"{groupName}\" has # assignments. Do you want to delete the group and its assignments?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restriction group \"{groupName}\" has 1 restriction and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?} other {The DPI restriction group \"{groupName}\" has # restrictions and {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. Do you want to delete the group and its contents and assignments?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "The DPI restriction group was deleted.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "There was an error deleting DPI restriction group.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "kategori/aplikasi",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "diaktifkan",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Diblokir",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Log Traffic",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "batas atas",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "batas bawah",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Tindakan",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Tak terbatas",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "No restrictions have been added to this group.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Jaringan",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Jaringan nirkabel",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Assign restrictions to network",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Assign DPI restrictions to network",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Jaringan",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "pilih jaringan",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "pilih kelompok",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "All available networks have been assigned restrictions already.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "The DPI restriction was succesfully assigned.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "There was an error assigning DPI restriction.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Remove network group assignment?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Do you really want to remove DPI restriction group network assignment?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "The DPI restriction group network assignment was removed.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Error during DPI restriction network assignment removal.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "jaringan nirkabel",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Jaringan",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": " No DPI restrictions have been assigned to the wireless networks.",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": " No DPI restrictions have been assigned to the networks."
+}

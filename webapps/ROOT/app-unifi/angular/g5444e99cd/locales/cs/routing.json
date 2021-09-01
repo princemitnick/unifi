@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Rozhraní",
+  "ROUTING_TABLE_HEADER_METRIC": "Metrika",
+  "ROUTING_TABLE_HEADER_PREFIX": "Prefix",
+  "ROUTING_TABLE_HEADER_TYPE": "Typ",
+  "ROUTING_TABLE_HEADER_VIA": "Via",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Nenalezeny žádné cesty.",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Jakmile přidáte cestu k vaší síti, zobrazí se automaticky v tomto seznamu.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Žádná cesta neodpovídá hledaným kritériím."
+}

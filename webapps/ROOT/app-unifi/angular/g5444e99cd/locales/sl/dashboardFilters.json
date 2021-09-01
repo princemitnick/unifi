@@ -1,0 +1,19 @@
+{
+  "DASHBOARD_FILTER_DEFINITIONS_DEVICES_UAP": "Filtriraj po dostopni točki",
+
+  "DASHBOARD_FILTER_DEVICES_TITLE_LABEL": "Filtriraj:",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE": "{count, plural, one {# Naprava} two {# Napravi} few {# Naprav} other {# Naprave}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_TOP": "Vrh {count, plural, one{# Naprava} drugo{# Naprave}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_ALL": "Vse naprave",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE": "{count, plural, one {# Dostopna točka} two {# Dostopni točki} few {# Dostopnih točk} other {# Dostopne točke}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_TOP": "Vrh {count, plural, one{# Dostopna točka} drugo{# Dostopne točke}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_ALL": "Vse dostopne točke",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE": "{count, plural, one {# Stikalo} two {# Stikali} few {# Stikal} other {# Stikala}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_TOP": "Vrh {count, plural, one{# Stikalo} drugo{# Stikala}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_ALL": "Vsa stikala",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_SELECT_ALL": "Vse naprave",
+  "DASHBOARD_FILTER_DEVICES_UAP_SELECT_ALL": "Vse dostopne točke",
+  "DASHBOARD_FILTER_DEVICES_USW_SELECT_ALL": "Vsa stikala"
+}

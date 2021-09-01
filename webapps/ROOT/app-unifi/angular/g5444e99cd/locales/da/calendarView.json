@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Arkivér",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Arkivér alt",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Hent mere",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Vis arkiverede alarmer",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "Der er ingen alarmer indenfor den tidsramme.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "Der er ingen hændelser inden for denne tidsramme.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "Ingen hændelser matcher det søgekriterie.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "Antallet af resultater er begrænset til {{currentLength}} af {{totalLength}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "Alle",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Fejl",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "Generelt",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Advarsler",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Admin",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "Alle",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Hændelse",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Tid",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} Hændelser",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "{{count}} Flere Hændelser"
+}

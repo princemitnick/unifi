@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Paket",
+  "GUEST_TABLE_HEADER_AMOUNT": "Meblağ",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Yetkili",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "İndirme",
+  "GUEST_TABLE_HEADER_UPLOAD": "Gönderme",
+  "GUEST_TABLE_HEADER_STATUS": "Durum",
+  "GUEST_TABLE_HEADER_ACTIONS": "Eylemler",
+  "GUEST_TABLE_HEADER_NAME": "İsim",
+  "GUEST_TABLE_HEADER_NOTE": "Not",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "RADIUS Oturum Kimliği",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "RADIUS Kullanıcı adı",
+  "GUEST_TABLE_HEADER_START": "Başlama zamanı",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Konuk bulunamadı",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Arama ölçütlerine uygun konuk yok.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "Bağlı misafir yok.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Bağlantıyı kes",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Misafirin bağlantısı kesildi",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Konuk bağlantısı kesilirken bir hata meydana geldi.",
+  "GUEST_ACTIONS_EXTEND": "Uzat",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Erişim hakkı uzatıldı",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Erişim hakkı uzatılırken bir hata meydana geldi.",
+
+  "GUEST_STATUS_EXPIRED": "Sona erme tarihi {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Yetkilendirildi, Facebook tarafından yönetiliyor",
+  "GUEST_STATUS_VALID_UNTIL": "{{date}} tarihine kadar geçerlidir"
+}

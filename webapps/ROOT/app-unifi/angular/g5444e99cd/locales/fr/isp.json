@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "Débit",
+  "ISP_MODAL_1_HOUR": "1 Heure",
+  "ISP_MODAL_24_HOURS": "24 Heures",
+  "ISP_MODAL_7_DAYS": "7 Jours",
+  "ISP_MODAL_30_DAYS": "30 Jours",
+
+  "ISP_MODAL_SUMMARY_HEADER": "Résumé",
+  "ISP_MODAL_THROUGHPUT_HEADER": "Historique d'Envoi/Téléchargement",
+  "ISP_MODAL_LATENCY_HEADER": "Historique de Latence",
+
+  "ISP_MODAL_UPLOAD_LABEL": "Téléverser",
+  "ISP_MODAL_DOWNLOAD_LABEL": "Trafic descendant",
+  "ISP_MODAL_LATENCY_LABEL": "Latence",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "Résumé du réseau",
+  "ISP_MODAL_TOP_PROCESS": "Top Processus",
+  "ISP_MODAL_DOWN": "Descendant",
+  "ISP_MODAL_UP": "Montant"
+}

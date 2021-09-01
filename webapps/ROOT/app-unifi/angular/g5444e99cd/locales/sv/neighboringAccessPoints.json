@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BW [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Kanal",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Namn/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Senast sedd",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Plats",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Tillverkare",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Inkräktande",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Säkerhet",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Signal",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "Inga accesspunker hittade i närheten",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Inga accesspunkter har upptäckts än.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "Inga accesspunkter matchar sökkriteriet.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Denna AP skickar ut och sänder med samma SSID som AP(s) på din site. Detta skulle kunna vara en attack på ditt nätverk eller dina användare, där en individ försöker imitera ditt SSID för att få användare ansluta till deras AP(s) istället för ditt nätverk och på så sätt läsa av trafik. Det rekommenderas starkt att denna potentiella risk undersöks.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "Nära {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Närmaste {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Alla",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Markera som känd",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Markera som okänd",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Markera accesspunkter som kända",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Är du säker att du vill markera accesspunkten \"{{essid}}\" som känd?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "Accesspunkten \"{{essid}}\" markerades som känd.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "Ett fel uppstod vid markeringen av accesspunkten \"{{essid}}\".",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "Accesspunkten \"{{essid}}\" raderades från den kända listan.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "Ett fel uppstod vid raderingen av accesspunkten \"{{essid}}\" från den kända listan."
+}

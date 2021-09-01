@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Rozhranie",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "Vzdialená IP",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Používateľ",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Down pakety",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Up pakety",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Down bajty",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Up bajty",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Doba prevádzky",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Akcie",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Ukončiť",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "No current sessions found",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "Currently there are no remote user VPN sessions active.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "No remote user VPN sessions match that search criteria.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Prosím potvrďte",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Naozaj chcete ukončiť toto pripojenie vzdialeného prístupu cez VPN?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Pripojenie ukončené",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Pri ukončovaní pripojenia nastala chyba."
+}

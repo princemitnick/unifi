@@ -1,0 +1,82 @@
+{
+  "IPS_SECURITY_ALERTS": "Alertes de seguretat",
+  "IPS_THREAT_LEVEL": "Perillositat",
+  "IPS_THREAT_LEVEL_LOW": "Baixa",
+  "IPS_THREAT_LEVEL_MEDIUM": "Mitjana",
+  "IPS_THREAT_LEVEL_HIGH": "Alta",
+  "IPS_THREAT_LEVEL_UNKNOWN": "Desconegut",
+
+  "IPS_REAL_TIME_THREATS_HEADER": "Amenaces en temps real",
+  "IPS_REAL_TIME_THREATS_VIEW_TRAFFIC_LOG_BUTTON": "Veure el registre del tràfic",
+
+  "IPS_TRAFFIC_LOG_SEVERITY_HEADER": "Perillositat",
+  "IPS_TRAFFIC_LOG_SOURCE_HEADER": "Origen",
+  "IPS_TRAFFIC_LOG_COUNTRY_HEADER": "País",
+  "IPS_TRAFFIC_LOG_DESTINATION_HEADER": "Destí",
+  "IPS_TRAFFIC_LOG_DESTINATION_COUNTRY_HEADER": "País de destí",
+  "IPS_TRAFFIC_LOG_GROUP_HEADER": "Categoria",
+  "IPS_TRAFFIC_LOG_LAST_RECORDED_HEADER": "Última amenaça registrada",
+  "IPS_TRAFFIC_LOG_TYPE_HEADER": "Tipus",
+
+  "IPS_TRAFFIC_LOG_NO_RESULTS_HEADER": "No s'ha trobat cap amenaça",
+  "IPS_TRAFFIC_LOG_NO_RESULTS_DETAIL": "Quan es detecti una amenaça en la xarxa automàticament es mostrarà en aquesta llista.",
+
+  "IPS_THREAT_DETAIL_HEADER": "Informació de l'amenaça",
+  "IPS_THREAT_DETAIL_LABEL_GROUP": "Categoria",
+  "IPS_THREAT_DETAIL_LABEL_TYPE": "Tipus",
+  "IPS_THREAT_DETAIL_LABEL_SEVERITY": "Perillositat",
+  "IPS_THREAT_DETAIL_LABEL_THREAT_DATE_TIME": "Data/Hora de l'amenaça",
+  "IPS_THREAT_DETAIL_LABEL_TRAFFIC_DETAIL": "Informació del tràfic",
+  "IPS_THREAT_DETAIL_LABEL_TIME_SINCE_ATTACK": "Temps des de l'atac",
+  "IPS_THREAT_DETAIL_LABEL_SOURCE": "Origen",
+  "IPS_THREAT_DETAIL_LABEL_SOURCE_ASN": "Origen ASN",
+  "IPS_THREAT_DETAIL_LABEL_COUNTRY": "País",
+  "IPS_THREAT_DETAIL_LABEL_DESTINATION": "Destí",
+  "IPS_THREAT_DETAIL_LABEL_INTERFACE": "Interfície",
+  "IPS_THREAT_DETAIL_LABEL_PROTOCOL": "Protocol",
+  "IPS_THREAT_DETAIL_LABEL_CLIENT": "Client",
+
+  "IPS_THREAT_DETAIL_BUTTON_SUPPRESS_SIGNATURE": "Eliminar la signatura",
+  "IPS_THREAT_DETAIL_BUTTON_BLOCK_TRAFFIC": "Bloquejar",
+  "IPS_THREAT_DETAIL_BUTTON_BLACKLIST": "Enviar la IP a la llista negra",
+  "IPS_THREAT_DETAIL_BUTTON_WHITELIST": "Enviar la IP a la llista blanca",
+  "IPS_THREAT_DETAIL_SUCCESS_BLACKLIST_ATTACKER_IP": "La IP {ipAddress} s'ha bloquejat.",
+  "IPS_THREAT_DETAIL_ERROR_BLACKLIST_ATTACKER_IP": "S'ha produït un error mentre es bloquejava l'adreça IP {ipAddress}.",
+  "IPS_THREAT_DETAIL_SUCCESS_BLOCK_TRAFFIC": "S'ha bloquejat el tràfic des de {srcIp} a {dstIp}.",
+  "IPS_THREAT_DETAIL_ERROR_BLOCK_TRAFFIC": "S'ha produït un error mentre es bloquejava el tràfic des de {srcIp} a {dstIp}.",
+
+  "IPS_TOP_GEO_LIST_HEADER_TITLE": "Principals amenaces per ubicació",
+  "IPS_TOP_GEO_LIST_HEADER_ATTEMPTS": "Intents",
+  "IPS_TOP_GEO_LIST_HEADER_SEVERITY": "Perillositat",
+  "IPS_TOP_GEO_LIST_HEADER_SOURCE": "Origen",
+  "IPS_TOP_GEO_LIST_NO_THREATS": "No s'ha trobat cap amenaça",
+
+  "IPS_TOP_TYPE_LIST_HEADER_TITLE": "Principals amenaces per tipus",
+  "IPS_TOP_TYPE_LIST_HEADER_ATTEMPTS": "Intents",
+  "IPS_TOP_TYPE_LIST_HEADER_SEVERITY": "Perillositat",
+  "IPS_TOP_TYPE_LIST_NO_THREATS": "No s'ha trobat cap amenaça",
+
+  "IPS_TOP_SEVERITY_HEADER": "Principals amenaces per perillositat",
+
+  "IPS_COUNTRY_FLAG_ATTACK_ATTEMPTS": "{count, plural, one {1 intent} other {# intents}}",
+
+  "IPS_ALERTS_GRAPH_DATE_LABEL": "Data",
+  "IPS_ALERTS_GRAPH_TIME_LABEL": "Hora",
+  "IPS_ALERTS_GRAPH_SEVERITY_LABEL": "Perillositat",
+  "IPS_ALERTS_GRAPH_THREATS_LABEL": "Amenaces",
+  "IPS_ALERTS_GRAPH_VIEW_DETAILS": "Mostrar els detalls",
+
+  "IPS_NAV_TRAFFIC_LOG_HEADER": "Registre del tràfic",
+  "IPS_NAV_OVERVIEW_HEADER": "Resum",
+
+  "IPS_FILTER_PANEL_HEADER_FILTER": "Filtrar ({{count}})",
+
+  "IPS_FILTER_PANEL_LABEL_GROUP": "Categoria",
+  "IPS_FILTER_PANEL_LABEL_TYPE": "Tipus",
+  "IPS_FILTER_PANEL_LABEL_COUNTRY": "País",
+  "IPS_FILTER_PANEL_LABEL_IP_ADDRESS": "Adreça IP",
+  "IPS_FILTER_PANEL_LABEL_SEVERITY": "Perillositat",
+  "IPS_FILTER_PANEL_PLACEHOLDER_ALL": "Tots",
+
+  "IPS_TABLE_PAGINATION_ITEM": "{count, plural, one {amenaça} other {amenaces}}"
+}

@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Photo",
+  "CLIENT_TABLE_HEADER_ICON": "Icona",
+  "CLIENT_TABLE_HEADER_NAME": "Nome",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Nome host",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "Indirizzo MAC",
+  "CLIENT_TABLE_HEADER_IP": "Indirizzo IP",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "Identità 802.1X",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "VLAN 802.1X",
+  "CLIENT_TABLE_HEADER_STATUS": "Stato",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Gruppo utenti",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Connessione",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Rete",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Porta",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Port",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Canale",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi Connection",
+  "CLIENT_TABLE_HEADER_FT": "Fast Roaming",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Segnale",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "LAN Traffic Down",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "LAN Traffic Up",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Attività Down",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Attività Up",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Velocità Tx",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Rateo RX",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Attività",
+  "CLIENT_TABLE_HEADER_UPTIME": "Attivo da",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Product",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Manufacturer",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Tipo Dispositivo",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Device OS",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Experience",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "WiFi Experience",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Wired Experience",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Azioni",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Fast BSS Transition",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Client network activity over the last 5 minutes",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {client} other {clients}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Nessun client trovato",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "Quando un client sarà rilevato sul tuo network verrà automaticamente mostrato su questa lista.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Nessun client corrisponde a questo criterio di ricerca.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Attivo",
+  "CLIENT_ACTIVE_FILTER_ALL": "All",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Attivo",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Connessione",
+  "CLIENT_WIRED_FILTER_ALL": "Tutti",
+  "CLIENT_WIRED_FILTER_FALSE": "Wireless",
+  "CLIENT_WIRED_FILTER_TRUE": "Cablato",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Tipo di client",
+  "CLIENT_GUEST_FILTER_ALL": "Tutti",
+  "CLIENT_GUEST_FILTER_FALSE": "Utenti",
+  "CLIENT_GUEST_FILTER_TRUE": "Ospiti",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Radio type",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Tutti",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Rete",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Autorizzato",
+  "CLIENT_TABLE_STATUS_PENDING": "In attesa",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Tutti i client configurati",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Aggiungi Client.",
+
+  "CLIENT_ADD_TITLE": "Aggiungi client",
+  "CLIENT_ADD_EDIT_TITLE": "Modifica client",
+  "CLIENT_ADD_LIST_TITLE": "Clients with pending changes",
+
+  "CLIENT_ADD_LABEL_MAC": "Indirizzo MAC",
+  "CLIENT_ADD_LABEL_ALIAS": "Alias",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Gruppo utenti",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Indirizzo statico",
+  "CLIENT_ADD_LABEL_NETWORK": "Rete",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "Indirizzo IP",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "Questo IP Address è stato già aggiunto.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "Questo MAC Address è stato già aggiunto.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Questo MAC Address è già in uso.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Cannot add multicast MAC Address.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Cannot add broadcast MAC Address.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Aggiungi Client.",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "Indirizzo MAC",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Alias",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Gruppo utenti",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Rete",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "Indirizzo IP",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Discard 1 client} other {Discard # clients}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Are you sure you want to discard 1 client already added to the list?} other {Are you sure you want to discard # clients already added to the list?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Predefinito",
+  "CLIENT_COLUMNS_PRESET_ALL": "Tutte le colonne"
+}

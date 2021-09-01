@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Šibek signal",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Vašo napravo pomaknite bližje k napravi UAP",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Nizka stopnja PHY",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Vašo napravo pomaknite bližje k napravi UAP",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "Visoka izguba paketov TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Prosimo prevrite vaš usmerjevlanik, ISP povezavo ali spletno storitev, ki jo uporablja odjemalec oz. klient",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Visoka zakasnitev TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Please verify your internet connection",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Visoka zakasnitev TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Please use a router that has traffic shaping enabled, such as Smart Queues on UDM or USG",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Visoka zakasnitev TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Please enable Smart Queues at your WAN interface in Settings",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "Visoki WiFi narast",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Razmislite o prehodu na drug kanal",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Visoka zakasnitev WiFi povezave",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Razmislite o prehodu na drug kanal",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "DHCP premori",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Preverite, ali je vaš strežnik DHCP dostopen in pravilno konfiguriran",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "ARP premor",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Preverite, ali imate dostop do prehoda iz te naprave",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "DNS premor",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Preverite, ali je vaš DNS strežnik dostopen in pravilno konfiguriran",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "Visoka zakasnitev DNS",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Preverite, ali je vaš DNS strežnik dostopen in pravilno konfiguriran"
+}

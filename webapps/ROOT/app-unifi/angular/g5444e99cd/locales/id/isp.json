@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "Throughput",
+  "ISP_MODAL_1_HOUR": "1 Hour",
+  "ISP_MODAL_24_HOURS": "24 Hours",
+  "ISP_MODAL_7_DAYS": "7 Days",
+  "ISP_MODAL_30_DAYS": "30 Days",
+
+  "ISP_MODAL_SUMMARY_HEADER": "Summary",
+  "ISP_MODAL_THROUGHPUT_HEADER": "Upload/Download History",
+  "ISP_MODAL_LATENCY_HEADER": "Latency History",
+
+  "ISP_MODAL_UPLOAD_LABEL": "Meng-upload",
+  "ISP_MODAL_DOWNLOAD_LABEL": "download",
+  "ISP_MODAL_LATENCY_LABEL": "Latensi",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "Network Summary",
+  "ISP_MODAL_TOP_PROCESS": "Top Processes",
+  "ISP_MODAL_DOWN": "turun",
+  "ISP_MODAL_UP": "naik"
+}

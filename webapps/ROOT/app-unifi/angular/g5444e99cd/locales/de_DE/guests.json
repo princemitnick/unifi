@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Paket",
+  "GUEST_TABLE_HEADER_AMOUNT": "Anzahl",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Berechtigt von",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Download",
+  "GUEST_TABLE_HEADER_UPLOAD": "Upload",
+  "GUEST_TABLE_HEADER_STATUS": "Status",
+  "GUEST_TABLE_HEADER_ACTIONS": "Aktionen",
+  "GUEST_TABLE_HEADER_NAME": "Name",
+  "GUEST_TABLE_HEADER_NOTE": "Anmerkung",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "RADIUS Session ID",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "RADIUS Benutzername",
+  "GUEST_TABLE_HEADER_START": "Startzeit",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Keine Gäste gefunden.",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Es entsprechen keine Gäste den angegebenen Suchkriterien.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "Es sind keine Gäste verbunden.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Trennen",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Gast wurde getrennt",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Beim Trennen eines Gastes ist ein Fehler aufgetreten.",
+  "GUEST_ACTIONS_EXTEND": "Verlängern",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Zugang wurde verlängert",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Beim Verlängern des Zugangs ist ein Fehler aufgetreten.",
+
+  "GUEST_STATUS_EXPIRED": "Abgelaufen am {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Berechtigt, verwaltet über Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Gültig bis {{date}}"
+}

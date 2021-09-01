@@ -1,0 +1,14 @@
+{
+  "DPI_APPS_TABLE_HEADER_NAME": "App naam",
+  "DPI_APPS_TABLE_HEADER_USER_COUNT": "Actieve gebruikers",
+  "DPI_APPS_TABLE_HEADER_UP": "Uitgaand",
+  "DPI_APPS_TABLE_HEADER_DOWN": "Inkomend",
+
+  "DPI_APPS_TABLE_UNKNOWN_APP": "Onbekend",
+
+  "DPI_APPS_TABLE_EMPTY_HEADER": "Geen DPI data",
+  "DPI_APPS_TABLE_EMPTY_NO_DATA": "Geen DPI data voor de geselecteerde categorieën.",
+
+  "DPI_OVERVIEW_GRID_EMPTY_HEADER": "Geen  categorieën geselecteerd",
+  "DPI_OVERVIEW_GRID_EMPTY_NO_DATA": "Geen DPI  categorieën zijn geselecteerd."
+}

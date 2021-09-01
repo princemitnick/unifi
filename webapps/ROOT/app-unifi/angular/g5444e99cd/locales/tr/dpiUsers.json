@@ -1,0 +1,11 @@
+{
+  "CLIENT_PROPERTIES_LABEL_UP_PKTS_BYTES": "Gön. paket/bayt",
+  "CLIENT_PROPERTIES_LABEL_DOWN_PKTS_BYTES": "ind. Paket/bayt",
+  "DPI_USERS_TABLE_HEADER_NAME": "İstemci adı",
+  "DPI_USERS_TABLE_HEADER_CATEGORIES": "Kategoriler",
+  "DPI_USERS_TABLE_HEADER_UP": "Gön.",
+  "DPI_USERS_TABLE_HEADER_DOWN": "İnd.",
+
+  "DPI_USERS_TABLE_EMPTY_HEADER": "DPA verisi yok",
+  "DPI_USERS_TABLE_EMPTY_NO_DATA": "Seçilen kategoriye ait DPA verisi yok."
+}

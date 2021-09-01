@@ -1,0 +1,52 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "Возврат",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Возврат платежа",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Вы уверены, что хотите вернуть платёж?",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "Платеж был возвращен",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "Ошибка при возврате платежа.",
+
+  "PAYMENT_ACTIONS_REMOVE": "Удалить",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_TITLE": "Удалить платеж",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_MESSAGE": "Вы действительно хотите удалить платеж?",
+  "PAYMENT_ACTIONS_REMOVE_SUCCESS": "Платеж был удален",
+  "PAYMENT_ACTIONS_REMOVE_ERROR": "Произошла ошибка при удалении платежа.",
+
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA": "Удалить Персональные Данные",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_TITLE": "Удалить Персональные данные",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_MESSAGE": "Вы действительно хотите удалить персональные данные из этого платежа?",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_SUCCESS": "Персональные данные были удалены из платежа.",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_ERROR": "Произошла ошибка при удалении персональных данных.",
+
+  "PAYMENT_STATUS_AUTHORIZED": "Авторизован",
+  "PAYMENT_STATUS_PAID": "Оплачено",
+  "PAYMENT_STATUS_VOID": "Аннулирован/Возвращен",
+
+  "PAYMENT_GATEWAY_AUTHORIZE": "Authorize.net",
+  "PAYMENT_GATEWAY_FACEBOOK": "Facebook",
+  "PAYMENT_GATEWAY_FREE": "Бесплатный пробный период",
+  "PAYMENT_GATEWAY_GOOGLE": "Google",
+  "PAYMENT_GATEWAY_IPPAY": "IPpay",
+  "PAYMENT_GATEWAY_MERCHANTWARRIOR": "Merchant Warrior",
+  "PAYMENT_GATEWAY_PAYPAL": "PayPal",
+  "PAYMENT_GATEWAY_QUICKPAY": "Quickpay",
+  "PAYMENT_GATEWAY_STRIPE": "Stripe",
+
+  "PAYMENT_FILTER_TRANSACTION_TYPE": "Тип транзакции",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_ALL": "Все",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_PAYMENTS": "Платежи",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_SOCIAL": "Соц. сеть",
+
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Сумма",
+  "PAYMENT_TABLE_HEADER_EMAIL": "Адрес эл. почты",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Дополнительная информация",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "Имя",
+  "PAYMENT_TABLE_HEADER_GATEWAY": "Шлюз",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Фамилия",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Пакет",
+  "PAYMENT_TABLE_HEADER_STATUS": "Статус",
+  "PAYMENT_TABLE_HEADER_TIME": "Время",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "Транзакции отсутствуют",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "Нет транзакций, соответствующих заданному условию.",
+  "PAYMENT_TABLE_EMPTY_NO_TRANSACTIONS": "Не было выполнено никаких транзакций."
+}

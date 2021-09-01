@@ -1,0 +1,13 @@
+{
+  "INSIGHTS_NAV_DYNAMIC_DNS": "Dynamisk DNS",
+  "INSIGHTS_NAV_CLIENT_HISTORY": "Klienthistorik",
+  "INSIGHTS_NAV_NEIGHBORING_ACCESS_POINTS": "Access points i nærområdet",
+  "INSIGHTS_NAV_PAST_CONNECTIONS": "Tidligere forbindelser",
+  "INSIGHTS_NAV_PAST_GUEST_AUTHORIZATIONS": "Tidligere Gæste tilladelser",
+  "INSIGHTS_NAV_PORT_FORWARD_STATS": "Port Videresendelse Statistik",
+  "INSIGHTS_NAV_STREAMS": "AC-EDU Streams",
+  "INSIGHTS_NAV_SWITCH_STATS": "Switch Statistik",
+  "INSIGHTS_NAV_REMOTE_USER_VPN": "Fjernbruger VPN",
+  "INSIGHTS_NAV_STATIC_ROUTING": "Statisk Routing",
+  "INSIGHTS_NAV_LOGS": "Controller Logs"
+}

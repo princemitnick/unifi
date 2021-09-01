@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "Statistiques WiFi",
+  "DASHBOARD_NAMES_UNDEFINED": "Tableau de bord",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Ajouter un widget",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Ajoutée",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "Aucun module n’est disponible pour le moment.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Modifier le tableau de bord",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Fermer",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Tableau de bord",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Description",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Actions",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Aucun tableau de bord n’a été trouvé.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Open",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Editer",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Supprimer",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "S’abonner",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Se désabonner",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Partager",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Ne plus partager",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Exporter",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Ajouter un tableau de bord personnalisé",
+  "DASHBOARD_FORM_TITLE_EDIT": "Modifier les informations du tableau de bord",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Nom de fichier: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Nom de fichier: <em>Invalide ou manquant</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Nom du tableau de bord",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Description",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Ou importer un fichier de tableau de bord",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Réinitialiser les envois",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Glisser-déposer ou",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Parcourir les fichiers",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Une erreur est survenue lors de la création du tableau de bord",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Fichier de tableau de bord non valide. Seuls les fichiers exportés depuis un contrôleur UniFi peuvent être importés ici.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Fichier d’import manquant.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "Le tableau de bord importé n’a aucun widget.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Ce tableau de bord a été créé dans la version {{dashboardControllerVersion}} du contrôleur Unifi. La version de ce contrôleur est {{currentControllerVersion}}. Veuillez mettre à jour vers une version plus récente du contrôleur afin de pouvoir utiliser tous les widgets sur ce tableau de bord.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "Une erreur est survenue lors de la sauvegarde du tableau de bord {{name}}.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Impossible d’enregistrer le tableau de bord {{name}}. Il est en lecture seule.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "Une erreur est survenue lors de la suppression du tableau de bord {{name}}.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Modifier les widgets",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Modifier le tableau de bord",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Ajouter un tableau de bord personnalisé",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Terminé ",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Personnaliser le tableau de bord"
+}

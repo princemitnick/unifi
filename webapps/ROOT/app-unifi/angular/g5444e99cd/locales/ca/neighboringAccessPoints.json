@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BW [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Canal",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Nom/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Vist per últim cop",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Ubicació",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Fabricant",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Il·legal",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Seguretat",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Senyal",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "No s'ha trobat cap punt d'accés proper",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Encara no s'han descobert punts d'accés.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "No s'ha trobat cap punt d'accés amb aquest criteri de cerca.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Aquest AP està transmetent el mateix SSID que algun dels teus AP.  Aquest fet pot suposar un intent d'atac cap a la teva xarxa o als teus usuaris, intentant que els clients es connectin a la seva xarxa en comptes de la teva. Hauries d'investigar aquesta situació.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "A prop de {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Més proper de {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Tots",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Marca com a conegut",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Desmarca com a conegut",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Marca el punt d'accés com a conegut",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Estàs segur que vols marcar el punt d'accés \"{{essid}}\" com a conegut ?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "El punt d'accés \"{{essid}}\" s'ha marcat com a conegut.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "S'ha produït un error mentre es marcava el punt d'accés \"{{essid}}\" com a conegut.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "El punt d'accés \"{{essid}}\" s'ha eliminat de la llista de punts d'accés coneguts.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "S'ha produït un error mentre s'eliminava el punt d'accés \"{{essid}}\" de la llista de punts d'accés coneguts."
+}

@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Nom",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Contrasenya",
+  "OPERATOR_TABLE_HEADER_NOTES": "Anotacions",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "No s'ha trobat cap gestor",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "No s'ha trobat cap gestor amb aquest criteri de cerca.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "No s'ha creat cap gestor.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Crea un nou gestor",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "S'ha creat un nou gestor.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "S'ha produït un error mentre es creava un gestor.",
+  "OPERATOR_ACTIONS_DELETE": "Eliminar",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Eliminar el gestor {{name}}",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Estàs segur que vols eliminar el gestor {{name}} ?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "El gestor {{name}} s'ha eliminat correctament.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "S'ha produït un error mentre s'eliminava el gestor {{name}}.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Obrir inici de sessió del gestor",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Nom del compte",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Contrasenya",
+  "OPERATOR_CREATE_LABEL_NOTES": "Anotacions",
+  "OPERATOR_CREATE_MODAL_TITLE": "Crear un nou gestor"
+}

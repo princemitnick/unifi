@@ -1,0 +1,19 @@
+{
+  "DASHBOARD_FILTER_DEFINITIONS_DEVICES_UAP": "Erişim Noktasına Göre Filtrele",
+
+  "DASHBOARD_FILTER_DEVICES_TITLE_LABEL": "Filtre:",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE": "{count, plural, one {# Cihaz} other {# Cihaz}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_TOP": "En aktif {count, plural, one{# Cihaz} other{# Cihaz}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_ALL": "Tüm Cihazlar",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE": "{count, plural, one {# Erşim Noktası} other {# Erişim Noktası}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_TOP": "En aktif {count, plural, one{# Erişim Noktası} other{# Erişim Noktası}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_ALL": "Tüm Erişim Noktaları",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE": "{count, plural, one {# Switch} other {# Switch}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_TOP": "En aktif {count, plural, one{# Switch} other{# Switch}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_ALL": "Tüm Switch'ler",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_SELECT_ALL": "Tüm Cihazlar",
+  "DASHBOARD_FILTER_DEVICES_UAP_SELECT_ALL": "Tüm Erişim Noktaları",
+  "DASHBOARD_FILTER_DEVICES_USW_SELECT_ALL": "Tüm Switch'ler"
+}

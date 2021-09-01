@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Διακοπή ροής",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "Η ροή {{streamId}} έχει τερματιστεί",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Παρουσιάστηκε σφάλμα κατά τον τερματισμό της ροής {{streamId}}.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Ροή",
+  "STREAMS_FILTER_ALL_STREAMS": "Όλα",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Δεν βρέθηκαν ροές",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Δεν βρέθηκαν ροές με αυτά τα κριτήρια αναζήτησης.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Δεν βρέθηκαν ροές ακόμα.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Συνδέθηκε",
+  "STREAMS_TABLE_HEADER_DEVICE": "Συσκευή",
+  "STREAMS_TABLE_HEADER_READY": "Ετοίμο",
+  "STREAMS_TABLE_HEADER_STREAMING": "Ροή",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Ροή",
+
+  "STREAMS_VIEW_ALL": "Όλα"
+}

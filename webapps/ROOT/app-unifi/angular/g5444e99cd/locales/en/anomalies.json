@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Weak signal",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Please move your device closer to the nearest UAP",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Low PHY Rate",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Please move your device closer to the nearest UAP",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "High TCP Packet Loss",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Please check your router, ISP connection, or web service that the client is using",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "High TCP Latency",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Please verify your internet connection",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "High TCP Latency",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Please use a router that has traffic shaping enabled, such as Smart Queues on UDM or USG",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "High TCP Latency",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Please enable Smart Queues at your WAN interface in Settings",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "High WiFi retries",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Please consider moving to another channel",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "High WiFi latency",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Please consider moving to another channel",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "DHCP Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Please check that your DHCP server is accessible and properly configured",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "ARP Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Please check that your gateway is accessible from this device",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "DNS Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Please check that your DNS server is accessible and properly configured",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "High DNS Latency",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Please check that your DNS server is accessible and properly configured"
+}

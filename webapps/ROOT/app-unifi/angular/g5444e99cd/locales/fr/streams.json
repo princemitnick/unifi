@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Interrompre la diffusion",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "La diffusion {{streamId}} a été interrompue.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Erreur lors de l’interruption de la diffusion {{streamId}}.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Diffusion",
+  "STREAMS_FILTER_ALL_STREAMS": "Tout",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Aucun flux trouvé",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Aucun flux ne correspond à ce critère de recherche.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Aucun flux n’a encore été trouvé.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Connecté",
+  "STREAMS_TABLE_HEADER_DEVICE": "Équipement",
+  "STREAMS_TABLE_HEADER_READY": "Prêt",
+  "STREAMS_TABLE_HEADER_STREAMING": "Diffusion",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Diffusion",
+
+  "STREAMS_VIEW_ALL": "Tout"
+}

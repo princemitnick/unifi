@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Fotografia",
+  "CLIENT_TABLE_HEADER_ICON": "Icona",
+  "CLIENT_TABLE_HEADER_NAME": "Nom",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Amfitrió",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "Adreça MAC",
+  "CLIENT_TABLE_HEADER_IP": "Adreça IP",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "Identitat 802.1X",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "VLAN 802.1X",
+  "CLIENT_TABLE_HEADER_STATUS": "Estat",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Grup d'usuaris",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Connexió",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Xarxa",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Port",
+  "CLIENT_TABLE_HEADER_AP": "Punt d'accés",
+  "CLIENT_TABLE_HEADER_PORT": "Port",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Canal",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "Connexió WiFi",
+  "CLIENT_TABLE_HEADER_FT": "Itinerància ràpida",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Senyal",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "Tràfic de baixada de LAN",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "Tràfic de pujada de LAN",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Activitat de baixada",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Activitat de pujada",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Velocitat Tx",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Velocitat Rx",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Activitat",
+  "CLIENT_TABLE_HEADER_UPTIME": "Temps d'activitat",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Producte",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Fabricant",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Tipus de dispositiu",
+  "CLIENT_TABLE_HEADER_OS_NAME": "SO del dispositiu",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Experiència",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "Experiència WiFi",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Experiència per cable",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Accions",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Transició ràpida BSS",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Activitat de xarxa del client en els últims 5 minuts",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {client} other {clients}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "No s'ha trobat cap client",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "Quan es detecti un client a la xarxa automàticament es mostrarà en aquesta llista.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "No s'ha trobat cap client amb aquest criteri de cerca.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Actiu",
+  "CLIENT_ACTIVE_FILTER_ALL": "Tots",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Actius",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Connexió",
+  "CLIENT_WIRED_FILTER_ALL": "Tots",
+  "CLIENT_WIRED_FILTER_FALSE": "Sense fil",
+  "CLIENT_WIRED_FILTER_TRUE": "Cablejats",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Tipus de client",
+  "CLIENT_GUEST_FILTER_ALL": "Tots",
+  "CLIENT_GUEST_FILTER_FALSE": "Usuaris",
+  "CLIENT_GUEST_FILTER_TRUE": "Invitats",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Tipus de ràdio",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Tots",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Xarxa",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "Punt d'accés",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Autoritzat",
+  "CLIENT_TABLE_STATUS_PENDING": "Pendent",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Tots els clients configurats",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Afegir Client",
+
+  "CLIENT_ADD_TITLE": "Afegir client",
+  "CLIENT_ADD_EDIT_TITLE": "Editar el client",
+  "CLIENT_ADD_LIST_TITLE": "Clients amb canvis pendents",
+
+  "CLIENT_ADD_LABEL_MAC": "Adreça MAC",
+  "CLIENT_ADD_LABEL_ALIAS": "Sobrenom",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Grup d'usuaris",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Adreça IP",
+  "CLIENT_ADD_LABEL_NETWORK": "Xarxa",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "Adreça IP",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "Aquesta adreça IP ja s'ha afegit.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "Aquesta adreça MAC ja s'ha afegit.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Aquesta adreça MAC ja s'està utilitzant.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "No es pot afegir l'adreça MAC de multidifusió.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "No es pot afegir l'adreça MAC de difusió.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Afegir Client",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "Adreça MAC",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Sobrenom",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Grup d'usuaris",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Xarxa",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "Adreça IP",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Vols descartar 1 client ?} other {Vols descartar # clients ?}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Estàs segur que vols descartar 1 client que ja ha estat afegit a la llista ?} other {Estàs segur que vols descartar # clients que ja han estat afegits a la llista ?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Per defecte",
+  "CLIENT_COLUMNS_PRESET_ALL": "Totes les columnes"
+}

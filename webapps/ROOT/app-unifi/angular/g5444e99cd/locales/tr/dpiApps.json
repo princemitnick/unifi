@@ -1,0 +1,14 @@
+{
+  "DPI_APPS_TABLE_HEADER_NAME": "Uygulama adı",
+  "DPI_APPS_TABLE_HEADER_USER_COUNT": "# Aktif Kullanıcılar",
+  "DPI_APPS_TABLE_HEADER_UP": "Gön.",
+  "DPI_APPS_TABLE_HEADER_DOWN": "İnd.",
+
+  "DPI_APPS_TABLE_UNKNOWN_APP": "Bilinmiyor",
+
+  "DPI_APPS_TABLE_EMPTY_HEADER": "DPA verisi yok",
+  "DPI_APPS_TABLE_EMPTY_NO_DATA": "Seçilen kategoriye ait DPA verisi yok",
+
+  "DPI_OVERVIEW_GRID_EMPTY_HEADER": "Kategori seçilmemiş",
+  "DPI_OVERVIEW_GRID_EMPTY_NO_DATA": "DPAI kategorisi seçilmemiş."
+}

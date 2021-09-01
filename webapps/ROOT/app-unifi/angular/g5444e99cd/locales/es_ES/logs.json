@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "No hay nuevos mensajes de registro todavía.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Esperando registros del controlador ...",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Descargar registros",
+  "LOGS_MESSAGES_FETCH_MORE": "Obtener más registros",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "El archivo de registro se ha descargado correctamente",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "No hay más registros",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Registros obtenidos"
+}

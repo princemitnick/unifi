@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Nama",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Sandi",
+  "OPERATOR_TABLE_HEADER_NOTES": "Catatan",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Operator tidak ditemukan",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Tidak ada pertandingan operator yang kriteria pencarian.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Operator tidak telah diciptakan.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Membuat operator baru",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "Operator baru telah dibuat.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Ada error membuat operator.",
+  "OPERATOR_ACTIONS_DELETE": "Hapus",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Menghapus operator {{name}}",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Apakah Anda yakin Anda ingin menghapus operator {{name}}?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "Operator {{name}} telah dihapus.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Ada error menghapus operator {{name}}.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Buka operator login",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Account Name",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Sandi",
+  "OPERATOR_CREATE_LABEL_NOTES": "Catatan",
+  "OPERATOR_CREATE_MODAL_TITLE": "Membuat operator baru"
+}

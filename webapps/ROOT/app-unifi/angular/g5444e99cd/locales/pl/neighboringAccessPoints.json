@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "Sz. p. [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Kanał",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Nazwa/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Ostatnio widziany",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Lokalizacja",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Producent",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Obcy",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Zabezpieczenia",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Sygnał",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "Nie odnaleziono żadnych Access Pointów w pobliżu",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Nie odnaleziono jeszcze żadnych Access Pointów.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "Nie odnaleziono żadnych Access Pointów spełniających kryteria wyszukiwania.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Ten Access Point rozgłasza taką samą nazwę SSID jak co najmniej jeden AP należący do Twojej lokacji. Być może jest to atak na Twoją sieć lub użytkowników, próbujący podszyć się pod Twoją sieć w celu połączenia się do tej sieci, zamiast do Twojej. Zachęcamy do przeprowadzenie śledztwa dotyczącego potencjalnego źródła tego zagrożenia.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "W pobliżu {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Najbliżej {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Wszystkie",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Oznacz jako znany",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Usuń ze znanych",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Oznacz Access Point jako znany",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Czy na pewno chcesz oznaczyć access point \"{{essid}}\" jako znany?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "Access Point \"{{essid}}\" został oznaczony jako znany.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "Wystąpił błąd podczas oznaczania AP \"{{essid}}\" jako znany.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "Access Point \"{{essid}}\" został usunięty z listy znanych AP.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "Wystąpił błąd podczas usuwania AP \"{{essid}}\" z listy znanych."
+}

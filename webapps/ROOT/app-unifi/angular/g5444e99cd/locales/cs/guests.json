@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Balíček",
+  "GUEST_TABLE_HEADER_AMOUNT": "Částka",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Autorizován kým",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Stáhnout",
+  "GUEST_TABLE_HEADER_UPLOAD": "Upload",
+  "GUEST_TABLE_HEADER_STATUS": "Stav",
+  "GUEST_TABLE_HEADER_ACTIONS": "Akce",
+  "GUEST_TABLE_HEADER_NAME": "Název",
+  "GUEST_TABLE_HEADER_NOTE": "Poznámka",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "ID relace RADIUS",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "RADIUS uživ. jméno",
+  "GUEST_TABLE_HEADER_START": "Začátek připojení",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Nenalezen žádný host",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Žádné host neodpovídá hledaným kritériím.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "Není připojen žádný host.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Odpojit",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Hosté byli odpojeni.",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Při odpojování hosta došlo k chybě.",
+  "GUEST_ACTIONS_EXTEND": "Prodloužit",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Přístup byl prodloužen",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Pro prodlužování přístupu došlo k chybě.",
+
+  "GUEST_STATUS_EXPIRED": "Platnost vypršela dne {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Autorizován, spravován Facebookem",
+  "GUEST_STATUS_VALID_UNTIL": "Platný do {{date}}"
+}

@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Gestione Hotspot",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Nome Utente",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Password",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Ricordami",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Accedi",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "Accesso SSO",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Password dimenticata?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Estendi scadenza sessione a 7 giorni.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Inserisci il tuo token 2FA",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "Token a 6 cifre",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Accesso cancellato",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Errore di autenticazione",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Errore di accesso",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Nome Utente e/o password errato/i.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Token 2FA invalido",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Errore di reimpostazione password",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Verifica account fallita",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Se possiedi un nome utente ed una password puoi",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "effettuare l'accesso qui.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "Accesso SSO...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Inserisci il tuo indirizzo email per reimpostare la tua password.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Reimposta password",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Precedente",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Una email è stata inviata per reimpostare la tua password.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Si è verificato un errore reimpostando la tua password.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Un solo account per tutte le app ed i servizi Ubiquiti.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Non hai un account?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Registrati qui"
+}

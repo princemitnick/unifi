@@ -1,0 +1,14 @@
+{
+  "DPI_APPS_TABLE_HEADER_NAME": "Nom de l’application",
+  "DPI_APPS_TABLE_HEADER_USER_COUNT": "Utilisateurs actifs",
+  "DPI_APPS_TABLE_HEADER_UP": "Up",
+  "DPI_APPS_TABLE_HEADER_DOWN": "Down",
+
+  "DPI_APPS_TABLE_UNKNOWN_APP": "Inconnu",
+
+  "DPI_APPS_TABLE_EMPTY_HEADER": "Aucune donnée DPI",
+  "DPI_APPS_TABLE_EMPTY_NO_DATA": "Aucune donnée DPI pour les catégories sélectionnées.",
+
+  "DPI_OVERVIEW_GRID_EMPTY_HEADER": "Aucune catégorie sélectionnée",
+  "DPI_OVERVIEW_GRID_EMPTY_NO_DATA": "Aucune catégorie DPI sélectionnée"
+}

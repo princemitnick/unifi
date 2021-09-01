@@ -1,0 +1,11 @@
+{
+  "CLIENT_PROPERTIES_LABEL_UP_PKTS_BYTES": "Up Pkts/Bytes",
+  "CLIENT_PROPERTIES_LABEL_DOWN_PKTS_BYTES": "Down Pkts/Bytes",
+  "DPI_USERS_TABLE_HEADER_NAME": "Ime odjemalca",
+  "DPI_USERS_TABLE_HEADER_CATEGORIES": "Kategorije",
+  "DPI_USERS_TABLE_HEADER_UP": "S povezavo",
+  "DPI_USERS_TABLE_HEADER_DOWN": "Brez povezave",
+
+  "DPI_USERS_TABLE_EMPTY_HEADER": "Brez podatkov DPI",
+  "DPI_USERS_TABLE_EMPTY_NO_DATA": "Za kategorijo ni podatkov o DPI."
+}

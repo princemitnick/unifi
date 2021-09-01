@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Prekinite tok",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "Tok {{streamId}} je bil prekinjen.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Toka {{streamId}} ni bilo mogoče prekiniti.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Pretok",
+  "STREAMS_FILTER_ALL_STREAMS": "Vse",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Ni pretokov",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Za iskalni niz ni rezultatov.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Noben tok ne obstaja.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Povezano",
+  "STREAMS_TABLE_HEADER_DEVICE": "Naprava",
+  "STREAMS_TABLE_HEADER_READY": "Pripravljeno",
+  "STREAMS_TABLE_HEADER_STREAMING": "Oddajanje",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Pretok",
+
+  "STREAMS_VIEW_ALL": "Vse"
+}

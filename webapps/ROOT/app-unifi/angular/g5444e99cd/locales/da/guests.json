@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Pakke",
+  "GUEST_TABLE_HEADER_AMOUNT": "Beløb",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Autoriseret af",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Download",
+  "GUEST_TABLE_HEADER_UPLOAD": "Upload",
+  "GUEST_TABLE_HEADER_STATUS": "Status",
+  "GUEST_TABLE_HEADER_ACTIONS": "Handlinger",
+  "GUEST_TABLE_HEADER_NAME": "Navn",
+  "GUEST_TABLE_HEADER_NOTE": "Notat",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "RADIUS Session ID",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "RADIUS Brugernavn",
+  "GUEST_TABLE_HEADER_START": "Start tid",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Ingen gæster fundet",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Ingen gæster matcher det søgekriterie.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "Ingen gæster har været forbundet",
+
+  "GUEST_ACTIONS_DISCONNECT": "Afbryd",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Gæst er blevet afbrudt",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Der opstod en fejl ved afbrydelse af gæst.",
+  "GUEST_ACTIONS_EXTEND": "Udvid",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Adgang er blevet udvidet",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Der opstod en fejl ved udvidelse af adgang.",
+
+  "GUEST_STATUS_EXPIRED": "Udløbet den {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Autoriseret, styret af Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Gyldig indtil {{date}}"
+}

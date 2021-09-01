@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "Métrica WiFi",
+  "DASHBOARD_NAMES_UNDEFINED": "Painel de instrumentos",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Adicionar ferramenta",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Adicionado",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "Não existem modulos disponiveis nesta altura",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Gerir painéis",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Fechar",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Painel",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Descrição",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Ações",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Não foram encontrados painéis.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Abrir",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Editar",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Apagar",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Assinar",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Cancelar subscrição",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Partilhar",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Cancelar partilha",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Exportar",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Adicionar Painel Personalizado",
+  "DASHBOARD_FORM_TITLE_EDIT": "Editar Informações do Painel",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Nome do ficheiro: <strong>{{filename}} </strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": " Nome do ficheiro: <em>Inválido ou ausente</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Nome do Painel",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Descrição",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Ou importar um ficheiro de painel",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Limpar carregamento",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Arrastar e largar ou",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Procurar Ficheiros",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Ocorreu um erro ao criar o painel.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Ficheiro de painel inválido. Somente os ficheiros exportados de um controlador UniFi podem ser importados aqui.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Falta o ficheiro de importação.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "O painel importado não possui ferramentas.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Este painel foi criado na versão {{dashboardControllerVersion}} do controlador UniFi. Este controlador está a executar {{currentControllerVersion}}. Por favor, atualize para uma versão mais recente do controlador para usar todas as ferramentas neste painel.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "Ocorreu um erro ao guardar o painel {{name}}.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Não é possível guardar o painel {{name}}. É só de leitura.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "Ocorreu um erro ao remover o painel {{name}}.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Editar ferramentas",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Gerir painéis",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Adicionar painel personalizado",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Feito",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Personalize o painel"
+}

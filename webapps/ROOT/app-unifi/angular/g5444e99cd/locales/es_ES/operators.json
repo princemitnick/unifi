@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Nombre",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Contraseña",
+  "OPERATOR_TABLE_HEADER_NOTES": "Anotaciones",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "No se han encontrado gestores",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "No se ha encontrado ningún gestor que coincida con el criterio de búsqueda.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "No se han creado gestores.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Crear un nuevo gestor",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "Se ha creado un nuevo gestor.",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Se ha producido un error al crear el gestor.",
+  "OPERATOR_ACTIONS_DELETE": "Eliminar",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Eliminar el gestor {{name}}",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "¿Está seguro que desea eliminar al gestor {{name}}?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "El gestor {{name}} se ha eliminado correctamente.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Se ha producido un error al eliminar el gestor {{name}}.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Abrir el Inicio de sesión del gestor",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Nombre de la cuenta",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Contraseña",
+  "OPERATOR_CREATE_LABEL_NOTES": "Anotaciones",
+  "OPERATOR_CREATE_MODAL_TITLE": "Crear un nuevo gestor"
+}

@@ -1,0 +1,82 @@
+{
+  "IPS_SECURITY_ALERTS": "Alertas de seguridad",
+  "IPS_THREAT_LEVEL": "Peligrosidad",
+  "IPS_THREAT_LEVEL_LOW": "Baja",
+  "IPS_THREAT_LEVEL_MEDIUM": "Media",
+  "IPS_THREAT_LEVEL_HIGH": "Alta",
+  "IPS_THREAT_LEVEL_UNKNOWN": "Desconocido",
+
+  "IPS_REAL_TIME_THREATS_HEADER": "Amenazas en tiempo real",
+  "IPS_REAL_TIME_THREATS_VIEW_TRAFFIC_LOG_BUTTON": "Ver el registro del tráfico",
+
+  "IPS_TRAFFIC_LOG_SEVERITY_HEADER": "Peligrosidad",
+  "IPS_TRAFFIC_LOG_SOURCE_HEADER": "Origen",
+  "IPS_TRAFFIC_LOG_COUNTRY_HEADER": "País",
+  "IPS_TRAFFIC_LOG_DESTINATION_HEADER": "Destino",
+  "IPS_TRAFFIC_LOG_DESTINATION_COUNTRY_HEADER": "País de destino",
+  "IPS_TRAFFIC_LOG_GROUP_HEADER": "Categoría",
+  "IPS_TRAFFIC_LOG_LAST_RECORDED_HEADER": "Última amenaza registrada",
+  "IPS_TRAFFIC_LOG_TYPE_HEADER": "Tipo",
+
+  "IPS_TRAFFIC_LOG_NO_RESULTS_HEADER": "No se ha encontrado ninguna amenaza",
+  "IPS_TRAFFIC_LOG_NO_RESULTS_DETAIL": "Cuando se detecte una amenaza en su red se mostrará automáticamente en esta lista.",
+
+  "IPS_THREAT_DETAIL_HEADER": "Información de la amenaza",
+  "IPS_THREAT_DETAIL_LABEL_GROUP": "Categoría",
+  "IPS_THREAT_DETAIL_LABEL_TYPE": "Tipo",
+  "IPS_THREAT_DETAIL_LABEL_SEVERITY": "Peligrosidad",
+  "IPS_THREAT_DETAIL_LABEL_THREAT_DATE_TIME": "Fecha/Hora de la amenaza",
+  "IPS_THREAT_DETAIL_LABEL_TRAFFIC_DETAIL": "Información del tráfico",
+  "IPS_THREAT_DETAIL_LABEL_TIME_SINCE_ATTACK": "Tiempo desde la amenaza",
+  "IPS_THREAT_DETAIL_LABEL_SOURCE": "Origen",
+  "IPS_THREAT_DETAIL_LABEL_SOURCE_ASN": "Origen de ASN",
+  "IPS_THREAT_DETAIL_LABEL_COUNTRY": "País",
+  "IPS_THREAT_DETAIL_LABEL_DESTINATION": "Destino",
+  "IPS_THREAT_DETAIL_LABEL_INTERFACE": "Interfaz",
+  "IPS_THREAT_DETAIL_LABEL_PROTOCOL": "Protocolo",
+  "IPS_THREAT_DETAIL_LABEL_CLIENT": "Cliente",
+
+  "IPS_THREAT_DETAIL_BUTTON_SUPPRESS_SIGNATURE": "Eliminación de la firma",
+  "IPS_THREAT_DETAIL_BUTTON_BLOCK_TRAFFIC": "Bloquear",
+  "IPS_THREAT_DETAIL_BUTTON_BLACKLIST": "Bloquear IP",
+  "IPS_THREAT_DETAIL_BUTTON_WHITELIST": "Enviar la IP a la lista blanca",
+  "IPS_THREAT_DETAIL_SUCCESS_BLACKLIST_ATTACKER_IP": "Se ha bloqueado la dirección IP {ipAddress}.",
+  "IPS_THREAT_DETAIL_ERROR_BLACKLIST_ATTACKER_IP": "Se ha producido un error al bloquear la IP {ipAddress}.",
+  "IPS_THREAT_DETAIL_SUCCESS_BLOCK_TRAFFIC": "Se ha bloqueado el tráfico de {srcIp} a {dstIp}.",
+  "IPS_THREAT_DETAIL_ERROR_BLOCK_TRAFFIC": "Se ha producido un error al bloquear el tráfico de {srcIp} a {dstIp}.",
+
+  "IPS_TOP_GEO_LIST_HEADER_TITLE": "Principales amenazas por ubicación",
+  "IPS_TOP_GEO_LIST_HEADER_ATTEMPTS": "Intentos",
+  "IPS_TOP_GEO_LIST_HEADER_SEVERITY": "Peligrosidad",
+  "IPS_TOP_GEO_LIST_HEADER_SOURCE": "Origen",
+  "IPS_TOP_GEO_LIST_NO_THREATS": "No se ha encontrado ninguna amenaza",
+
+  "IPS_TOP_TYPE_LIST_HEADER_TITLE": "Principales amenazas por Tipo",
+  "IPS_TOP_TYPE_LIST_HEADER_ATTEMPTS": "Intentos",
+  "IPS_TOP_TYPE_LIST_HEADER_SEVERITY": "Peligrosidad",
+  "IPS_TOP_TYPE_LIST_NO_THREATS": "No se ha encontrado ninguna amenaza",
+
+  "IPS_TOP_SEVERITY_HEADER": "Principales amenazas por peligrosidad",
+
+  "IPS_COUNTRY_FLAG_ATTACK_ATTEMPTS": "{count, plural, one {1 intento} other {# intentos}}",
+
+  "IPS_ALERTS_GRAPH_DATE_LABEL": "Fecha",
+  "IPS_ALERTS_GRAPH_TIME_LABEL": "Hora",
+  "IPS_ALERTS_GRAPH_SEVERITY_LABEL": "Peligrosidad",
+  "IPS_ALERTS_GRAPH_THREATS_LABEL": "Amenazas",
+  "IPS_ALERTS_GRAPH_VIEW_DETAILS": "Ver Detalles",
+
+  "IPS_NAV_TRAFFIC_LOG_HEADER": "Registro de Tráfico",
+  "IPS_NAV_OVERVIEW_HEADER": "Resumen",
+
+  "IPS_FILTER_PANEL_HEADER_FILTER": "Filtro ({{count}})",
+
+  "IPS_FILTER_PANEL_LABEL_GROUP": "Categoría",
+  "IPS_FILTER_PANEL_LABEL_TYPE": "Tipo",
+  "IPS_FILTER_PANEL_LABEL_COUNTRY": "País",
+  "IPS_FILTER_PANEL_LABEL_IP_ADDRESS": "Dirección IP",
+  "IPS_FILTER_PANEL_LABEL_SEVERITY": "Peligrosidad",
+  "IPS_FILTER_PANEL_PLACEHOLDER_ALL": "Todos",
+
+  "IPS_TABLE_PAGINATION_ITEM": "{count, plural, one {amenaza} other {amenazas}}"
+}

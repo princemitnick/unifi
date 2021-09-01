@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+
+    <display-name>Ubiquiti Networks: Management Console</display-name>
+
+    <servlet>
+        <servlet-name>UniFiResourceServlet</servlet-name>
+        <servlet-class>org.apache.catalina.servlets.DefaultServlet</servlet-class>
+        <init-param>
+            <param-name>precompressed</param-name>
+            <param-value>true</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UniFiResourceServlet</servlet-name>
+        <url-pattern>/app-unifi/*</url-pattern>
+    </servlet-mapping>
+
+    <!-- Device Management Servlets -->
+    <servlet>
+        <servlet-name>InformServlet</servlet-name>
+        <servlet-class>com.ubnt.net.InformServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>InformServlet</servlet-name>
+        <url-pattern>/inform</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ElbServlet</servlet-name>
+        <servlet-class>com.ubnt.net.ElbServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ElbServlet</servlet-name>
+        <url-pattern>/elb</url-pattern>
+    </servlet-mapping>
+
+    <!-- API Servlets -->
+    <servlet>
+        <servlet-name>ApiServlet</servlet-name>
+        <servlet-class>com.ubnt.ace.api.ApiServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ApiServlet</servlet-name>
+        <url-pattern>/api/*</url-pattern>
+    </servlet-mapping>
+
+    <!-- Download Servlet -->
+    <servlet>
+        <servlet-name>DownloadServlet</servlet-name>
+        <servlet-class>com.ubnt.ace.view.DownloadServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DownloadServlet</servlet-name>
+        <url-pattern>/dl/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>DownloadServlet</servlet-name>
+        <url-pattern>/file/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>DownloadServlet</servlet-name>
+        <url-pattern>/diag/*</url-pattern>
+    </servlet-mapping>
+
+    <!-- Upload Servlet -->
+    <servlet>
+        <servlet-name>UploadServlet</servlet-name>
+        <servlet-class>com.ubnt.ace.view.UploadServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UploadServlet</servlet-name>
+        <url-pattern>/upload/*</url-pattern>
+    </servlet-mapping>
+
+    <!-- Stream Servlet -->
+    <servlet>
+        <servlet-name>StreamServlet</servlet-name>
+        <servlet-class>com.ubnt.ace.view.StreamServlet</servlet-class>
+        <async-supported>true</async-supported>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>StreamServlet</servlet-name>
+        <url-pattern>/stream/output/*</url-pattern>
+    </servlet-mapping>
+
+    <!-- handles print requests -->
+    <servlet>
+        <servlet-name>PrintServlet</servlet-name>
+        <servlet-class>com.ubnt.ace.view.PrintServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>PrintServlet</servlet-name>
+        <url-pattern>/print/*</url-pattern>
+    </servlet-mapping>
+
+    <!-- handles the guest portal -->
+    <servlet>
+        <servlet-name>GuestServlet</servlet-name>
+        <servlet-class>com.ubnt.ace.view.GuestServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GuestServlet</servlet-name>
+        <url-pattern>/guest/*</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>UpnpServlet</servlet-name>
+        <servlet-class>com.ubnt.ace.view.UpnpServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UpnpServlet</servlet-name>
+        <url-pattern>/upnp</url-pattern>
+    </servlet-mapping>
+
+    <!--
+        status servlet is used by the Launcher to query the current
+        status of the server during starting up
+    -->
+    <servlet>
+        <servlet-name>ServiceServlet</servlet-name>
+        <servlet-class>com.ubnt.ace.view.ServiceServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServiceServlet</servlet-name>
+        <url-pattern>/status</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ServiceServlet</servlet-name>
+        <url-pattern>/global-info</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ServiceServlet</servlet-name>
+        <url-pattern>/ident</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ServiceServlet</servlet-name>
+        <url-pattern>/services/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ServiceServlet</servlet-name>
+        <url-pattern>/local-sta/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ServiceServlet</servlet-name>
+        <url-pattern>/element_adopt</url-pattern>
+    </servlet-mapping>
+    <!--  UI Servlets -->
+
+    <!--
+        <servlet>
+        <servlet-name>shell</servlet-name>
+        <jsp-file>/shell.html</jsp-file>
+        </servlet>
+    -->
+
+    <!--
+        <servlet-mapping>
+        <servlet-name>shell</servlet-name>
+        <url-pattern>/shell</url-pattern>
+        </servlet-mapping>
+    -->
+
+    <filter>
+        <filter-name>AuthFilter</filter-name>
+        <filter-class>com.ubnt.ace.view.AuthFilter</filter-class>
+        <async-supported>true</async-supported>
+        <!--
+            <init-param>
+            <param-name>skip</param-name>
+            <param-value>false</param-value>
+            </init-param>
+        -->
+    </filter>
+
+    <filter>
+        <filter-name>UbiosHttpsFilter</filter-name>
+        <filter-class>com.ubnt.ace.view.UbiosHttpsFilter</filter-class>
+    </filter>
+
+    <filter>
+        <filter-name>WsEndpointFilter</filter-name>
+        <filter-class>com.ubnt.ace.ws.WsEndpointFilter</filter-class>
+        <async-supported>true</async-supported>
+    </filter>
+
+    <filter>
+        <filter-name>ResourceRewriteFilter</filter-name>
+        <filter-class>org.tuckey.web.filters.urlrewrite.UrlRewriteFilter</filter-class>
+        <async-supported>true</async-supported>
+        <init-param>
+            <param-name>confPath</param-name>
+            <param-value>/WEB-INF/resourcerewrite.xml</param-value>
+        </init-param>
+        <init-param>
+            <param-name>logLevel</param-name>
+            <param-value>WARN</param-value>
+        </init-param>
+    </filter>
+
+    <filter>
+        <filter-name>UrlRewriteFilter</filter-name>
+        <filter-class>org.tuckey.web.filters.urlrewrite.UrlRewriteFilter</filter-class>
+        <async-supported>true</async-supported>
+        <init-param>
+            <param-name>logLevel</param-name>
+            <param-value>WARN</param-value>
+        </init-param>
+    </filter>
+
+    <filter>
+        <filter-name>requestMetricsFilter</filter-name>
+        <filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
+        <async-supported>true</async-supported>
+    </filter>
+
+    <!--
+        UbiosHttpsFilter allows to call only specific endpoints on the https connector with ubios
+    -->
+    <filter-mapping>
+        <filter-name>UbiosHttpsFilter</filter-name>
+        <url-pattern>*</url-pattern>
+    </filter-mapping>
+
+    <filter-mapping>
+        <filter-name>ResourceRewriteFilter</filter-name>
+        <url-pattern>/manage/*</url-pattern>
+        <url-pattern>/setup/*</url-pattern>
+        <dispatcher>REQUEST</dispatcher>
+        <dispatcher>ASYNC</dispatcher>
+    </filter-mapping>
+
+    <!--
+        AuthFilter handles all the requests to the Admin interface ONLY
+    -->
+    <filter-mapping>
+        <filter-name>AuthFilter</filter-name>
+        <url-pattern>/</url-pattern>
+        <url-pattern>/v2/*</url-pattern>
+        <url-pattern>/manage/*</url-pattern>
+        <url-pattern>/logout/*</url-pattern>
+        <url-pattern>/setup/*</url-pattern>
+        <url-pattern>/guest/preview/*</url-pattern>
+        <url-pattern>/api/*</url-pattern>
+        <url-pattern>/wss/*</url-pattern>
+        <url-pattern>/file/*</url-pattern>
+        <url-pattern>/print/*</url-pattern>
+        <url-pattern>/op/*</url-pattern>
+        <url-pattern>/upload/*</url-pattern>
+        <!-- /dl/firmware was intentionally omitted here -->
+        <url-pattern>/dl/cloud-autobackup/*</url-pattern>
+        <url-pattern>/dl/autobackup/*</url-pattern>
+        <url-pattern>/dl/backup/*</url-pattern>
+        <url-pattern>/dl/logfile/*</url-pattern>
+        <url-pattern>/dl/support/*</url-pattern>
+        <url-pattern>/diag/*</url-pattern>
+        <dispatcher>REQUEST</dispatcher>
+        <dispatcher>ASYNC</dispatcher>
+    </filter-mapping>
+
+    <filter-mapping>
+        <filter-name>requestMetricsFilter</filter-name>
+        <url-pattern>/api/*</url-pattern>
+        <url-pattern>/v2/api/*</url-pattern>
+        <dispatcher>REQUEST</dispatcher>
+        <dispatcher>ASYNC</dispatcher>
+    </filter-mapping>
+
+    <filter-mapping>
+        <filter-name>UrlRewriteFilter</filter-name>
+        <url-pattern>/manage/*</url-pattern>
+        <url-pattern>/setup/*</url-pattern>
+        <url-pattern>/verify/*</url-pattern>
+        <url-pattern>/sso_login/*</url-pattern>
+        <url-pattern>/api/ucore/support-dump</url-pattern>
+        <url-pattern>/api/ucore/backup/*</url-pattern>
+        <url-pattern>/api/set/setting/provider_capabilities</url-pattern>
+        <dispatcher>REQUEST</dispatcher>
+        <dispatcher>ASYNC</dispatcher>
+    </filter-mapping>
+
+    <filter-mapping>
+        <filter-name>WsEndpointFilter</filter-name>
+        <url-pattern>/wss/*</url-pattern>
+        <dispatcher>REQUEST</dispatcher>
+        <dispatcher>ASYNC</dispatcher>
+    </filter-mapping>
+
+    <session-config>
+        <session-timeout>60</session-timeout>
+    </session-config>
+</web-app>

@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "スループット",
+  "ISP_MODAL_1_HOUR": "1時間",
+  "ISP_MODAL_24_HOURS": "24時間",
+  "ISP_MODAL_7_DAYS": "7日",
+  "ISP_MODAL_30_DAYS": "30日",
+
+  "ISP_MODAL_SUMMARY_HEADER": "概要",
+  "ISP_MODAL_THROUGHPUT_HEADER": "アップロード/ダウンロード履歴",
+  "ISP_MODAL_LATENCY_HEADER": "レイテンシ履歴",
+
+  "ISP_MODAL_UPLOAD_LABEL": "アップロード",
+  "ISP_MODAL_DOWNLOAD_LABEL": "ダウンロード",
+  "ISP_MODAL_LATENCY_LABEL": "レイテンシ",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "ネットワーク概要",
+  "ISP_MODAL_TOP_PROCESS": "トッププロセス",
+  "ISP_MODAL_DOWN": "ダウン",
+  "ISP_MODAL_UP": "アップ"
+}

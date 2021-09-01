@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BW [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Kanaal",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Naam/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Laatst gezien",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Locatie",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Fabrikant",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Rogue",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Beveiliging",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Signaal",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "Geen naburige access points gevonden",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Er zijn dusver geen acces points gevonden",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "Er voldoen geen acces points aan uw zoekcriteria.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "dit AP zendt dezelfde SSID uit als een AP(s) in your site. Dit kan een aanval zijn op uw netwerk of gebruikers, door een aanvaller die uw SSID probeert na te bootsen en ervoor zorgt dat uw gebruikers een verbinding opzetten naar zijn netwerk in plaats van het uwe. Het onderzoeken van de oorzaak wordt aangeraden.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "Naast {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "dichtstbijzijnd {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Alle",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Markeer als bekend",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Verwijder uit de lijst van bekenden",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Markeer de access points als bekend",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Bent u zeker dat u het access point \"{{essid}}\" al bekend wil markeren?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "Het AP \"{{essid}}\" is gemarkeerd als bekend.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "Er heeft zich een probleem voorgedaan met het markeren van het AP \"{{essid}}\" als bekend.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "Het AP \"{{essid}}\" is verwijderd uit de lijst van bekenden.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "Er was een probleem met het verwijderen van de AP \"{{essid}}\" uit de lijst."
+}

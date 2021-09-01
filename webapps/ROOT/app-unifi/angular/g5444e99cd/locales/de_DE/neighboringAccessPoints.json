@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BW [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Kanal",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Name/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Zuletzt gesehen",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Standort",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Hersteller",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Rogue",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Sicherheit",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Signal",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "Es wurden keine benachbarten Access Points gefunden.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Es wurden bisher keine Access Points erkannt",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "Keine Access Points entsprechen den angegebenen Suchkriterien.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Dieser AP überträgt die gleiche SSID wie die APs in Ihrer Site. Dieses könnte einen Angriff auf Ihr Netzwerk oder Ihre Benutzer darstellen, bei dem ein Angreifer durch das Nachahmen Ihrer SSID versucht, Benutzer auf seine eigenen APs umzulenken. Eine Suche nach dem Ursprung dieser potentiellen Gefahr wird dringend empfohlen.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "Nahe AP {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Nächster AP {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Alle",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5 GHz",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2.4 GHz",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Markiert als bekannt",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Entferne von der Bekannt-Liste",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Markiert Access Points als bekannt",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Sind Sie sicher, dass Sie den Access Point \"{{essid}}\" als bekannt markieren möchten?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "Der Access Point \"{{essid}}\" wurde markiert als bekannt.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "Beim Markieren des Access Points \"{{essid}}\" als bekannt ist ein Fehler aufgetreten.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "Der Access Point \"{{essid}}\" wurde von der Bekannt-Liste entfernt.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "Beim Entfernen des Access Points \"{{essid}}\" von der Bekannt-Liste ist ein Fehler aufgetreten."
+}

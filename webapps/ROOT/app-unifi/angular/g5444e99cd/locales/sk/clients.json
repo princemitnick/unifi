@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Photo",
+  "CLIENT_TABLE_HEADER_ICON": "Ikona",
+  "CLIENT_TABLE_HEADER_NAME": "Name",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Názov hostiteľa",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "MAC adresa",
+  "CLIENT_TABLE_HEADER_IP": "IP adresa",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "802.1X Identity",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Stav",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Používateľská skupina",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Pripojenie",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Sieť",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Port",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Port",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Kanál",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi Connection",
+  "CLIENT_TABLE_HEADER_FT": "Fast Roaming",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Signál",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "LAN Traffic Down",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "LAN Traffic Up",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Activity Down",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Activity Up",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Tx rýchlosť",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Rx rýchlosť",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Aktivita",
+  "CLIENT_TABLE_HEADER_UPTIME": "Doba prevádzky",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Product",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Výrobca",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Typ zariadenia",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Device OS",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Experience",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "WiFi Experience",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Wired Experience",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Akcie",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Fast BSS Transition",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "Client network activity over the last 5 minutes",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {client} other {clients}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "No clients found",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "When a client is detected on your network it will automatically show up in this list.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "No clients match that search criteria.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Aktívne",
+  "CLIENT_ACTIVE_FILTER_ALL": "All",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Aktívne",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Pripojenie",
+  "CLIENT_WIRED_FILTER_ALL": "All",
+  "CLIENT_WIRED_FILTER_FALSE": "Bezdrôtové",
+  "CLIENT_WIRED_FILTER_TRUE": "Ethernet",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Typ klienta",
+  "CLIENT_GUEST_FILTER_ALL": "All",
+  "CLIENT_GUEST_FILTER_FALSE": "Používatelia",
+  "CLIENT_GUEST_FILTER_TRUE": "Hostia",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Typ rádia",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "All",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Sieť",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Authorized",
+  "CLIENT_TABLE_STATUS_PENDING": "Čakajúce",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "All configured clients",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Add Client",
+
+  "CLIENT_ADD_TITLE": "Add client",
+  "CLIENT_ADD_EDIT_TITLE": "Edit client",
+  "CLIENT_ADD_LIST_TITLE": "Clients with pending changes",
+
+  "CLIENT_ADD_LABEL_MAC": "MAC adresa",
+  "CLIENT_ADD_LABEL_ALIAS": "Alias",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Používateľská skupina",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Pevná IP",
+  "CLIENT_ADD_LABEL_NETWORK": "Sieť",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "IP adresa",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "This IP Address is already added.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "This MAC Address is already added.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "This MAC Address is already used.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Cannot add multicast MAC Address.",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Cannot add broadcast MAC Address.",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Add Client",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "MAC adresa",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Alias",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Používateľská skupina",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Sieť",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "IP adresa",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Discard 1 client} other {Discard # clients}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Are you sure you want to discard 1 client already added to the list?} other {Are you sure you want to discard # clients already added to the list?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Predvolené",
+  "CLIENT_COLUMNS_PRESET_ALL": "All columns"
+}

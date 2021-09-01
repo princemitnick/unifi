@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "Wi-Fi Målinger",
+  "DASHBOARD_NAMES_UNDEFINED": "Oversigt",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Tilføj widget",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Tilføjet",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "Ingen moduler tilgængelig lige nu.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Administrér oversigter",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Luk",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Oversigt",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Beskrivelse",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Handlinger",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Ingen oversigt fundet.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Åben",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Rediger",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Slet",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Tilmeld",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Frameld",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Del",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Fjern deling",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Eksportér",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Tilføj brugerdefineret oversigt",
+  "DASHBOARD_FORM_TITLE_EDIT": "Redigér informationer for oversigt",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Filnavn: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Filnavn: <em>Ugyldig eller mangler</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Oversigtsnavn",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Beskrivelse",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Eller manglende oversigtsfil",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Nulstil upload",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Træk og slip eller",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Gennemse filer",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Der opstod en fejl ved oprettelse af oversigt.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Ugyldig oversigt fil. Kun filer som er eksporteret fra en UniFi controller kan importeres her.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Mangler import fil.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "Den importerede oversigt har ikke nogen widgets.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Denne oversigt blev oprettet i version {{dashboardControllerVersion}} af UniFi Controlleren. Denne controller kører {{currentControllerVersion}}. Opdatér venligst til en nyere controller version for at bruge alle widgets i denne oversigt.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "Der opstod en fejl ved gem af {{name}} oversigten.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Ikke i stand til at gemme {{name}} oversigten. Den er read-only.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "Der opstod en fejl ved fjernelse af {{name}} oversigten.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Redigér widgets",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Administrér oversigter",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Tilføj brugerdefineret oversigt",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Færdig",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Tilpas oversigt"
+}

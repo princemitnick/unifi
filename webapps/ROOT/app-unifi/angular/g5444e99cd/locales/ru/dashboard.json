@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "Метрики WiFi",
+  "DASHBOARD_NAMES_UNDEFINED": "Информационная панель",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Добавить виджет",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Добавленно",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "Нет модулей, доступных в данное время.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Управление панелью управления",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Закрыть",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Панель управления",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Описание",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Действия",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Не найдено ни оной панели управления",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Open",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Изменить",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Удалить",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Подписаться",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Отписаться",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Поделиться",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Не делиться",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Экспорт",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Добавить пользовательскую панель управления",
+  "DASHBOARD_FORM_TITLE_EDIT": "Изменить информацию панели управления",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Имя Файла: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Имя Файла: <em>неверен или отсутствует</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Название панели управления",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Описание",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Или импортируйте файл панели управления",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Очистить загрузку",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Перетащите или",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Обзор Файлов",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Произошла ошибка при создании панели управления.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Неверный файл панели управления. Разрешен импорт только файлов, экспортированных с контроллера UniFi.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Отсутствует импортируемый файл",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "Импортируемая панель управления не содержит виджетов.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Эта панель управления была создана в версии {{dashboardControllerVersion}}  контроллера UniFi. Этот контроллер использует версию {{currentControllerVersion}}. Пожалуйста обновитесь до более новой версии контроллера для использования всех виджетов панели управления.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "Произошла ошибка при сохранении панели управления {{name}}.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Ошиька при сохранении панели управления {{name}}. Доступ только для чтения.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "Произошла ошибка при удалении панели управления {{name}}.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Редактировать виджеты",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Управление панелью управления",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Добавить пользовательскую панель управления",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Готово",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Изменить панель управления"
+}

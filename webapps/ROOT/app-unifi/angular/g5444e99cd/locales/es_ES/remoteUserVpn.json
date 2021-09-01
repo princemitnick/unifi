@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Interfaz",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "IP Remota",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Usuario",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Paquetes de bajada",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Paquetes de subida",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Bytes de bajada",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Bytes de subida",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Tiempo Activo",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Acciones",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Desconectar",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "No se ha encontrado ninguna sesión",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "En este momento no hay sesiones de Usuario VPN Remoto activas.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "No hay sesiones de Usuario VPN Remoto que coincidan con el criterio de búsqueda.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Por favor confirmelo",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "¿Está seguro que desea finalizar esta conexión de usuario VPN remoto?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Conexión desconectada",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Error durante desconexión"
+}

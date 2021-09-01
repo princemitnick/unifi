@@ -1,0 +1,52 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "Reembors",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Pagament del reembors",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Estàs segur que vols reemborsar el pagament ?",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "El pagament s'ha reemborsat correctament.",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "S'ha produït un error mentre s'intentava reemborsar el pagament",
+
+  "PAYMENT_ACTIONS_REMOVE": "Eliminar",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_TITLE": "Eliminar pagament",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_MESSAGE": "Estàs segur que vols eliminar el pagament ?",
+  "PAYMENT_ACTIONS_REMOVE_SUCCESS": "El pagament s'ha eliminat correctament.",
+  "PAYMENT_ACTIONS_REMOVE_ERROR": "S'ha produït un error mentre s'eliminava el pagament.",
+
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA": "Eliminar les dades personals",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_TITLE": "Eliminar les dades personals",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_MESSAGE": "Estàs segur que vols eliminar les dades personals d'aquest pagament ?",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_SUCCESS": "Les dades personals s'han eliminat del pagament.",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_ERROR": "S'ha produït un error mentre s'eliminaven les dades personals.",
+
+  "PAYMENT_STATUS_AUTHORIZED": "Autoritzat",
+  "PAYMENT_STATUS_PAID": "Pagat",
+  "PAYMENT_STATUS_VOID": "Anul·lat/Reemborsat",
+
+  "PAYMENT_GATEWAY_AUTHORIZE": "Authorize.net",
+  "PAYMENT_GATEWAY_FACEBOOK": "Facebook",
+  "PAYMENT_GATEWAY_FREE": "Prova gratuïta",
+  "PAYMENT_GATEWAY_GOOGLE": "Google",
+  "PAYMENT_GATEWAY_IPPAY": "IPpay",
+  "PAYMENT_GATEWAY_MERCHANTWARRIOR": "Merchant Warrior",
+  "PAYMENT_GATEWAY_PAYPAL": "PayPal",
+  "PAYMENT_GATEWAY_QUICKPAY": "Quickpay",
+  "PAYMENT_GATEWAY_STRIPE": "Stripe",
+
+  "PAYMENT_FILTER_TRANSACTION_TYPE": "Tipus d'operació",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_ALL": "Tots",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_PAYMENTS": "Pagaments",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_SOCIAL": "Social",
+
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Quantitat",
+  "PAYMENT_TABLE_HEADER_EMAIL": "Correu electrònic",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Informació addicional",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "Nom",
+  "PAYMENT_TABLE_HEADER_GATEWAY": "Porta d'enllaç",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Cognom",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Paquet",
+  "PAYMENT_TABLE_HEADER_STATUS": "Estat",
+  "PAYMENT_TABLE_HEADER_TIME": "Hora",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "No s'ha trobat cap operació",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "No s'ha trobat cap operació amb aquest criteri de cerca.",
+  "PAYMENT_TABLE_EMPTY_NO_TRANSACTIONS": "No s'ha processat cap operació"
+}

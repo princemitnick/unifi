@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Interface",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "Remote IP adres",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Gebruiker",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Inkomende pkts",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Uitgaande pkts",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Inkomende bytes",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Uitgaande bytes",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Uptime",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Akties",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Afbreken",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "Geen huidige sessies gevonden",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "Op het moment zijn er geen remote user VPN sessies actief.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "Er zijn geen remote user VPN sessies die aan uw zoekcriteria voldoen.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Bevestig a.u.b.",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Bent u zeker dat u deze remote user VPN verbinding wil afbreken?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Verbinding verbroken",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Probleem met het verbreken van de verbinding"
+}

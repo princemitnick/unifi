@@ -1,0 +1,13 @@
+{
+  "INSIGHTS_NAV_DYNAMIC_DNS": "Dynamic DNS",
+  "INSIGHTS_NAV_CLIENT_HISTORY": "Client History",
+  "INSIGHTS_NAV_NEIGHBORING_ACCESS_POINTS": "Neighboring Access Points",
+  "INSIGHTS_NAV_PAST_CONNECTIONS": "Melewati koneksi",
+  "INSIGHTS_NAV_PAST_GUEST_AUTHORIZATIONS": "Melewati semua otorisasi",
+  "INSIGHTS_NAV_PORT_FORWARD_STATS": "Port Forward Stats",
+  "INSIGHTS_NAV_STREAMS": "AC-EDU Streams",
+  "INSIGHTS_NAV_SWITCH_STATS": "Beralih Statistik",
+  "INSIGHTS_NAV_REMOTE_USER_VPN": "Pengguna remote VPN",
+  "INSIGHTS_NAV_STATIC_ROUTING": "Static Routing",
+  "INSIGHTS_NAV_LOGS": "Controller Logs"
+}

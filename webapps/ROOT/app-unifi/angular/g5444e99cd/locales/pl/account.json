@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Hotspot Manager",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Nazwa użytkownika",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Hasło",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Zapamiętaj mnie",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Zaloguj",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "Logowanie przez SSO",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Nie pamiętasz hasła?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Zapamiętaj sesję na 7 dni.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Podaj swój token 2FA",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "Sześciocyfrowy Token",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Logowanie anulowane",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Błąd autentykacji",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Błąd logowania",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Niepoprawna nazwa użytkownika lub hasło.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Nieprawidłowy Token 2FA",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Błąd przywracania hasła",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Nieudana próba weryfikacji konta",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Jeżeli posiadasz już nazwę użytkownika i hasło możesz",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "zalogować się tutaj.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "Logowanie za pomocą SSO...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Aby zresetować hasło, podaj adres email",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Reset hasła",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Wstecz",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Wysłano email pozwalający odzyskać hasło.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Podczas odzyskiwania hasła wystąpił błąd.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Jedno konto dla wszystkich aplikacji i usług Ubiquiti.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Nie posiadasz konta?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Zarejestruj się tutaj"
+}

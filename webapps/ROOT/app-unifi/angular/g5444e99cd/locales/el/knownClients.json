@@ -1,0 +1,47 @@
+{
+  "KNOWN_CLIENT_TABLE_HEADER_PHOTO": "Photo",
+  "KNOWN_CLIENT_TABLE_HEADER_NAME": "Όνομα",
+  "KNOWN_CLIENT_TABLE_HEADER_MANUFACTURER": "Κατασκευαστής",
+  "KNOWN_CLIENT_TABLE_HEADER_MAC": "Mac",
+  "KNOWN_CLIENT_TABLE_HEADER_FIXED_IP": "Σταθερή IP",
+  "KNOWN_CLIENT_TABLE_HEADER_USER_GUEST": "Χρήστης/Επισκέπτης",
+  "KNOWN_CLIENT_TABLE_HEADER_DOWN": "Κατέβασμα",
+  "KNOWN_CLIENT_TABLE_HEADER_UP": "Ανέβασμα",
+  "KNOWN_CLIENT_TABLE_HEADER_FIRST_SEEN": "Θεάθηκε για πρώτη φορά",
+  "KNOWN_CLIENT_TABLE_HEADER_LAST_SEEN": "Εθεάθη τελευταία",
+  "KNOWN_CLIENT_TABLE_HEADER_DEVICE_ID": "Product",
+  "KNOWN_CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Κατασκευαστής",
+  "KNOWN_CLIENT_TABLE_HEADER_DEVICE_CAT": "Τύπος Συσκευής",
+  "KNOWN_CLIENT_TABLE_HEADER_OS_NAME": "Device OS",
+  "KNOWN_CLIENT_TABLE_HEADER_ACTIONS": "Ενέργειες",
+
+  "KNOWN_CLIENT_COLUMNS_PRESET_DEFAULT": "Προκαθορισμένο",
+  "KNOWN_CLIENT_COLUMNS_PRESET_ALL": "Όλες οι στήλες",
+
+  "KNOWN_CLIENT_TABLE_VALUE_USER_GUEST_GUEST": "Επισκέπτης",
+  "KNOWN_CLIENT_TABLE_VALUE_USER_GUEST_USER": "Χρήστης",
+
+  "KNOWN_CLIENT_TABLE_EMPTY_HEADER": "Δεν βρέθηκαν πελάτες",
+  "KNOWN_CLIENT_TABLE_EMPTY_NO_CLIENTS": "Όταν ένας πελάτης εντοπιστεί στο δίκτυό σας θα εμφανίζονται αυτόματα σε αυτήν τη λίστα.",
+  "KNOWN_CLIENT_TABLE_EMPTY_NO_MATCHES": "Δεν βρέθηκαν πελάτες που να ταιριάζουν με τα κριτήρια αναζήτησης.",
+
+  "KNOWN_CLIENT_FILTER_TITLE_WIRED": "Σύνδεση",
+  "KNOWN_CLIENT_WIRED_FILTER_ALL": "Όλα",
+  "KNOWN_CLIENT_WIRED_FILTER_FALSE": "Ασύρματα",
+  "KNOWN_CLIENT_WIRED_FILTER_TRUE": "Ενσύρματα",
+
+  "KNOWN_CLIENT_FILTER_TITLE_GUEST": "Τύπος πελάτη",
+  "KNOWN_CLIENT_GUEST_FILTER_ALL": "Όλα",
+  "KNOWN_CLIENT_GUEST_FILTER_FALSE": "Χρήστες",
+  "KNOWN_CLIENT_GUEST_FILTER_TRUE": "Επισκέπτες",
+
+  "KNOWN_CLIENT_FILTER_TITLE_CONFIGURATION": "Ρύθμιση",
+  "KNOWN_CLIENT_CONFIGURATION_FILTER_ALL": "Όλα",
+  "KNOWN_CLIENT_CONFIGURATION_FILTER_TRUE": "Ρυθμίστηκε",
+  "KNOWN_CLIENT_CONFIGURATION_FILTER_FALSE": "Προκαθορισμένο",
+
+  "KNOWN_CLIENT_FILTER_TITLE_EXTRA": "Επιπλέον πληροφορίες",
+  "KNOWN_CLIENT_BLOCKED_FILTER": "Αποκλεισμένα",
+  "KNOWN_CLIENT_NOTED_FILTER": "Σημειωμένα",
+  "KNOWN_CLIENT_FIXED_IP_FILTER": "Καθορισμένη IP"
+}

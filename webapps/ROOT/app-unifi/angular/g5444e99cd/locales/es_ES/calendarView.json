@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Archivar",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Archivar todos",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Mostrar más",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Mostrar alertas archivadas",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "No existe ninguna alerta.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "No hay eventos dentro de este plazo.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "No hay eventos que coincidan con el criterio de búsqueda.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "El número de resultados está limitado a {{currentLength}} de {{totalLength}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "Todos",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Errores",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "General",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Avisos",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Administrador",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "Todos",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Evento",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Hora",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} Eventos",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "{{count}} Mas Eventos"
+}

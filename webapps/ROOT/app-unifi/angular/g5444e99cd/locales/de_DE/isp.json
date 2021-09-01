@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "Datendurchsatz",
+  "ISP_MODAL_1_HOUR": "1 Stunde",
+  "ISP_MODAL_24_HOURS": "24 Stunden",
+  "ISP_MODAL_7_DAYS": "7 Tage",
+  "ISP_MODAL_30_DAYS": "30 Tage",
+
+  "ISP_MODAL_SUMMARY_HEADER": "Überblick",
+  "ISP_MODAL_THROUGHPUT_HEADER": "Upload / Download - Verlauf",
+  "ISP_MODAL_LATENCY_HEADER": "Latenzverlauf",
+
+  "ISP_MODAL_UPLOAD_LABEL": "Upload",
+  "ISP_MODAL_DOWNLOAD_LABEL": "Download",
+  "ISP_MODAL_LATENCY_LABEL": "Latenz",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "Netzwerk Überblick",
+  "ISP_MODAL_TOP_PROCESS": "Top Anwendungen",
+  "ISP_MODAL_DOWN": "Empfangen",
+  "ISP_MODAL_UP": "Gesendet"
+}

@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Архив",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Архивировать всё",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Выбрать ещё",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Показать архивированные оповещения.",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "Отсутствуют оповещения за указанный интервал времени.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "Отсутствуют события за указанный интервал времени.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "Нет событий, соответствующих заданному условию.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "Число результатов ограничено {{currentLength}} из {{totalLength}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "Все",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Ошибки",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "Главная",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Предупреждения",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Админ",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "Все",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Событие",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Время",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} Событий",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "Событий больше на {{count}}"
+}

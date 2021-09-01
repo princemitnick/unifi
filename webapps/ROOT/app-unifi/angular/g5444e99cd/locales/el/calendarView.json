@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Αρχειοθέτηση",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Αρχειοθέτηση όλων",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Λήψη περισσοτέρων",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Προβολή αρχειοθετημένων ειδοποιήσεων",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "There are no alerts within that timeframe.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "Δεν υπάρχουν συμβάντα μέσα σε αυτό το διάστημα",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "Δεν υπάρχουν συμβάντα που να ταιριάζουν με αυτά τα κριτήρια αναζήτησης.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "Ο αριθμός των αποτελεσμάτων περιορίζεται σε {{currentLength}} από {{totalLength}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "Όλα",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Σφάλματα",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "Γενικά",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Προειδοποιήσεις",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Διαχείριση",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "Όλα",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Event",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Time",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} Συμβάντα",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "{{count}} Περισσότερα Συμβάντα"
+}

@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Прервать поток",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "Поток {{streamId}} был прерван.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Произошла ошибка во время прерывания потока {{streamId}}.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Поток",
+  "STREAMS_FILTER_ALL_STREAMS": "Все",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Потоки не найдены",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Нет потоков вещания, соответствующих заданному условию.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Потоки вещания пока не найдены",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Подключено",
+  "STREAMS_TABLE_HEADER_DEVICE": "Устройство",
+  "STREAMS_TABLE_HEADER_READY": "Готово",
+  "STREAMS_TABLE_HEADER_STREAMING": "Вещание",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Поток",
+
+  "STREAMS_VIEW_ALL": "Все"
+}

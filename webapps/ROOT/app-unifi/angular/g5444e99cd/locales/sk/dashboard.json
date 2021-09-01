@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "Metriky WiFi",
+  "DASHBOARD_NAMES_UNDEFINED": "Informačný panel",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Pridať widget",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Pridané",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "V súčasnosti nie sú k dispozícii žiadne moduly.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Správa informačného panela",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Zavrieť",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Informačný panel",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Popis",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Akcie",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Žiadne informačné panely sa nenašli.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Open",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Upraviť",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Zmazať",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Prihlásiť k odberu",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Odhlásiť k odberu",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Zdieľať",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Zrušiť zdieľanie",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Exportovať",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Pridať vlastný informačný panel",
+  "DASHBOARD_FORM_TITLE_EDIT": "Upraviť informácie Informačného panelu",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Názov súboru: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Názov súboru: <em>neplatný alebo chýbajúci</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Názov informačného panela",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Popis",
+  "DASHBOARD_FORM_LABEL_IMPORT": "alebo importujte súbor informačného panela",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Vymazať nahraté",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Drag & Drop alebo",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Prechádzať súbory",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Pri vytváraní informačného panela sa vyskytla chyba.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Neplatný súbor informačného panelu. Len súbory exportované z UniFi Controlleru môžu byť importované.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Chýba súbor importu.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "Importovaný Informačný panel nemá žiadne widgety.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Tento Informačný panel bol vytvorený v UniFi controlleri verzie {{dashboardControllerVersion}}. Tento controller beží vo verzii {{currentControllerVersion}}. Aktulizujte prosím controller na vyššiu verziu, ak chcete používať všetky widgety tohto Informačného panelu.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "Počas ukladania informačného panelu {{name}} sa vyskytla chyba.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Nie je možné uložiť informačný panel {{name}}. Je len na čítanie.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "Počas odstraňovania informačného panela {{name}} sa vyskytla chyba.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Upraviť widgety",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Spravovať informačné panely",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Pridať vlastný informačný panel",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Done",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Prispôsobiť informačný panel"
+}

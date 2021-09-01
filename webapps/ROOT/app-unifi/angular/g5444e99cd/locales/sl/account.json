@@ -1,0 +1,36 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Upravljanje hotspot (vroča točka)",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Uporabniško ime",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Geslo",
+  "ACCOUNT_LOGIN_LABEL_REMEMBER_ME": "Zapmni si",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Prijava",
+  "ACCOUNT_LOGIN_ACTIONS_SSO_LOGIN": "SSO Prijava",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Ste pozabili geslo?",
+  "ACCOUNT_LOGIN_TOOLTIP_REMEMBER_ME": "Podaljšajte sejo do 7 dni.",
+
+  "ACCOUNT_2FA_LABEL_TOKEN": "Vstavite svojo overitveno 2FA kodo",
+  "ACCOUNT_2FA_PLACEHOLDER_TOKEN": "6 znakov",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_CANCELED": "Prijava preklicana",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_OAUTH_GENERAL": "Verifikacijska napaka",
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Napaka prijave",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Napačno uporabniško ime ali geslo.",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_TOKEN": "Napačna 2FA koda",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Ponastavitev gesla spodletela",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Verfikacija računa spodletela",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Če že imate uporabniško ime in geslo lahko",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "tukaj prijavite.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "SSO prijava...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Prosimo, da vnesete vaš e-poštni naslov za ponastavitev gesla",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Ponastavi geslo",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Nazaj",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Poslali smo vam sporočilo za ponastavitev gesla.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Med postopkom spremembe gesla je prišlo do napake.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "En račun za vse Ubiquiti storitve.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Še nimate računa?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Registracija"
+}

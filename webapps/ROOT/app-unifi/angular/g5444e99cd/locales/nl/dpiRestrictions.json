@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Wijzig groep limieten",
+  "DPI_RESTRICTION_HEADER_ADD": "Voeg limitering toe aan groep",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Voeg limitering categorie toe",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Maak een nieuwe limitering groep  aan",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Voeg limitering toe",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Groep",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Categorie",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Applicatie",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Gelimiteerde categorieën",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Gelimiteerde applicaties",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Ingeschakeld",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Blokkeer",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Limiet Inkomend",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Limiet Uitgaand",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Log verkeer",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Schakel logging van verkeer in dat voldoet aan deze beperking",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Schakel deze beperking in",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Blokkeer alle overeenkomstig verkeer",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Selecteer groep",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Kies categorie",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "Alle Applicaties",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "DPI limitering verwijderen",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Weet u zeker dat u de DPI limitering wilt verwijderen?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "De DPI limitering is verwijderd.",
+  "DPI_RESTRICTION_DELETE_ERROR": "Er is een fout opgetreden bij het verwijderen van de DPI limitering.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "De DPI limitering is opgeslagen.",
+  "DPI_RESTRICTION_SAVE_ERROR": "Er is een fout opgetreden bij het opslaan van de DPI limitering.",
+
+  "DPI_RESTRICTION_GROUP": "Limiteringen Groep",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Aanleggen limiteringen groep",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Bewerken limiteringen groep",
+  "DPI_RESTRICTION_GROUP_NAME": "Groepsnaam",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "De DPI limiteringen groep is opgeslagen.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "Er is een fout opgetreden bij het opslaan van de DPI limiteringen groep",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Verwijder de DPI limiteringen groep",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Weet u zeker dat u de DPI limiteringen groep \"{groupName}\" wilt verwijderen?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {The DPI restrictie groep \"{groupName}\" heeft 1 beperkingen. Weet u zeker dat u deze groep en de inhoud wil verwijderen?} other {The DPI restrictie groep \"{groupName}\" heeft # beperkingen. Weet u zeker dat u deze groep en de inhoud wil verwijderen?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {The DPI restrictie groep \"{groupName}\" heeft 1 toekenning. Weet u zeker dat u deze groep en de toekenningen wil verwijderen?} other {The DPI restrictie groep \"{groupName}\" heeft # toekenningen. Weet u zeker dat u deze groep en de toekenningen wil verwijderen?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {De DPI restrictie groep \"{groupName}\" has 1 beperking en {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. weet u zeker dat u de groep, de inhoud en toekenningen wil verwijderen?} other {De DPI restrictie groep \"{groupName}\" has # beperkingen en {assignmentsNumber, plural, one{1 assignment} other{# assignments}}. weet u zeker dat u de groep, de inhoud en toekenningen wil verwijderen?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "De DPI limiteringen groep is verwijderd",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "Er is een fout opgetreden bij het verwijderen van de DPI limiteringen groep.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Categorie/App",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Geactiveerd",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Geblokkeerd",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Log verkeer",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Limiet Uitgaand",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Limiet Inkomend",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Acties",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Onbeperkt",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "Geen limiteringen zijn toegekend aan deze groep.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Netwerken",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Draadloze netwerken",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Ken limitering toe aan netwerk",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Toewijzen DPI limitering aan netwerk",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Netwerk",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Selecteer netwerk",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Selecteer groep",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "Er zijn reed restricties toegekend aan alle netwerken.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "De DPI limitering is toegewezen.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "Er is een fout opgetreden bij het toewijzen van de DPI limitering.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Verwijder de netwerk groep toekenning?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Weet u zeker dat u de netwerk toewijzing van de DPI limiteringen groep wilt verwijderen?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "De DPI limiteringen groep netwerk toewijzing is verwijderd.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Er is een fout opgetreden bij het verwijderen van de netwerktoewijzing van de DPI limitering.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Draadloos Netwerk",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Netwerk",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": " Er zijn geen DPI limiteringen toegewezen aan draadloze Netwerken.",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": " Er zijn geen DPI limiteringen toegewezen aan de netwerken."
+}

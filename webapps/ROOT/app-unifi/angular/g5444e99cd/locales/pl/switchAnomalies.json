@@ -1,0 +1,40 @@
+{
+  "UBNT_SWITCH_PORT_BROADCAST_STORM_PROBLEM": "Broadcast Packet exceed Rate which configured by Storm Control",
+  "UBNT_SWITCH_PORT_BROADCAST_STORM_SOLUTION": "Abnormal behavior, please check the traffic from connected device.",
+
+  "UBNT_SWITCH_PORT_MULTICAST_STORM_PROBLEM": "Multicast Packet exceed Rate which configured by Storm Control ",
+  "UBNT_SWITCH_PORT_MULTICAST_STORM_SOLUTION": "Abnormal behavior, please check the traffic from connected device.",
+
+  "UBNT_SWITCH_PORT_UNICAST_STORM_PROBLEM": "Unicast Packet exceed Rate which configured by Storm Control ",
+  "UBNT_SWITCH_PORT_UNICAST_STORM_SOLUTION": "Abnormal behavior, please check the traffic from connected device.",
+
+  "UBNT_SWITCH_PORT_BDPU_STORM_PROBLEM": "STP BPDU Packets exceed rate 15 pps (packet per seconds) per port",
+  "UBNT_SWITCH_PORT_BDPU_STORM_SOLUTION": "Abnormal behavior, please check the traffic from connected device.",
+
+  "UBNT_SWITCH_PORT_ARP_INSPECTION_PROBLEM": "ARP Packets exceed rate 300 pps (packet per seconds) per port",
+  "UBNT_SWITCH_PORT_ARP_INSPECTION_SOLUTION": "Abnormal behavior, please check the traffic from connected device.",
+
+  "UBNT_SWITCH_PORT_DHCP_RATE_LIMIT_PROBLEM": "DHCP Packets exceed rate 300 pps (packet per seconds) per port",
+  "UBNT_SWITCH_PORT_DHCP_RATE_LIMIT_SOLUTION": "Abnormal behavior, please check the traffic from connected device.",
+
+  "UBNT_SWITCH_PORT_ROGUE_DHCP_SERVER_PROBLEM": "Rogue DHCP server detect on the port",
+  "UBNT_SWITCH_PORT_ROGUE_DHCP_SERVER_SOLUTION": "Remove or shutdown the rogue DHCP server.",
+
+  "UBNT_SWITCH_PORT_DOT1X_AUTHENTICATION_FAILED_PROBLEM": "Dot1x Authentication failed.",
+  "UBNT_SWITCH_PORT_DOT1X_AUTHENTICATION_FAILED_SOLUTION": "Check host 802.1x settings.",
+
+  "UBNT_SWITCH_PORT_MAC_LOCKING_PROBLEM": "Block User Defined Black MAC",
+  "UBNT_SWITCH_PORT_MAC_LOCKING_SOLUTION": "Unblock the Client if need.",
+
+  "UBNT_SWITCH_PORT_LOOP_PROTECT_PROBLEM": "Loop Protect Block the port",
+  "UBNT_SWITCH_PORT_LOOP_PROTECT_SOLUTION": "Remove the looping cable.",
+
+  "UBNT_SWITCH_PORT_DOS_PROBLEM": "Denial of Service attack (detail in the appendix.)",
+  "UBNT_SWITCH_PORT_DOS_SOLUTION": "Abnormal behavior, please check the traffic from connected device",
+
+  "UBNT_SWITCH_PORT_PHY_FAILURE_PROBLEM": "Port cannot linkup due to PHY failure",
+  "UBNT_SWITCH_PORT_PHY_FAILURE_SOLUTION": "This port no longer available.",
+
+  "UBNT_SWITCH_PORT_POE_FAILURE_PROBLEM": "PoE port cannot delivery power due to PoE Failure",
+  "UBNT_SWITCH_PORT_POE_FAILURE_SOLUTION": "The PoE of this port no longer available."
+}

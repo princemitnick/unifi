@@ -1,0 +1,11 @@
+{
+  "COMMON_SIDE_NAV_CLIENTS": "Klienci",
+  "COMMON_SIDE_NAV_DASHBOARD": "Pulpit",
+  "COMMON_SIDE_NAV_DEVICES": "UniFi Urządzenia",
+  "COMMON_SIDE_NAV_EVENTS": "Zdarzenia",
+  "COMMON_SIDE_NAV_INSIGHTS": "Raporty",
+  "COMMON_SIDE_NAV_IPS": "Zarządzanie Zagrożeniami",
+  "COMMON_SIDE_NAV_TOPOLOGY": "Topologia",
+  "COMMON_SIDE_NAV_SETTINGS": "Ustawienia",
+  "COMMON_SIDE_NAV_STATS": "Statystyki"
+}

@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Слабкий сигнал",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Будь ласка, пднесіть ваш пристрій ближче до найближчої ТД",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Low PHY Rate",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Будь ласка, пднесіть ваш пристрій ближче до найближчої ТД",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "Велика втрата TCP пекетів",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Please check your router, ISP connection, or web service that the client is using",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Велика затримка TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Please verify your internet connection",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Велика затримка TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Please use a router that has traffic shaping enabled, such as Smart Queues on UDM or USG",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Велика затримка TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Please enable Smart Queues at your WAN interface in Settings",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "Багато WiFi спроб",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Будь ласка, подумайте про перехід на інший канал",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Велика затримка WiFi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Будь ласка, подумайте про перехід на інший канал",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "DHCP тайм-аут",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Будь ласка, перевірте що DHCP сервер у доступі та правильно налаштован",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "ARP тайм-аут",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Будь ласк, перевірте що ваш шлюз є у доступі з цього пристрою.",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "DNS тайм-аут",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Будьласка, перевірте що DNS сервер у доступі та коректно налаштован.",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "Велика затримка DNS",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Будь ласка, перевірте що DNS сервер у доступі та коректно налаштован."
+}

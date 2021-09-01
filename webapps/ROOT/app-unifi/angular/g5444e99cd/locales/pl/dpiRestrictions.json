@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Edytuj restrykcję grupy",
+  "DPI_RESTRICTION_HEADER_ADD": "Dodaj restrykcję dla grupy",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Dodaj kategorię restrykcji",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Stwórz nową grupę restrykcji",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Dodaj restrykcję.",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Grupa",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Kategorie",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Aplikacja",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Zastrzeżone kategorie",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Zastrzeżone aplikacje",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Włączone",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Blokuj",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Limit pobierania",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Limit wysyłania",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Loguj ruch",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Włącz logowanie ruchu odpowiadającego temu ograniczeniu",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Włącz tę restrykcję",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Blokuj cały pasujący ruch",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Wybierz grupę",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Wybierz kategorię",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "Wszystkie aplikacje",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "Usuń restrukcję DPI",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Czy na pewno chcesz usunąć restrykcję DPI?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "Restrykcja DPI została usunięta.",
+  "DPI_RESTRICTION_DELETE_ERROR": "Podczas usuwania restrykcji DPI wystąpił błąd.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "Restrykcja DPI została zapisana.",
+  "DPI_RESTRICTION_SAVE_ERROR": "Podczas zapisywania restrykcji DPI wystąpił błąd.",
+
+  "DPI_RESTRICTION_GROUP": "Grupa restrykcji DPI",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Utwórz grupę restrykcji DPI",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Edytuj grupę restrykcji DPI",
+  "DPI_RESTRICTION_GROUP_NAME": "Nazwa grupy",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "Grupa restrykcji DPI została zapisana.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "Podczas zapisywania grupy restrykcji DPI wystąpił błąd",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Usuń grupę restrykcji DPI",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Czy na pewno chcesz usunąć grupę restrykcji DPI \"{groupName}\"?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {Grupa restrykcji \"{groupName}\" posiada 1 restrykcję. Czy na pewno chcesz usunąć tę grupę wraz z jej zawartością?} few {Grupa restrykcji \"{groupName}\" posiada # restrykcje. Czy na pewno chcesz usunąć tę grupę wraz z jej zawartością?} many {Grupa restrykcji \"{groupName}\" posiada # restrykcji. Czy na pewno chcesz usunąć tę grupę wraz z jej zawartością?} other {Grupa restrykcji \"{groupName}\" posiada # restrykcji. Czy na pewno chcesz usunąć tę grupę wraz z jej zawartością?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {Grupa restrykcji \"{groupName}\" posiada 1 przypisanie. Czy na pewno chcesz usunąć tę grupę wraz z jej przypisaniami?} few {Grupa restrykcji \"{groupName}\" posiada # przypisania. Czy na pewno chcesz usunąć tę grupę wraz z jej przypisaniami?} many {Grupa restrykcji \"{groupName}\" posiada # przypisań. Czy na pewno chcesz usunąć tę grupę wraz z jej przypisaniami?} other {Grupa restrykcji \"{groupName}\" posiada # przypisań. Czy na pewno chcesz usunąć tę grupę wraz z jej przypisaniami?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {Grupa restrykcji \"{groupName}\" posiada 1 restrykcję oraz {assignmentsNumber, plural, one{1 przypisanie} few{# przypisania} many{# przypisań} other{# przypisań}}. Czy na pewno chcesz usunąć tę grupę wraz z jej zawartością oraz przypisaniami?} few {Grupa restrykcji \"{groupName}\" posiada # restrykcje oraz {assignmentsNumber, plural, one{1 przypisanie} few{# przypisania} many{# przypisań} other{# przypisań}}. Czy na pewno chcesz usunąć tę grupę wraz z jej zawartością oraz przypisaniami?} many {Grupa restrykcji \"{groupName}\" posiada # restrykcji oraz {assignmentsNumber, plural, one{1 przypisanie} few{# przypisania} many{# przypisań} other{# przypisań}}. Czy na pewno chcesz usunąć tę grupę wraz z jej zawartością oraz przypisaniami?} other {Grupa restrykcji \"{groupName}\" posiada # restrykcji oraz {assignmentsNumber, plural, one{1 przypisanie} few{# przypisania} many{# przypisań} other{# przypisań}}. Czy na pewno chcesz usunąć tę grupę wraz z jej zawartością oraz przypisaniami?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "Grupa restrykcji DPI została usunięta.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "Podczas usuwania grupy restrykcji DPI wystąpił błąd.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Kategoria/Aplikacja",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Włączona",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Zablokowana",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Logowanie ruchu",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Limit wysyłania",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Limit pobierania",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Akcje",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Bez limitu",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "Brak restrykcji DPI dodanych do tej grupy.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Sieci",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Sieci bezprzewodowe",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Przypisz restrykcje do sieci",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Przypisz restrykcje DPI do sieci",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Sieć",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Wybierz sieć",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Wybierz grupe",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "Wszystkie dostępne sieci posiadają już przypisane restrykcje.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "Restrykcja DPI została przypisana.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "Wystąpił błąd podczas przypisywania restrykcji DPI.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Usunąć przypisanie grup sieci?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Czy na pewno chcesz usunąć przypisanie grupy restrykcji DPI do sieci?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "Przypisanie grupy restrykcji DPI do sieci zostało usunięte.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Wystąpił błąd podczas usuwania przypisania grupy restrykcji DPI do sieci.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Sieć bezprzewodowa",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Sieć",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": " Brak restrykcji DPI przypisanych do sieci bezprzewodowych.",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": " Żadne restrykcje DPI nie zostały przypisane do sieci."
+}

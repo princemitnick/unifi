@@ -1,0 +1,3 @@
+{
+  "EVENT_TITLE_UNREAD_ALERTS": "{count, plural, one {Oläst varning} other {Olästa varningar}}"
+}

@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Rozhranie",
+  "ROUTING_TABLE_HEADER_METRIC": "Metrika",
+  "ROUTING_TABLE_HEADER_PREFIX": "Prefix",
+  "ROUTING_TABLE_HEADER_TYPE": "Type",
+  "ROUTING_TABLE_HEADER_VIA": "Via",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Nenašli sa žiadne trasy",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Po pridaní trasy do vašej siete sa automaticky zobrazí v tomto zozname.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Žiadne trasy nezodpovedajú kritériám vyhľadávania."
+}

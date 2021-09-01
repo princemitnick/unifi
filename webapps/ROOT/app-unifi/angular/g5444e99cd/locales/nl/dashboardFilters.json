@@ -1,0 +1,19 @@
+{
+  "DASHBOARD_FILTER_DEFINITIONS_DEVICES_UAP": "Filter op Access Point",
+
+  "DASHBOARD_FILTER_DEVICES_TITLE_LABEL": "Filter:",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE": "{count, plural, one {# Apparaat} other {# Apparaten}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_TOP": "Top {count, plural, one{# Device} other{# Devices}}",
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE_ALL": "Alle apparaten",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE": "{count, plural, one {# Access Point} other {# Access Points}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_TOP": "Top {count, plural, one{# Access Point} other{# Access Points}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE_ALL": "Alle Access Points",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE": "{count, plural, one {# Switch} other {# Switches}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_TOP": "Top {count, plural, one{# Switch} other{# Switches}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE_ALL": "Alle Switches",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_SELECT_ALL": "Alle apparaten",
+  "DASHBOARD_FILTER_DEVICES_UAP_SELECT_ALL": "Alle Access Points",
+  "DASHBOARD_FILTER_DEVICES_USW_SELECT_ALL": "Alle Switches"
+}

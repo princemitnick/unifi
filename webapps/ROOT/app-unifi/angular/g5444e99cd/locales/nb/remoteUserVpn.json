@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Grensesnitt",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "Ekstern IP",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Bruker",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Pakker ned",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Pakker opp",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Bytes ned",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Bytes opp",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Oppetid",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Handlinger",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Terminer",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "No current sessions found",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "Currently there are no remote user VPN sessions active.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "No remote user VPN sessions match that search criteria.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Vennligst bekreft",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Er du sikker på at du vil terminere denne eksterne VPN-økten?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Tilkobling terminert",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Feil ved terminering av tilkobling"
+}

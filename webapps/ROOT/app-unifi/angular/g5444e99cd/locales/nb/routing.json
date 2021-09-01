@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Grensesnitt",
+  "ROUTING_TABLE_HEADER_METRIC": "Metrisk",
+  "ROUTING_TABLE_HEADER_PREFIX": "Prefiks",
+  "ROUTING_TABLE_HEADER_TYPE": "Type",
+  "ROUTING_TABLE_HEADER_VIA": "Via",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Ingen ruter returnert",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Når en rute blir lagt til i nettverket ditt, vil den automatisk dukke opp i denne listen.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Ingen ruter samsvarer med disse søkekriteriene."
+}

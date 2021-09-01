@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Ukončiť stream",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "Stream {{streamId}}  bol ukončený.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Pri ukončovaní streamu {{streamId}} došlo k chyba.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Stream",
+  "STREAMS_FILTER_ALL_STREAMS": "All",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Nenašiel sa žiadny stream",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Žiadne stream nezodpovedá kritériám vyhľadávania.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Zatiaľ sa nenašiel žiadny stream.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Pripojené",
+  "STREAMS_TABLE_HEADER_DEVICE": "Zariadenie",
+  "STREAMS_TABLE_HEADER_READY": "Pripravené",
+  "STREAMS_TABLE_HEADER_STREAMING": "Streamuje sa",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Stream",
+
+  "STREAMS_VIEW_ALL": "All"
+}

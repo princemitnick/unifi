@@ -1,0 +1,24 @@
+{
+  "OPERATOR_TABLE_HEADER_NAME": "Nome",
+  "OPERATOR_TABLE_HEADER_PASSWORD": "Senha",
+  "OPERATOR_TABLE_HEADER_NOTES": "Notas",
+
+  "OPERATOR_TABLE_EMPTY_HEADER": "Operadores não encontrado",
+  "OPERATOR_TABLE_EMPTY_NO_MATCHES": "Nenhum operador corresponde a esse critério de pesquisa.",
+  "OPERATOR_TABLE_EMPTY_NO_OPERATORS": "Não foram criados operadores.",
+
+  "OPERATOR_ACTIONS_CREATE_NEW_OPERATOR": "Criar novo operador",
+  "OPERATOR_ACTIONS_CREATE_SUCCESS": "Criar novo operador",
+  "OPERATOR_ACTIONS_CREATE_ERROR": "Houve um erro ao criar um operador.",
+  "OPERATOR_ACTIONS_DELETE": "Apagar",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_TITLE": "Apagar operador {{name}}",
+  "OPERATOR_ACTIONS_DELETE_CONFIRM_MESSAGE": "Tem certeza de que deseja apagar o operador {{name}}?",
+  "OPERATOR_ACTIONS_DELETE_SUCCESS": "O operador {{name}} foi removido.",
+  "OPERATOR_ACTIONS_DELETE_ERROR": "Ocorreu um erro ao remover o operador {{name}}.",
+  "OPERATOR_ACTIONS_OPEN_LOGIN": "Abrir página de entrada do operador",
+
+  "OPERATOR_CREATE_LABEL_NAME": "Nome da conta",
+  "OPERATOR_CREATE_LABEL_PASSWORD": "Senha",
+  "OPERATOR_CREATE_LABEL_NOTES": "Notas",
+  "OPERATOR_CREATE_MODAL_TITLE": "Criar novo operador"
+}

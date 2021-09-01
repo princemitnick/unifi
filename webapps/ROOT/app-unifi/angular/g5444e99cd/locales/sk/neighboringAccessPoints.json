@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BW [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Kanál",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Name/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Last seen",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Umiestnenie",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Výrobca",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Rogue",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Bezpečnosť",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Signál",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "No neighboring access points found",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "No access points have been discovered yet.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "No access points match that search criteria.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "This AP is broadcasting the same SSID as AP(s) in your site. This may be an attack on your network or users, with an attacker attempting to mimic your SSID to have users connect to their AP(s) instead of your network. Investigation as to the source of this potential threat is highly encouraged.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "Near {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Nearest {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "All",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Mark as known",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Remove from known",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Mark Access Points as known",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Are you sure you want to mark access point \"{{essid}}\" as known?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "The AP \"{{essid}}\" was marked as known.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "There was an error marking the AP \"{{essid}}\" as known.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "The AP \"{{essid}}\" was removed from known list.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "There was an error removing the AP \"{{essid}}\" from known list."
+}

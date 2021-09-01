@@ -1,0 +1,52 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "Rückerstattung",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Zahlung rückerstatten",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Sind Sie sicher, dass die Zahlung rückerstattet werden soll?",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "Die Zahlung wurde rückerstattet.",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "Bei der Rückerstattung der Zahlung ist ein Fehler aufgetreten.",
+
+  "PAYMENT_ACTIONS_REMOVE": "Entfernen",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_TITLE": "Zahlung entfernen",
+  "PAYMENT_ACTIONS_REMOVE_CONFIRM_MESSAGE": "Sind Sie sicher, dass die Zahlung entfernt werden soll?",
+  "PAYMENT_ACTIONS_REMOVE_SUCCESS": "Die Zahlung wurde entfernt.",
+  "PAYMENT_ACTIONS_REMOVE_ERROR": "Beim Entfernen der Zahlung ist ein Fehler aufgetreten.",
+
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA": "Persönliche Daten entfernen",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_TITLE": "Persönliche Daten entfernen",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_CONFIRM_MESSAGE": "Sind Sie sicher, dass die persönlichen Daten aus dieser Zahlung entfernt werden sollen?",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_SUCCESS": "Die persönlichen Daten wurden aus dieser Zahlung entfernt.",
+  "PAYMENT_ACTIONS_REMOVE_PERSONAL_DATA_ERROR": "Beim Löschen der persönliche Daten ist ein Fehler aufgetreten.",
+
+  "PAYMENT_STATUS_AUTHORIZED": "Berechtigt",
+  "PAYMENT_STATUS_PAID": "Bezahlt",
+  "PAYMENT_STATUS_VOID": "Ungültig / Rückerstattet",
+
+  "PAYMENT_GATEWAY_AUTHORIZE": "Authorize.net",
+  "PAYMENT_GATEWAY_FACEBOOK": "Facebook",
+  "PAYMENT_GATEWAY_FREE": "Kostenlose Testversion",
+  "PAYMENT_GATEWAY_GOOGLE": "Google",
+  "PAYMENT_GATEWAY_IPPAY": "IPpay",
+  "PAYMENT_GATEWAY_MERCHANTWARRIOR": "Merchant Warrior",
+  "PAYMENT_GATEWAY_PAYPAL": "PayPal",
+  "PAYMENT_GATEWAY_QUICKPAY": "Quickpay",
+  "PAYMENT_GATEWAY_STRIPE": "Stripe",
+
+  "PAYMENT_FILTER_TRANSACTION_TYPE": "Transaktionstyp",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_ALL": "Alle",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_PAYMENTS": "Zahlungen",
+  "PAYMENT_FILTER_TRANSACTION_TYPE_SOCIAL": "Soziale Netzwerke",
+
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Anzahl",
+  "PAYMENT_TABLE_HEADER_EMAIL": "E-Mail",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Zusätzliche Information",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "Vorname",
+  "PAYMENT_TABLE_HEADER_GATEWAY": "Gateway",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Nachname",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Paket",
+  "PAYMENT_TABLE_HEADER_STATUS": "Status",
+  "PAYMENT_TABLE_HEADER_TIME": "Zeit",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "Keine Transaktionen gefunden",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "Keine Transaktionen passen zu diesen Suchkriterien",
+  "PAYMENT_TABLE_EMPTY_NO_TRANSACTIONS": "Es wurde bisher keine Transaktionen durchgeführt"
+}

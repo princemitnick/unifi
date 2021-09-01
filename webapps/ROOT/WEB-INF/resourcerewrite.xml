@@ -1,0 +1,21 @@
+<urlrewrite>
+    <rule>
+        <from>^/manage/service-worker.js$</from>
+        <to last="true">/app-unifi/service-worker.js</to>
+    </rule>
+    <!-- Cache busting: route all requests for assets from /path/asset.v5.1.2.3-githash.ext to /path/asset.ext -->
+    <rule>
+        <from>^(.+)\.v(([\d\.]+)|undefined)[-\w]*\.(js|css|png|jpg|jpeg|gif|json)$</from>
+        <to>$1.$4</to>
+    </rule>
+    <rule>
+        <from>^/manage/(angular|react)/(.*)$</from>
+        <set type="response-header" name="X-Frame-Options">SAMEORIGIN</set>
+        <to last="true">/app-unifi/$1/$2</to>
+    </rule>
+    <rule>
+        <from>^/setup/static/(.*)$</from>
+        <set type="response-header" name="X-Frame-Options">SAMEORIGIN</set>
+        <to last="true">/app-unifi/setup/static/$1</to>
+    </rule>
+</urlrewrite>

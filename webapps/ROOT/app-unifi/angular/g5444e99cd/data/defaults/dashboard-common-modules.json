@@ -1,0 +1,12 @@
+{
+  "modules": [
+    {
+      "id": "default:mega|status",
+      "module_id": "mega|status",
+      "restrictions": {
+        "removable": false,
+        "draggable": false
+      }
+    }
+  ]
+}

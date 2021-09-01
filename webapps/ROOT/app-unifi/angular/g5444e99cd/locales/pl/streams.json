@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Zatrzymaj strumień.",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "Strumień {{streamId}} został zatrzymany.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "Wystąpił błąd podczas zatrzymywania strumienia {{streamId}}.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Strumień",
+  "STREAMS_FILTER_ALL_STREAMS": "Wszystkie",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Nie znaleziono strumieni",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Nie znaleziono żadnych strumieni spełniających kryteria wyszukiwania.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Nie znaleziono żadnych strumieni.",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Połączony",
+  "STREAMS_TABLE_HEADER_DEVICE": "Urządzenie",
+  "STREAMS_TABLE_HEADER_READY": "Gotowy",
+  "STREAMS_TABLE_HEADER_STREAMING": "Aktywny",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Strumień",
+
+  "STREAMS_VIEW_ALL": "Wszystkie"
+}

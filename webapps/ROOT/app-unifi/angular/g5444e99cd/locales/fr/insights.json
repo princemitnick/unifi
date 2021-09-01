@@ -1,0 +1,13 @@
+{
+  "INSIGHTS_NAV_DYNAMIC_DNS": "DNS dynamique",
+  "INSIGHTS_NAV_CLIENT_HISTORY": "Histoire du client",
+  "INSIGHTS_NAV_NEIGHBORING_ACCESS_POINTS": "Points d’accès voisins",
+  "INSIGHTS_NAV_PAST_CONNECTIONS": "Connexions passées",
+  "INSIGHTS_NAV_PAST_GUEST_AUTHORIZATIONS": "Autorisations invité passées",
+  "INSIGHTS_NAV_PORT_FORWARD_STATS": "Statistiques de redirections de ports",
+  "INSIGHTS_NAV_STREAMS": "Flux AC-EDU",
+  "INSIGHTS_NAV_SWITCH_STATS": "Statistiques de switch",
+  "INSIGHTS_NAV_REMOTE_USER_VPN": "Utilisateur VPN distant",
+  "INSIGHTS_NAV_STATIC_ROUTING": "Routage statique",
+  "INSIGHTS_NAV_LOGS": "Logs du contrôleur"
+}

@@ -1,0 +1,13 @@
+{
+  "INSIGHTS_NAV_DYNAMIC_DNS": "DNS dinàmic",
+  "INSIGHTS_NAV_CLIENT_HISTORY": "Registre de clients",
+  "INSIGHTS_NAV_NEIGHBORING_ACCESS_POINTS": "Punts d'accés propers",
+  "INSIGHTS_NAV_PAST_CONNECTIONS": "Registre de connexions",
+  "INSIGHTS_NAV_PAST_GUEST_AUTHORIZATIONS": "Registre d'autoritzacions",
+  "INSIGHTS_NAV_PORT_FORWARD_STATS": "Estadístiques de reenviaments",
+  "INSIGHTS_NAV_STREAMS": "Transmissions AC-EDU",
+  "INSIGHTS_NAV_SWITCH_STATS": "Estadístiques dels commutadors",
+  "INSIGHTS_NAV_REMOTE_USER_VPN": "Connexions VPN",
+  "INSIGHTS_NAV_STATIC_ROUTING": "Rutes estàtiques",
+  "INSIGHTS_NAV_LOGS": "Registres del Controlador"
+}

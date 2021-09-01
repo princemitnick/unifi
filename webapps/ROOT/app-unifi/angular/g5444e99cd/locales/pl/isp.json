@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "Przepustowość",
+  "ISP_MODAL_1_HOUR": "1 godzina",
+  "ISP_MODAL_24_HOURS": "24 godziny",
+  "ISP_MODAL_7_DAYS": "7 dni",
+  "ISP_MODAL_30_DAYS": "30 dni",
+
+  "ISP_MODAL_SUMMARY_HEADER": "Podsumowanie",
+  "ISP_MODAL_THROUGHPUT_HEADER": "Wykres ruchu (wysłany i pobrany)",
+  "ISP_MODAL_LATENCY_HEADER": "Wykres opóźnienia",
+
+  "ISP_MODAL_UPLOAD_LABEL": "Wysłane",
+  "ISP_MODAL_DOWNLOAD_LABEL": "Pobrane",
+  "ISP_MODAL_LATENCY_LABEL": "Opóźnienie",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "Podsumowanie sieciowe",
+  "ISP_MODAL_TOP_PROCESS": "Największy ruch",
+  "ISP_MODAL_DOWN": "Pobrano",
+  "ISP_MODAL_UP": "Wysłano"
+}

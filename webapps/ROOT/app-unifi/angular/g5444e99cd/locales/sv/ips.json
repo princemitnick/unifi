@@ -1,0 +1,82 @@
+{
+  "IPS_SECURITY_ALERTS": "Säkerhetsvarningar",
+  "IPS_THREAT_LEVEL": "Allvarlighet",
+  "IPS_THREAT_LEVEL_LOW": "Låg",
+  "IPS_THREAT_LEVEL_MEDIUM": "Medel",
+  "IPS_THREAT_LEVEL_HIGH": "Hög",
+  "IPS_THREAT_LEVEL_UNKNOWN": "Okänd",
+
+  "IPS_REAL_TIME_THREATS_HEADER": "Realtids-hot",
+  "IPS_REAL_TIME_THREATS_VIEW_TRAFFIC_LOG_BUTTON": "Visa trafiklog",
+
+  "IPS_TRAFFIC_LOG_SEVERITY_HEADER": "Allvarlighet",
+  "IPS_TRAFFIC_LOG_SOURCE_HEADER": "Källa",
+  "IPS_TRAFFIC_LOG_COUNTRY_HEADER": "Land eller territorium",
+  "IPS_TRAFFIC_LOG_DESTINATION_HEADER": "Destination",
+  "IPS_TRAFFIC_LOG_DESTINATION_COUNTRY_HEADER": "Destinations-land eller -territorium",
+  "IPS_TRAFFIC_LOG_GROUP_HEADER": "Kategori",
+  "IPS_TRAFFIC_LOG_LAST_RECORDED_HEADER": "Senaste inspelade hot",
+  "IPS_TRAFFIC_LOG_TYPE_HEADER": "Klassificering",
+
+  "IPS_TRAFFIC_LOG_NO_RESULTS_HEADER": "Hittade inga hot",
+  "IPS_TRAFFIC_LOG_NO_RESULTS_DETAIL": "När ett hot upptäcks på nätverket kommer det automatiskt att visas i denna listan.",
+
+  "IPS_THREAT_DETAIL_HEADER": "Hot-detalj",
+  "IPS_THREAT_DETAIL_LABEL_GROUP": "Kategori",
+  "IPS_THREAT_DETAIL_LABEL_TYPE": "Klassificering",
+  "IPS_THREAT_DETAIL_LABEL_SEVERITY": "Allvarlighet",
+  "IPS_THREAT_DETAIL_LABEL_THREAT_DATE_TIME": "Hot-datum/tid",
+  "IPS_THREAT_DETAIL_LABEL_TRAFFIC_DETAIL": "Trafikdetalj",
+  "IPS_THREAT_DETAIL_LABEL_TIME_SINCE_ATTACK": "Tid sedan attack",
+  "IPS_THREAT_DETAIL_LABEL_SOURCE": "Källa",
+  "IPS_THREAT_DETAIL_LABEL_SOURCE_ASN": "Källa ASN",
+  "IPS_THREAT_DETAIL_LABEL_COUNTRY": "Land eller territorium",
+  "IPS_THREAT_DETAIL_LABEL_DESTINATION": "Destination",
+  "IPS_THREAT_DETAIL_LABEL_INTERFACE": "Gränssnitt",
+  "IPS_THREAT_DETAIL_LABEL_PROTOCOL": "Protokoll",
+  "IPS_THREAT_DETAIL_LABEL_CLIENT": "Klient",
+
+  "IPS_THREAT_DETAIL_BUTTON_SUPPRESS_SIGNATURE": "Undertryck signatur",
+  "IPS_THREAT_DETAIL_BUTTON_BLOCK_TRAFFIC": "Blockera",
+  "IPS_THREAT_DETAIL_BUTTON_BLACKLIST": "Svartlist-IP",
+  "IPS_THREAT_DETAIL_BUTTON_WHITELIST": "Vitlist-IP",
+  "IPS_THREAT_DETAIL_SUCCESS_BLACKLIST_ATTACKER_IP": "IP {ipAddress} blockerades.",
+  "IPS_THREAT_DETAIL_ERROR_BLACKLIST_ATTACKER_IP": "Ett fel uppstod vid blockering av {ipAddress}.",
+  "IPS_THREAT_DETAIL_SUCCESS_BLOCK_TRAFFIC": "Trafik från {srcIp} till {dstIp} blockerades.",
+  "IPS_THREAT_DETAIL_ERROR_BLOCK_TRAFFIC": "Ett fel uppstod vid blockering av trafik från {srcIp} till {dstIp}.",
+
+  "IPS_TOP_GEO_LIST_HEADER_TITLE": "Flest antal hot baserat på geografi.",
+  "IPS_TOP_GEO_LIST_HEADER_ATTEMPTS": "Försök",
+  "IPS_TOP_GEO_LIST_HEADER_SEVERITY": "Allvarlighet",
+  "IPS_TOP_GEO_LIST_HEADER_SOURCE": "Källa",
+  "IPS_TOP_GEO_LIST_NO_THREATS": "Hittade inga hot",
+
+  "IPS_TOP_TYPE_LIST_HEADER_TITLE": "Hot per klassificering",
+  "IPS_TOP_TYPE_LIST_HEADER_ATTEMPTS": "Försök",
+  "IPS_TOP_TYPE_LIST_HEADER_SEVERITY": "Allvarlighet",
+  "IPS_TOP_TYPE_LIST_NO_THREATS": "Hittade inga hot",
+
+  "IPS_TOP_SEVERITY_HEADER": "Hot per allvarlighetsgrad",
+
+  "IPS_COUNTRY_FLAG_ATTACK_ATTEMPTS": "{count, plural, one {# försök} other {# försök}}",
+
+  "IPS_ALERTS_GRAPH_DATE_LABEL": "Datum",
+  "IPS_ALERTS_GRAPH_TIME_LABEL": "Tid",
+  "IPS_ALERTS_GRAPH_SEVERITY_LABEL": "Allvarlighet",
+  "IPS_ALERTS_GRAPH_THREATS_LABEL": "Hot",
+  "IPS_ALERTS_GRAPH_VIEW_DETAILS": "Visa detaljer",
+
+  "IPS_NAV_TRAFFIC_LOG_HEADER": "Trafiklog",
+  "IPS_NAV_OVERVIEW_HEADER": "Överblick",
+
+  "IPS_FILTER_PANEL_HEADER_FILTER": "Filter ({{count}})",
+
+  "IPS_FILTER_PANEL_LABEL_GROUP": "Kategori",
+  "IPS_FILTER_PANEL_LABEL_TYPE": "Klassificering",
+  "IPS_FILTER_PANEL_LABEL_COUNTRY": "Land eller territorium",
+  "IPS_FILTER_PANEL_LABEL_IP_ADDRESS": "IP-adress",
+  "IPS_FILTER_PANEL_LABEL_SEVERITY": "Allvarlighet",
+  "IPS_FILTER_PANEL_PLACEHOLDER_ALL": "Alla",
+
+  "IPS_TABLE_PAGINATION_ITEM": "{count, plural, one {hot} other {hot}}"
+}

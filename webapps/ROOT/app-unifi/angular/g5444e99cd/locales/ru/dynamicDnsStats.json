@@ -1,0 +1,14 @@
+{
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_SERVICE": "Служба",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_STATUS": "Состояние",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_HOSTNAME": "Имя узла",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_USERNAME": "Пользователь",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_SERVER": "Сервер",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_IP": "IP",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_LAST_UPDATED": "Последнее обновление",
+  "DYNAMIC_DNS_STATS_TABLE_HEADER_ACTIONS": "Действия",
+
+  "DYNAMIC_DNS_STATS_TABLE_EMPTY_HEADER": "Нет динамического DNS",
+  "DYNAMIC_DNS_STATS_TABLE_EMPTY_NO_DYNAMIC_DNS": "Службы динамических DNS пока не обнаружены.",
+  "DYNAMIC_DNS_STATS_TABLE_EMPTY_NO_MATCHES": "Нет служб динамических DNS, соответствующих заданному условию."
+}

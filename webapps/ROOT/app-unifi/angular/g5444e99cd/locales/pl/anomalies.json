@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Słaby sygnał",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Proszę przesunąć urządzenie bliżej UAP",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Mała przepustowość łącza",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Proszę przesunąć urządzenie bliżej UAP",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "Duża utrata pakietów TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Proszę sprawdzić router, połączenie ISP oraz web serwisy używane przez klienta",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Wysokie opóźnienie TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Proszę sprawdzić połączenie internetowe",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Wysokie opóźnienie TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Wskazane użyć router'a z obsługą kształtowania ruchu (Traffic Shaping), na przykład USG lub UDM ze Smart Queues ",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Wysokie opóźnienie TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Proszę włączyć Smart Queues w ustawieniach interfejsu WAN",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "Duża ilość powtórzeń WiFi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Proszę rozważyć zmianę kanału",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Duże opóźnienie WiFi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Proszę rozważyć zmianę kanału",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "DHCP Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Proszę sprawdzić czy serwer DHCP jest osiągalny i poprawnie skonfigurowany",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "ARP Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Proszę sprawdzić czy Gateway jest dostępny z poziomu tego urządzenia",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "DNS Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Proszę sprawdzić czy serwer DNS jest osiągalny i poprawnie skonfigurowany",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "Duże opóźnienie DNS",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Proszę sprawdzić czy serwer DNS jest osiągalny i poprawnie skonfigurowany"
+}

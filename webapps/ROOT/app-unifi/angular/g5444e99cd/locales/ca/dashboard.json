@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "Paràmetres WiFi",
+  "DASHBOARD_NAMES_UNDEFINED": "Tauler",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Afegir un giny",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Afegit",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "No s'ha trobat cap mòdul disponible.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Gestionar els taulers",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Tancar",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Tauler",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Descripció",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Accions",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "No s'ha trobat cap tauler.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Obrir",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Editar",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Eliminar",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Subscriure",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Anul·lar subscripció",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Compartir",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Deixar de compartir",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Exportar",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Afegir un nou Tauler Personalitzat",
+  "DASHBOARD_FORM_TITLE_EDIT": "Editar la informació del tauler",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Nom de l'arxiu: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Nom de l'arxiu: <em>no és vàlid o falta</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Nom del tauler",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Descripció",
+  "DASHBOARD_FORM_LABEL_IMPORT": "O bé, importa l'arxiu del tauler",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Eliminar la càrrega",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Arrossegar o",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Seleccionar arxiu",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "S'ha produït un error mentre es creava el tauler.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "L'arxiu del tauler no és vàlid. Només es poden importar els arxius exportats des d'un controlador UniFi.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Falta l'arxiu d'importació.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "El tauler importat no té cap giny.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Aquest tauler ha estat creat en la versió {{dashboardControllerVersion}} del controlador UniFi. Aquest controlador està executant la versió {{currentControllerVersion}}. Actualitza el controlador a una nova versió més actualitzada per tal de poder utilitzar tots els ginys del tauler.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "S'ha produït un error mentre es desava el tauler {{name}}.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "No s'ha pogut desar el tauler {{name}}. És de només lectura.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "S'ha produït un error mentre s'eliminava el tauler {{name}}.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Editar els ginys",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Gestionar els taulers",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Afegir un nou tauler personalitzat",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Fet",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Personalitzar el tauler"
+}

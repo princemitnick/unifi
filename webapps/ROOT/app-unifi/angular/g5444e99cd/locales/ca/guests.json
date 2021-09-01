@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Paquet",
+  "GUEST_TABLE_HEADER_AMOUNT": "Quantitat",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Autoritzat per",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Descàrrega",
+  "GUEST_TABLE_HEADER_UPLOAD": "Pujar",
+  "GUEST_TABLE_HEADER_STATUS": "Estat",
+  "GUEST_TABLE_HEADER_ACTIONS": "Accions",
+  "GUEST_TABLE_HEADER_NAME": "Nom",
+  "GUEST_TABLE_HEADER_NOTE": "Anotació",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "ID de la sessió RADIUS",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "Usuari de RADIUS",
+  "GUEST_TABLE_HEADER_START": "Hora d'inici",
+
+  "GUEST_TABLE_EMPTY_HEADER": "No s'ha trobat cap invitat",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "No s'ha trobat cap invitat amb aquest criteri de cerca.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "No s'ha connectat cap invitat.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Desconnectar",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "L'invitat s'ha desconnectat correctament",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "S'ha produït un error mentre es desconnectava l'invitat.",
+  "GUEST_ACTIONS_EXTEND": "Ampliar",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "S'ha ampliat l'accés",
+  "GUEST_ACTIONS_EXTEND_ERROR": "S'ha produït un error mentre s'ampliava l'accés.",
+
+  "GUEST_STATUS_EXPIRED": "Caducat el {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Autoritzat, gestionat pel Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Vàlid fins al {{date}}"
+}

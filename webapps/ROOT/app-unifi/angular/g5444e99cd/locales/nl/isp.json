@@ -1,0 +1,20 @@
+{
+  "ISP_MODAL_THROUGHPUT": "Doorvoer",
+  "ISP_MODAL_1_HOUR": "1 Uur",
+  "ISP_MODAL_24_HOURS": "24 Uur",
+  "ISP_MODAL_7_DAYS": "7 Dagen",
+  "ISP_MODAL_30_DAYS": "30 Dagen",
+
+  "ISP_MODAL_SUMMARY_HEADER": "Samenvatting",
+  "ISP_MODAL_THROUGHPUT_HEADER": "Upload/Download Geschiedenis",
+  "ISP_MODAL_LATENCY_HEADER": "Latency geschiedenis",
+
+  "ISP_MODAL_UPLOAD_LABEL": "Upload",
+  "ISP_MODAL_DOWNLOAD_LABEL": "Download",
+  "ISP_MODAL_LATENCY_LABEL": "Latency",
+
+  "ISP_MODAL_NETWORK_SUMMARY": "Netwerk samenvatting",
+  "ISP_MODAL_TOP_PROCESS": "Top Processen",
+  "ISP_MODAL_DOWN": "Inkomend",
+  "ISP_MODAL_UP": "Uitgaand"
+}

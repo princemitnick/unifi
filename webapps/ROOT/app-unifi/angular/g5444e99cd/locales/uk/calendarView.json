@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "Заархівувати",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "Заархівувати всі",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "Вибрати ще",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "Показати архівовані сповіщення",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "Немає сповіщень за вказаний проміжок часу.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "Немає подій за вказаний проміжок часу.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "Немає подій, відповідних заданій умові.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "Кількість результатів обмежена {{currentLength}} з {{totalLength}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "Всі",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "Помилки",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "Загальні",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "Попередження",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "Адмін",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "Всі",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "Подія",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "Час",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} Подій",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "Подій більше на {{count}}"
+}

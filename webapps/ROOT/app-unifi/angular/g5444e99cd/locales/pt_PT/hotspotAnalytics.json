@@ -1,0 +1,34 @@
+{
+  "HOTSPOT_ANALYTICS_LABEL_BREAKDOWN_TOTAL": "Total",
+  "HOTSPOT_ANALYTICS_LABEL_DEVICE_TYPE": "Tipo de dispositivo",
+  "HOTSPOT_ANALYTICS_LABEL_GENDER": "Gênero",
+  "HOTSPOT_ANALYTICS_LABEL_GENDER_MALE": "Masculino",
+  "HOTSPOT_ANALYTICS_LABEL_GENDER_FEMALE": "Feminino",
+  "HOTSPOT_ANALYTICS_LABEL_GENDER_UNKNOWN": "Desconhecido",
+  "HOTSPOT_ANALYTICS_LABEL_USERS": "{count, plural, one {# utilizador} other {# utilizadores}}",
+  "HOTSPOT_ANALYTICS_LABEL_MOBILE_USERS": "{count, plural, one {# utilizadore móvei} other {# utilizadores móveis}}",
+  "HOTSPOT_ANALYTICS_LABEL_TABLET_USERS": "{count, plural, one {# utilizador de tablet} other {# utilizadores de tablets}}",
+  "HOTSPOT_ANALYTICS_LABEL_DESKTOP_USERS": "{count, plural, one {# utilizador de PC de secretária} other { # utilizadores de PCs de secretária}}",
+  "HOTSPOT_ANALYTICS_LABEL_PAID_USERS": "{count, plural, one {# pago} other {# pagos}}",
+  "HOTSPOT_ANALYTICS_LABEL_MALES": "{count, plural, one {# homem} other {# homens}}",
+  "HOTSPOT_ANALYTICS_LABEL_FEMALES": "{count, plural, one {# mulhere} other {# mulheres}}",
+
+  "HOTSPOT_ANALYTICS_VALUE_BREAKDOWN_FREE": "Livre",
+  "HOTSPOT_ANALYTICS_VALUE_BREAKDOWN_PAID": "Pago",
+  "HOTSPOT_ANALYTICS_VALUE_RETURNING_NEW": "Novo",
+  "HOTSPOT_ANALYTICS_VALUE_RETURNING_RETURNING": "Retornado",
+
+  "HOTSPOT_ANALYTICS_SECTION_CONNECTIONS": "Total de ligações",
+  "HOTSPOT_ANALYTICS_SECTION_DEMOGRAPHICS": "Demografia",
+  "HOTSPOT_ANALYTICS_SECTION_DEVICE_DISTRIBUTION": "Distribuição do Dispositivo",
+  "HOTSPOT_ANALYTICS_SECTION_REVENUE": "Receita Total",
+
+  "HOTSPOT_ANALYTICS_SUBSECTION_COUNTRIES": "Países",
+  "HOTSPOT_ANALYTICS_SUBSECTION_AGE_AND_GENDER": "Idade & Gênero",
+  "HOTSPOT_ANALYTICS_SUBSECTION_LANGUAGES": "Idiomas",
+
+  "HOTSPOT_ANALYTICS_LABEL_DEVICE_TYPE_DESKTOP": "Computador",
+  "HOTSPOT_ANALYTICS_LABEL_DEVICE_TYPE_MOBILE": "Móvel",
+  "HOTSPOT_ANALYTICS_LABEL_DEVICE_TYPE_TABLET": "Tablet",
+  "HOTSPOT_ANALYTICS_LABEL_DEVICE_TYPE_UNKNOWN": "Desconhecido"
+}

@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "Ainda não há novas mensagens de registo.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "Esperar registos do controlador ..",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Descarregar registo",
+  "LOGS_MESSAGES_FETCH_MORE": "Encontrar mais registos",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "O ficheiro de registo foi descarregado com sucesso",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "Não há mais registos",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "Registos encontrados"
+}

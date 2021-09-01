@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Vmesnik",
+  "ROUTING_TABLE_HEADER_METRIC": "Meritev",
+  "ROUTING_TABLE_HEADER_PREFIX": "Predpona",
+  "ROUTING_TABLE_HEADER_TYPE": "Tip",
+  "ROUTING_TABLE_HEADER_VIA": "Preko",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Ni poti.",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Ko je v omrežje dodana pot, se bo samodejno prikazala na tem seznamu.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Nobena pot se ne ujema z iskalnim nizom."
+}

@@ -1,0 +1,9 @@
+{
+  "LOGS_MESSAGES_EMPTY_HEADER": "Nessun nuovo messaggio di log.",
+  "LOGS_MESSAGES_EMPTY_WAITING_FOR_LOGS": "In attesa dei log dal controller...",
+  "LOGS_MESSAGES_DOWNLOAD_LOG_FILE": "Scarica log",
+  "LOGS_MESSAGES_FETCH_MORE": "recupera altri log",
+  "LOGS_MESSAGES_DOWNLOAD_LOGFILE_FILE_SUCCESS": "file di log scaricati con successo",
+  "LOGS_MESSAGES_NO_MORE_LOGS": "nessun altro log",
+  "LOGS_MESSAGES_FETCHED_MORE_LOGS": "log recuperati"
+}

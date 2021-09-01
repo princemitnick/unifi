@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Πακέτο",
+  "GUEST_TABLE_HEADER_AMOUNT": "Ποσό",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Εξουσιοδοτημένα από",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Κατέβασμα",
+  "GUEST_TABLE_HEADER_UPLOAD": "Ανέβασμα",
+  "GUEST_TABLE_HEADER_STATUS": "Κατάσταση",
+  "GUEST_TABLE_HEADER_ACTIONS": "Ενέργειες",
+  "GUEST_TABLE_HEADER_NAME": "Όνομα",
+  "GUEST_TABLE_HEADER_NOTE": "Σημείωση",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "Αναγνωριστικό περιόδου σύνδεσης RADIUS",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "Όνομα χρήστη RADIUS",
+  "GUEST_TABLE_HEADER_START": "Ώρα έναρξης",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Δεν βρέθηκαν επισκέπτες",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Δεν βρέθηκαν επισκέπτες που να ταιριάζουν με τα κριτήρια αναζήτησης.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "No guests have connected.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Αποσύνδεση",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Ο επισκέπτης έχει αποσυνδεθεί",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Παρουσιάστηκε σφάλμα κατά την αποσύνδεση του επισκέπτη.",
+  "GUEST_ACTIONS_EXTEND": "Επέκταση",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Πρόσβαση έχει επεκταθεί",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Παρουσιάστηκε σφάλμα κατά την επέκταση της πρόσβασης.",
+
+  "GUEST_STATUS_EXPIRED": "Έληξε στις {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Authorized, managed by Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Ισχύει μέχρι {{date}}"
+}

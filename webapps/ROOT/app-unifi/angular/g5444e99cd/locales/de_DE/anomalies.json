@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Schwaches Signal",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Bitte bewegen Sie Ihr Endgerät weiter auf den nächstgelegenen Access Point zu",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Niedrige PHY Rate",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Bitte bewegen Sie Ihr Endgerät weiter auf den nächstgelegenen Access Point zu",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "Hohe TCP Paketverluste",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Bitte überprüfen Sie Ihren Router, die ISP-Verbindung oder den Internetservice des Endgerätes",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Hohe TCP Latenz",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Bitte überprüfen Sie Ihre Internetverbindung",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Hohe TCP Latenz",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Bitte benutzen Sie einen Router, der Traffic-Shaping aktiviert hat, wie z.B. die Smart Queues eines UDM oder USG.",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Hohe TCP Latenz",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Bitte aktivieren Sie Smart Queues für Ihre WAN-Schnittstelle in den Einstellungen",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "Hohe Anzahl WLAN Wiederholungen",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Bitte ziehen Sie in Erwägung, auf einen anderen Kanal zu wechseln",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Hohe WLAN Latenz",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Bitte ziehen Sie in Erwägung, auf einen anderen Kanal zu wechseln",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "DHCP Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Bitte verifizieren Sie, dass Ihr DHCP-Server erreichbar und ordnungsgemäss konfiguriert ist",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "ARP Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Bitte verifizieren Sie, dass Ihr Gateway von diesem Gerät aus erreichbar ist",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "DNS Timeout",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Bitte verifizieren Sie, dass Ihr DNS-Server erreichbar und ordnungsgemäss konfiguriert ist",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "Hohe DNS-Latenz",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Bitte verifizieren Sie, dass Ihr DNS-Server erreichbar und ordnungsgemäss konfiguriert ist"
+}

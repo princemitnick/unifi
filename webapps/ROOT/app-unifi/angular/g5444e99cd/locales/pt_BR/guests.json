@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Pacotes",
+  "GUEST_TABLE_HEADER_AMOUNT": "Quantidade",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Autorizado por",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Download",
+  "GUEST_TABLE_HEADER_UPLOAD": "Upload",
+  "GUEST_TABLE_HEADER_STATUS": "Estado",
+  "GUEST_TABLE_HEADER_ACTIONS": "Ações",
+  "GUEST_TABLE_HEADER_NAME": "Nome",
+  "GUEST_TABLE_HEADER_NOTE": "Nota",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "ID da Sessão RADIUS",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "Nome de utilizador RADIUS",
+  "GUEST_TABLE_HEADER_START": "Tempo de início",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Não foram encontrados convidados",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Nenhum convidado coincide com este critério de pesquisa.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "No guests have connected.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Desligar",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Convidado foi desligado",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Houve um erro ao desligar o convidado.",
+  "GUEST_ACTIONS_EXTEND": "Estender",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Acesso foi alargado",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Houve um erro ao alargar um acesso a {{adminName}}.",
+
+  "GUEST_STATUS_EXPIRED": "Expirou a {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Authorized, managed by Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Válido até {{date}}"
+}

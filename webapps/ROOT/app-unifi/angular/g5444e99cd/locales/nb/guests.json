@@ -1,0 +1,29 @@
+{
+  "GUEST_TABLE_HEADER_PACKAGE": "Pakke",
+  "GUEST_TABLE_HEADER_AMOUNT": "Beløp",
+  "GUEST_TABLE_HEADER_AUTHORIZED_BY": "Autorisert av",
+  "GUEST_TABLE_HEADER_DOWNLOAD": "Nedlasting",
+  "GUEST_TABLE_HEADER_UPLOAD": "Opplasting",
+  "GUEST_TABLE_HEADER_STATUS": "Status",
+  "GUEST_TABLE_HEADER_ACTIONS": "Handlinger",
+  "GUEST_TABLE_HEADER_NAME": "Navn",
+  "GUEST_TABLE_HEADER_NOTE": "Notat",
+  "GUEST_TABLE_HEADER_RADIUS_SESSION_ID": "Radius Sesjons-ID",
+  "GUEST_TABLE_HEADER_RADIUS_USERNAME": "Radius Brukernavn",
+  "GUEST_TABLE_HEADER_START": "Starttid",
+
+  "GUEST_TABLE_EMPTY_HEADER": "Ingen gjester funnet",
+  "GUEST_TABLE_EMPTY_NO_MATCHES": "Ingen gjester passer til det søkekriteriet.",
+  "GUEST_TABLE_EMPTY_NO_GUESTS": "No guests have connected.",
+
+  "GUEST_ACTIONS_DISCONNECT": "Koble fra",
+  "GUEST_ACTIONS_DISCONNECT_SUCCESS": "Gjesten har blitt frakoblet.",
+  "GUEST_ACTIONS_DISCONNECT_ERROR": "Det oppstod en feil under frakoblingen av en gjest.",
+  "GUEST_ACTIONS_EXTEND": "Utvid",
+  "GUEST_ACTIONS_EXTEND_SUCCESS": "Tilgangen har blitt utvidet",
+  "GUEST_ACTIONS_EXTEND_ERROR": "Det oppstod en feil ved utvidelse av tilgangen",
+
+  "GUEST_STATUS_EXPIRED": "Utgått {{date}}",
+  "GUEST_STATUS_MANAGED_BY_FACEBOOK": "Autorisert, administrert av Facebook",
+  "GUEST_STATUS_VALID_UNTIL": "Gyldig til {{date}}"
+}

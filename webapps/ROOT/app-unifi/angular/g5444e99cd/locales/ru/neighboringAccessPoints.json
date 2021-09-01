@@ -1,0 +1,36 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "Полоса (МГц)",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Канал",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Имя/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Последнее появление",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Расположение",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Производитель",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Фальшивая",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Безопасность",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Сигнал",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "Соседние точки доступа отсутствуют",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Точки доступа пока не найдены.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "Нет точек доступа, соответствующих заданному условию.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Эта точка доступа передаёт тот же SSID, как и точки доступа на вашем сайте. Это может быть атакой на вашу сеть, когда атакующий пытается подделать ваш SSID, что бы пользователи подключались к его точкам доступа вместо вашей сети. Крайне желательно найти источник этой потенциальной угрозы.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "Около {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Рядом с {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Все",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5G",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2G",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Отметить как знакомую",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Удалить из знакомых",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Пометить точку доступа как знакомую",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Вы уверены, что хотите пометить точку доступа \"{{essid}}\" как знакомую?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "Точка доступа \"{{essid}}\" помечена как знакомая.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "Ошибка при помечании точки доступа \"{{essid}}\" как знакомой.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "Точка доступа \"{{essid}}\" удалена из списка знакомых.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "Ошибка при удалении точки доступа \"{{essid}}\" из списка знакомых."
+}

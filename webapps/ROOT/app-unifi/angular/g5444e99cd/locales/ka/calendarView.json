@@ -1,0 +1,28 @@
+{
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE": "არქივი",
+  "CALENDAR_VIEW_ACTIONS_ARCHIVE_ALL": "დააარქივე ყველა",
+  "CALENDAR_VIEW_ACTIONS_FETCH_MORE": "აირჩიეთ მეტი",
+  "CALENDAR_VIEW_ACTIONS_SHOW_ARCHIVED_ALERTS": "დაარქივებული შეტყობინებების ჩვენება",
+
+  "CALENDAR_VIEW_EMPTY_NO_ALERTS": "მითითებული დროის ინტერვალისთვის არ არის შეტყობინებები.",
+  "CALENDAR_VIEW_EMPTY_NO_EVENTS": "მითითებული დროის ინტერვალისთვის არ არის მოვლენები.",
+
+  "CALENDAR_VIEW_EMPTY_NO_MATCHES": "არცერთი მოვლენა არ შეესაბამება ამ ძიების კრიტერიუმებს.",
+  "CALENDAR_VIEW_FETCH_MORE_LABEL": "შედეგების რაოდენობა შემოიფარგლება {{currentLength}} დან {{totalLength}}.",
+
+  "CALENDAR_VIEW_LABEL_LEVEL_ALL": "ყველა",
+  "CALENDAR_VIEW_LABEL_LEVEL_DANGER": "შეცდომები",
+  "CALENDAR_VIEW_LABEL_LEVEL_PRIMARY": "მთავარი",
+  "CALENDAR_VIEW_LABEL_LEVEL_WARNING": "გაფრთხილებები",
+
+  "CALENDAR_VIEW_LABEL_TYPE_ADMIN": "ადმინი",
+  "CALENDAR_VIEW_LABEL_TYPE_ALL": "ყველა",
+  "CALENDAR_VIEW_LABEL_TYPE_LAN": "LAN",
+  "CALENDAR_VIEW_LABEL_TYPE_WLAN": "WLAN",
+
+  "CALENDAR_VIEW_TABLE_HEADER_EVENT": "მოვლენა",
+  "CALENDAR_VIEW_TABLE_HEADER_TIME": "დრო",
+
+  "CALENDAR_VIEW_TABLE_SHOW_ALL_EVENTS": "{{count}} მოვლენა",
+  "CALENDAR_VIEW_TABLE_SHOW_MORE_EVENTS": "კიდევ {{count}} მოვლენა"
+}

@@ -1,0 +1,105 @@
+{
+  "CLIENT_TABLE_HEADER_PHOTO": "Foto",
+  "CLIENT_TABLE_HEADER_ICON": "Simge",
+  "CLIENT_TABLE_HEADER_NAME": "İsim",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Makine adı",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "MAC Adresi",
+  "CLIENT_TABLE_HEADER_IP": "IP Adresi",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "802.1X Kimliği",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Durum",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Kullanıcı Grubu",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Bağlantı",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Ağ",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Port",
+  "CLIENT_TABLE_HEADER_AP": "AP",
+  "CLIENT_TABLE_HEADER_PORT": "Port",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Kanal",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "WiFi Bağlantısı",
+  "CLIENT_TABLE_HEADER_FT": "Hızlı Dolaşım",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Sinyal",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "Y.AĞ İnd. Trafiği",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "Y.AĞ Yükl.Trafiği",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "İnd. Aktivite",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Gön. Aktivite",
+  "CLIENT_TABLE_HEADER_TX_RATE": "Gön. Oranı",
+  "CLIENT_TABLE_HEADER_RX_RATE": "Al. Oranı",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Aktivite",
+  "CLIENT_TABLE_HEADER_UPTIME": "Çalışma süresi",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Ürün",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Üretici",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Cihaz Tipi",
+  "CLIENT_TABLE_HEADER_OS_NAME": "Cihaz iS",
+  "CLIENT_TABLE_HEADER_EXPERIENCE": "Deneyim",
+  "CLIENT_TABLE_HEADER_WIFI_EXPERIENCE": "WiFi Deneyimi",
+  "CLIENT_TABLE_HEADER_WIRED_EXPERIENCE": "Kablolu Deneyim",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Eylemler",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Hızlı BSS Geçişi",
+  "CLIENT_TABLE_TOOLTIP_ACTIVITY": "İstemcilerin son 5 dakikadaki ağ etkinliği",
+
+  "CLIENT_TABLE_PAGINATION_ITEM": "{count, plural, one {istemci} other {istemci}}",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "İstemci bulunamadı",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "Ağınızda algılanan istemciler otomatik olarak bu listede görünecektir.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Arama ölçütlerine uyan istemci yok.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Aktif",
+  "CLIENT_ACTIVE_FILTER_ALL": "Tümü",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Aktif",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Bağlantı",
+  "CLIENT_WIRED_FILTER_ALL": "Tümü",
+  "CLIENT_WIRED_FILTER_FALSE": "Kablosuz",
+  "CLIENT_WIRED_FILTER_TRUE": "Kablolu",
+
+  "CLIENT_FILTER_TITLE_GUEST": "İstemci türü",
+  "CLIENT_GUEST_FILTER_ALL": "Tümü",
+  "CLIENT_GUEST_FILTER_FALSE": "Kullanıcılar",
+  "CLIENT_GUEST_FILTER_TRUE": "Konuklar",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Radyo modu",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Tümü",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Ağ",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Yetkili",
+  "CLIENT_TABLE_STATUS_PENDING": "Beklemede",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Yapılandırılmış tüm istemciler",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "İstemci Ekle",
+
+  "CLIENT_ADD_TITLE": "İstemci ekle",
+  "CLIENT_ADD_EDIT_TITLE": "İstemcileri düzenle",
+  "CLIENT_ADD_LIST_TITLE": "Bekleyen değişiklikleri olan istemciler",
+
+  "CLIENT_ADD_LABEL_MAC": "MAC Adresi",
+  "CLIENT_ADD_LABEL_ALIAS": "Cihaz adı",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Kullanıcı Grubu",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Sabit IP",
+  "CLIENT_ADD_LABEL_NETWORK": "Ağ",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "IP Adresi",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "Bu IP adresi zaten ekli",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "Bu MAC adresi zaten ekli",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Bu MAC adresi zaten kullanılıyor",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Multicast MAC adresi eklenemez",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Broadcast MAC adresi eklenemez",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "İstemi Ekle",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "MAC Adresi",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Cihaz adı",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Kullanıcı Grubu",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Ağ",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "IP Adresi",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {1 istemciyi çıkart} other {# istemciyi çıkart}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Halihazırda listeye eklenmiş 1 istemciyi çıkarmak istiyor musunuz?} other {Halihazırda listeye eklenmiş  # istemciyi çıkarmak istiyor musunuz?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Varsayılan",
+  "CLIENT_COLUMNS_PRESET_ALL": "Tüm sütunlar"
+}

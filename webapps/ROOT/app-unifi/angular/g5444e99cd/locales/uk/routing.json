@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Інтерфейс",
+  "ROUTING_TABLE_HEADER_METRIC": "Metric",
+  "ROUTING_TABLE_HEADER_PREFIX": "Prefix",
+  "ROUTING_TABLE_HEADER_TYPE": "Тип",
+  "ROUTING_TABLE_HEADER_VIA": "Via",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "No routes returned.",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "When a route is added to your network it will automatically show up in this list.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "No routes match that search criteria."
+}

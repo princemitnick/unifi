@@ -1,0 +1,14 @@
+{
+  "DPI_APPS_TABLE_HEADER_NAME": "Název aplikace",
+  "DPI_APPS_TABLE_HEADER_USER_COUNT": "Aktivní uživatelé",
+  "DPI_APPS_TABLE_HEADER_UP": "Up",
+  "DPI_APPS_TABLE_HEADER_DOWN": "Down",
+
+  "DPI_APPS_TABLE_UNKNOWN_APP": "Neznámá",
+
+  "DPI_APPS_TABLE_EMPTY_HEADER": "Žádné DPI údaje",
+  "DPI_APPS_TABLE_EMPTY_NO_DATA": "Pro zvolené kategorie neexistují žádné DPI údaje.",
+
+  "DPI_OVERVIEW_GRID_EMPTY_HEADER": "Nebyly vybrány žádné kategorie",
+  "DPI_OVERVIEW_GRID_EMPTY_NO_DATA": "Nebyly vybrány žádné DPI kategorie"
+}

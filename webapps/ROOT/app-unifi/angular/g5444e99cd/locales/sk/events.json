@@ -1,0 +1,3 @@
+{
+  "EVENT_TITLE_UNREAD_ALERTS": "{count, plural, one {Neprečítaná výstraha} few {Neprečítané výstrahy} many {Neprečítaných výstrah} other {Neprečítaných výstrah}}"
+}

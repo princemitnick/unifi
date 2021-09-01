@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Gränssnitt",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "Fjärr IP",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Användare",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Paket ner",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Paket upp",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Bytes ner",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Bytes upp",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Körtid",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Åtgärder",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Avsluta",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "Inga pågående sessioner hittades",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "För närvarande finns det inga aktiva VPN-sessioner från fjärranvändare.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "Inga VPN-sessioner från fjärranvändare matchade sökkriteriet.",
+
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Vänligen bekräfta",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Är du säker att du till avsluta denna fjärranvändarens VPN anslutning?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Anslutningen avslutad",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Fel uppstod vid anslutningens avslutning"
+}

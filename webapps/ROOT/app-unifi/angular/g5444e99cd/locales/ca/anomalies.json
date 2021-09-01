@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Senyal feble",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Mou el teu dispositiu més a prop del Punt d'accés més proper",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Velocitat PHY baixa",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Mou el teu dispositiu més a prop del Punt d'accés més proper",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "Pèdua alta de paquets TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Comprova el teu encaminador, la connexió amb el teu Proveïdor d'Internet o el servei web que utilitza el client",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Latència TCP alta",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Comprova la connexió a internet",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Latència TCP alta",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Utilitza un encaminador que tingui habilitada la gestió de tràfic, com les Cues intel·ligents en un UDM o un USG",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Latència TCP alta",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Habilita les Cues intel·ligents en la Configuració de la teva interfície WAN",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "Nombre de reintents Wi-Fi alt",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Considera canviar a un altre canal",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Latència WiFi alta",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Considera canviar a un altre canal",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "Temps exhaurit del DHCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Comprova que es pugui accedir al teu servidor DHCP i estigui configurat correctament",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "Temps exhaurit de l'ARP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Comprova que es pugui accedir a la Porta d'enllaç des d'aquest dispositiu",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "Temps exhaurit del DNS",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Comprova que es pugui accedir al teu servidor DNS i estigui configurat correctament",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "Latència DNS alta",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Comprova que es pugui accedir al teu servidor DNS i estigui configurat correctament"
+}

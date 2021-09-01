@@ -1,0 +1,20 @@
+{
+  "STREAMS_ACTIONS_TERMINATE": "Yayını sonlandır",
+  "STREAMS_ACTIONS_TERMINATE_SUCCESS": "{{streamId}} yayını durduruldu.",
+  "STREAMS_ACTIONS_TERMINATE_ERROR": "{{streamId}} yayını durdurulurken bir hata meydana geldi.",
+
+  "STREAMS_FILTER_TITLE_STREAM": "Yayın",
+  "STREAMS_FILTER_ALL_STREAMS": "Tümü",
+
+  "STREAMS_TABLE_EMPTY_HEADER": "Yayın bulunamadı",
+  "STREAMS_TABLE_EMPTY_NO_MATCHES": "Arama ölçütlerine uygun yayın bulunamadı.",
+  "STREAMS_TABLE_EMPTY_NO_STREAMS": "Henüz bir yayın bulunamadı",
+
+  "STREAMS_TABLE_HEADER_CONNECTED": "Bağlı",
+  "STREAMS_TABLE_HEADER_DEVICE": "Cihaz",
+  "STREAMS_TABLE_HEADER_READY": "Hazır",
+  "STREAMS_TABLE_HEADER_STREAMING": "Yayınlanıyor",
+  "STREAMS_TABLE_HEADER_STREAM_ID": "Yayın",
+
+  "STREAMS_VIEW_ALL": "Tümü"
+}

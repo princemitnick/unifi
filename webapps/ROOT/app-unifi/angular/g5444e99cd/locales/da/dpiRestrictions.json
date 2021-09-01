@@ -1,0 +1,86 @@
+{
+  "DPI_RESTRICTION_HEADER_EDIT": "Rediger gruppe begrænsning",
+  "DPI_RESTRICTION_HEADER_ADD": "Tilføj begrænsning til gruppe",
+
+  "DPI_RESTRICTION_ACTION_ADD_CATEGORY": "Tilføj begrænsnings kategori",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION_GROUP": "Opret ny begrænsnings gruppe",
+  "DPI_RESTRICTION_ACTION_ADD_RESTRICTION": "Tilføj begrænsning",
+
+  "DPI_RESTRICTION_LABEL_GROUP": "Gruppe",
+  "DPI_RESTRICTION_LABEL_CATEGORY": "Kategori",
+  "DPI_RESTRICTION_LABEL_APPLICATION": "Program",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_CATEGORIES": "Begrænsede Kategorier",
+  "DPI_RESTRICTION_LABEL_RESTRICTED_APPLICATIONS": "Begrænsede Applikationer",
+  "DPI_RESTRICTION_LABEL_ENABLED": "Aktiveret",
+  "DPI_RESTRICTION_LABEL_BLOCK": "Blokér",
+  "DPI_RESTRICTION_LABEL_LIMIT_DOWN": "Begrænsning ned",
+  "DPI_RESTRICTION_LABEL_LIMIT_UP": "Begrænsning op",
+  "DPI_RESTRICTION_LABEL_LOG_TRAFFIC": "Log Trafik",
+
+  "DPI_RESTRICTION_VALUES_LOG_TRAFFIC": "Aktivér logtrafik, der matcher denne begrænsning",
+  "DPI_RESTRICTION_VALUES_ENABLED": "Aktivér denne begrænsning",
+  "DPI_RESTRICTION_VALUES_BLOCK": "Blokér alt matchende trafik",
+
+  "DPI_RESTRICTION_OPTION_SELECT_GROUP": "Vælg gruppe",
+  "DPI_RESTRICTION_OPTION_SELECT_CATEGORY": "Vælg kategori",
+  "DPI_RESTRICTION_OPTION_ALL_APPLICATIONS": "Alle programmer",
+
+  "DPI_RESTRICTION_DELETE_HEADER": "Slet DPI begrænsning",
+  "DPI_RESTRICTION_DELETE_CONFIRM": "Er du sikker på du vil slette DPI begrænsningen?",
+  "DPI_RESTRICTION_DELETE_SUCCESS": "DPI begrænsningen blev slettet.",
+  "DPI_RESTRICTION_DELETE_ERROR": "Der var en fejl ved sletning af DPI begrænsning.",
+  "DPI_RESTRICTION_SAVE_SUCCESS": "DPI begrænsningen blev gemt.",
+  "DPI_RESTRICTION_SAVE_ERROR": "Der var en fejl ved gem af DPI begrænsning.",
+
+  "DPI_RESTRICTION_GROUP": "Begrænsningsgruppe",
+  "DPI_RESTRICTION_GROUP_CREATE_MODAL_TITLE": "Opret begrænsningsgruppe",
+  "DPI_RESTRICTION_GROUP_EDIT_MODAL_TITLE": "Ret begrænsningsgruppe",
+  "DPI_RESTRICTION_GROUP_NAME": "Gruppenavn",
+
+  "DPI_RESTRICTION_GROUP_SAVE_SUCCESS": "DPI begrænsnings gruppen blev gemt.",
+  "DPI_RESTRICTION_GROUP_SAVE_ERROR": "Der var en fejl ved gem af DPI begrænsnings gruppe.",
+
+  "DPI_RESTRICTION_GROUP_DELETE_HEADER": "Fjern DPI begrænsnings gruppe",
+  "DPI_RESTRICTION_GROUP_DELETE_CONFIRM": "Sikker på at du vil slette DPI begrænsnings gruppen \"{{groupName}}\"?",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {DPI begrænsningsgruppen \"{groupName}\" har 1 begrænsning. Ønsker du at slette gruppen og dens indhold?} other {DPI begrænsningsgruppen \"{groupName}\" har # begrænsninger. Ønsker du at slette gruppen og dens indhold?}}",
+  "DPI_RESTRICTION_GROUP_WITH_ASSIGNMENTS_DELETE_CONFIRM": "{assignmentsNumber, plural, one {DPI begrænsningsgruppen \"{groupName}\" har 1 tilknytning. Ønsker du at slette gruppen og dens tilknytning?} other {DPI begrænsningsgruppen \"{groupName}\" har # tilknytninger. Ønsker du at slette gruppen og dens tilknytninger?}}",
+  "DPI_RESTRICTION_GROUP_WITH_RESTRICTIONS_AND_ASSIGNMENTS_DELETE_CONFIRM": "{restrictionsNumber, plural, one {DPI begrænsningsgruppen \"{groupName}\" har 1 begrænsning og {assignmentsNumber, plural, one{1 tilknytning} other{# tilknytninger}}. Ønsker du at slette gruppen og dens indhold samt tilknytninger?} other {DPI begrænsningsgruppen \"{groupName}\" har # begrænsninger og {assignmentsNumber, plural, one{1 tilknytning} other{# tilknytninger}}. Ønsker du at slette gruppen og dens indhold samt tilknytninger?}}",
+  "DPI_RESTRICTION_GROUP_DELETE_SUCCESS": "DPI begrænsnings gruppen blev slettet.",
+  "DPI_RESTRICTION_GROUP_DELETE_ERROR": "Der var en fejl ved slet af DPI begrænsnings gruppe.",
+
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_CAT_OR_APP": "Kategori/App",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ENABLED": "Aktiveret",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_BLOCKED": "Blokeret",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LOG_TRAFFIC": "Log Trafik",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_UP": "Begrænsning Op",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_LIMIT_DOWN": "Begrænsning Ned",
+  "DPI_RESTRICTIONS_TABLE_HEADER_NAME_ACTIONS": "Handlinger",
+
+  "DPI_RESTRICTIONS_TABLE_VALUE_UNLIMITED": "Ubegrænset",
+
+  "DPI_RESTRICTIONS_NO_DATA" : "Ingen begrænsninger er tilføjet til denne gruppe.",
+
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_NETWORK": "Netværk",
+  "DPI_RESTRICTION_GROUP_ASSIGNMENTS_WIRELESS_NETWORK": "Trådløse Netværk",
+
+  "DPI_RESTRICTION_GROUP_ACTION_ASSIGN_NETWORK": "Tildel begrænsninger til netværket",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_HEADER": "Tildel DPI begrænsning til netværk",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NETWORK": "Netværk",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_NETWORK": "Vælg netværk",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SELECT_GROUP": "Vælg gruppe",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_NOTICE_NO_NETWORKS": "Alle tilgængelige netværk er allerede blevet tildelt begrænsninger.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_SUCCESS": "DPI begrænsning succesfuldt tildelt.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_SAVE_ERROR": "Der opstod en fejl ved tildeling af Trafik Statistik begrænsning.",
+
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_HEADER": "Trafik Statistik begrænsningsgruppe netværk tildelings fjernelse",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_CONFIRM": "Sikker på at du vil fjerne DPI begrænsningsgruppe netværk tildeling?",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_SUCCESS": "DPI begrænsningsgruppens netværk tildeling blev fjernet.",
+  "DPI_RESTRICTION_GROUP_NETWORK_ASSIGNMENT_DELETE_ERROR": "Fejl ved fjernelse af DPI begrænsningsgruppe netværk tildeling.",
+
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_WIRELESS_NETWORK": "Trådløst Netværk",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_HEADER_NETWORK": "Netværk",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_WIRELESS_NETWORK_EMPTY": " Ingen DPI begrænsning tildelt Trådløse Netværk",
+  "DPI_RESTRICTIONS_ASSIGNMENT_TABLE_NETWORK_EMPTY": " Ingen DPI begrænsning er blevet tildelt netværkene."
+}

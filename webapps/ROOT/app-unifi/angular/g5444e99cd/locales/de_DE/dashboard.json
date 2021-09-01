@@ -1,0 +1,53 @@
+{
+  "DASHBOARD_NAMES_SYSTEM_DEFAULT": "WLAN Metriken",
+  "DASHBOARD_NAMES_UNDEFINED": "Übersicht",
+
+  "DASHBOARD_MODULES_PANEL_PREVIEW_INACTIVE": "Widget hinzufügen",
+  "DASHBOARD_MODULES_PANEL_PREVIEW_ACTIVE": "Hinzugefügt",
+
+  "DASHBOARD_MODULES_PANEL_NO_MODULES": "Es sind bisher keine passenden Module verfügbar.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TITLE": "Übersichten verwalten",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTION_CLOSE": "Schließen",
+
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_NAME": "Übersicht",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_DESC": "Beschreibung",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_HEADER_ACTIONS": "Aktionen",
+  "DASHBOARD_DASHBOARDS_PANEL_TABLE_EMPTY": "Es wurde keine Übersicht gefunden.",
+
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_ACTIVATE": "Offen",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EDIT": "Bearbeiten",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_DELETE": "Löschen",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SUBSCRIBE": "Abonnieren",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSUBSCRIBE": "Abmelden",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_SHARE": "Teilen",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_UNSHARE": "Nicht mehr teilen",
+  "DASHBOARD_DASHBOARDS_PANEL_ACTIONS_EXPORT": "Exportieren",
+
+  "DASHBOARD_FORM_TITLE_ADD": "Benutzerdefinierte Übersicht hinzufügen",
+  "DASHBOARD_FORM_TITLE_EDIT": "Übersicht Information bearbeiten",
+  "DASHBOARD_FORM_VALUE_FILENAME_UPLOADED": "Dateiname: <strong>{{filename}}</strong>",
+  "DASHBOARD_FORM_VALUE_FILENAME_MISSING": "Dateiname: <em>Ungültig oder nicht vorhanden</em>",
+  "DASHBOARD_FORM_LABEL_NAME": "Übersichtsname",
+  "DASHBOARD_FORM_LABEL_DESCRIPTION": "Beschreibung",
+  "DASHBOARD_FORM_LABEL_IMPORT": "Oder Übersichts-Datei importieren",
+  "DASHBOARD_FORM_CLEAR_UPLOAD": "Upload löschen",
+  "DASHBOARD_FORM_UPLOAD_TEXT": "Ziehen & Ablegen oder",
+  "DASHBOARD_FORM_UPLOAD_LINK": "Dateien durchsuchen",
+
+  "DASHBOARD_ACTIONS_CREATE_ERROR": "Beim Anlegen einer neuen Übersicht ist ein Fehler aufgetreten.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INVALID_FILE": "Ungültige Übersichts-Datei. Nur Dateien, die von einem UniFi Controller exportiert wurden, können hier importiert werden.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_FILE": "Fehlende Importdatei",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_MISSING_MODULES": "Die importierte Übersicht hat keine Widgets.",
+  "DASHBOARD_ACTIONS_IMPORT_ERROR_INCOMPATIBLE_MODULES": "Die Übersicht wurde in Version {{dashboardControllerVersion}} des UniFi Controllers erstellt. Dieser Controller verwendet Version {{currentControllerVersion}}. Bitte auf eine neuere Version aktualisieren, um alle Widgets in der Übersicht benutzen zu können.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR": "Beim Speichern der Übersicht {{name}} ist ein Fehler aufgetreten.",
+  "DASHBOARD_ACTIONS_SAVE_ERROR_READ_ONLY": "Die Übersicht {{name}} kann nicht gespeichert werden. Sie ist schreibgeschützt.",
+  "DASHBOARD_ACTIONS_REMOVE_ERROR": "Beim Löschen der Übersicht {{name}} ist ein Fehler aufgetreten.",
+
+  "DASHBOARD_SWITCHER_ITEM_EDIT_MODULES": "Widgets bearbeiten",
+  "DASHBOARD_SWITCHER_ITEM_MANAGE_DASHBOARDS": "Übersichten verwalten",
+  "DASHBOARD_SWITCHER_ITEM_ADD_DASHBOARD": "Benutzerdefinierte Übersicht hinzufügen",
+  "DASHBOARD_SWITCHER_ITEM_DONE_EDITING": "Fertig",
+
+  "DASHBOARD_ALERT_CUSTOMIZE_DASHBOARD": "Übersicht anpassen"
+}

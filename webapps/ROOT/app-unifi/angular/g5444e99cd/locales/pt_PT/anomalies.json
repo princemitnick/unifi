@@ -1,0 +1,37 @@
+{
+  "CLIENT_ANOMALY_UBNT_WEAK_SIGNAL": "Sinal fraco",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_WEAK_SIGNAL": "Por favor, mova seu dispositivo para mais perto do UAP mais próximo",
+
+  "CLIENT_ANOMALY_UBNT_LOW_PHY_RATE": "Taxa baixa de PHY",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_LOW_PHY_RATE": "Por favor, mova seu dispositivo para mais perto do UAP mais próximo",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_PACKET_LOSS": "Alta Perda de Pacotes TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_PACKET_LOSS": "Por favor, verifique o seu router, ligação ISP ou serviço da web que o cliente está a usar",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY": "Alta Latência TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY": "Please verify your internet connection",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Alta Latência TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_GATEWAY": "Please use a router that has traffic shaping enabled, such as Smart Queues on UDM or USG",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Alta Latência TCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_TCP_LATENCY_NO_SMART_QUEUES": "Please enable Smart Queues at your WAN interface in Settings",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_RETRIES": "Alto número de tentativas de WiFi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_RETRIES": "Por favor, considere mudar para outro canal",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_WIFI_LATENCY": "Alta latência WiFi",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_WIFI_LATENCY": "Por favor, considere mudar para outro canal",
+
+  "CLIENT_ANOMALY_UBNT_IP_TIMEOUT": "Tempo limite do DHCP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_IP_TIMEOUT": "Por favor, verifique se o servidor DHCP está acessível e configurado corretamente",
+
+  "CLIENT_ANOMALY_UBNT_ARP_TIMEOUT": "Tempo limite de ARP",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_ARP_TIMEOUT": "Por favor, verifique se o seu Gateway está acessível a partir deste dispositivo",
+
+  "CLIENT_ANOMALY_UBNT_DNS_TIMEOUT": "Tempo limite de DNS",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_DNS_TIMEOUT": "Por favor, verifique se o servidor DNS está acessível e configurado corretamente",
+
+  "CLIENT_ANOMALY_UBNT_HIGH_DNS_LATENCY": "Alta latência de DNS",
+  "CLIENT_ANOMALY_RECOMENDATION_UBNT_HIGH_DNS_LATENCY": "Por favor, verifique se o servidor DNS está acessível e configurado corretamente"
+}
